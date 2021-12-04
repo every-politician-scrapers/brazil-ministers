@@ -76,6 +76,12 @@ if [ ${#warnings[@]} -gt 0 ]; then
   printf '\t%s\n' "${warnings[@]}"
 fi
 
+warnings=($(qsv frequency -s position html/current.csv -l 0 | qsv search -s count -v '^1$' | qsv select field,value | qsv behead))
+if [ ${#warnings[@]} -gt 0 ]; then
+  echo "Multiple holders:"
+  printf '\t%s\n' "${warnings[@]}"
+fi
+
 warnings=($(qsv search -s dobp -v 11 $BIO_CSV | qsv select id,name,dob,dobp | qsv sort -N -s dobp | qsv behead))
 if [ ${#warnings[@]} -gt 0 ]; then
   echo "Missing/short DOB:"
