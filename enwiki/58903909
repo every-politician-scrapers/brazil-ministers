@@ -1,0 +1,138 @@
+{
+  "title": "Romeu Zema",
+  "pageID": 58903909,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Governors of Minas Gerais",
+    "New Party (Brazil) politicians",
+    "Liberal Party (Brazil, 2006) politicians",
+    "Fundação Getulio Vargas alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Romeu Zema Neto (born 28 October 1964) is a Brazilian businessman and the current Governor of the state of Minas Gerais.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minas Gerais"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Romeu Zema Neto"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1964",
+          "month": "10",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Romeu Zema Neto"
+          },
+          "image": {
+            "text": "Romeu Zema em janeiro de 2019.jpg"
+          },
+          "office": {
+            "text": "Governor of Minas Gerais",
+            "links": [
+              {
+                "text": "Governor of Minas Gerais",
+                "type": "internal",
+                "page": "List of Governors of Minas Gerais"
+              }
+            ]
+          },
+          "vicegovernor": {
+            "text": "Paulo Brant"
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "predecessor": {
+            "text": "Fernando Pimentel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando Pimentel"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 28, 1964"
+          },
+          "birth_place": {
+            "text": "Araxá, Minas Gerais, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Araxá"
+              },
+              {
+                "type": "internal",
+                "page": "Minas Gerais"
+              }
+            ]
+          },
+          "party": {
+            "text": "NOVO (since 2018)",
+            "links": [
+              {
+                "text": "NOVO",
+                "type": "internal",
+                "page": "New Party (Brazil)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Fundação Getúlio Vargas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fundação Getúlio Vargas"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PL (2000-2018)",
+            "links": [
+              {
+                "text": "PL",
+                "type": "internal",
+                "page": "Liberal Party (Brazil, 2006)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/10/empresario-do-partido-novo-romeu-zema-e-eleito-governador-de-mg.shtml",
+          "title": "Empresário do Partido Novo Romeu Zema é eleito governador de MG",
+          "date": "28 October 2018",
+          "website": "Folha de S.Paulo",
+          "accessdate": "27 January 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

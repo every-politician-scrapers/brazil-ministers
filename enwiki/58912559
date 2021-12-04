@@ -1,0 +1,219 @@
+{
+  "title": "Eduardo Leite",
+  "pageID": 58912559,
+  "categories": [
+    "1985 births",
+    "Living people",
+    "Brazilian Social Democracy Party politicians",
+    "Governors of Rio Grande do Sul",
+    "People from Pelotas",
+    "Federal University of Pelotas alumni",
+    "LGBT politicians from Brazil",
+    "Gay politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eduardo Figueiredo Cavalheiro Leite (born 10 March 1985) is the governor of the state of Rio Grande do Sul.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rio Grande do Sul"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eduardo Figueiredo Cavalheiro Leite"
+                ]
+              }
+            },
+            {
+              "text": "He won with 53.62% of the vote during the state's 2018 elections."
+            },
+            {
+              "text": "Leite was elected governor at 33 years old, becoming the youngest governor in Brazil."
+            },
+            {
+              "text": "In July 2021, Eduardo Leite came out as gay during an interview for the Brazilian talk show Conversa com Bial, thus becoming the first openly gay governor in Brazil's history.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Conversa com Bial"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Conversa com Bial"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "first": "Figueiredo",
+          "second": "Cavalheiro Leite",
+          "template": "portuguese name"
+        },
+        {
+          "list": [
+            "the lawyer",
+            "Eduardo C. Leite"
+          ],
+          "template": "for"
+        },
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1985",
+          "month": "3",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Eduardo Leite em 3 de julho de 2017.jpg"
+          },
+          "caption": {
+            "text": "Leite in July 2017"
+          },
+          "office": {
+            "text": "Governor of Rio Grande do Sul",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Rio Grande do Sul"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "vicegovernor": {
+            "text": "Ranolfo Vieira Júnior"
+          },
+          "predecessor": {
+            "text": "José Ivo Sartori",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Ivo Sartori"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Mayor of Pelotas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pelotas"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Vice Mayor"
+          },
+          "1namedata1": {
+            "text": "Paula Mascarenhas"
+          },
+          "term_start1": {
+            "text": "1 January 2013"
+          },
+          "term_end1": {
+            "text": "31 December 2016"
+          },
+          "predecessor1": {
+            "text": "Adolfo Antônio Fetter Júnior"
+          },
+          "successor1": {
+            "text": "Paula Mascarenhas"
+          },
+          "office2": {
+            "text": "President of the Municipal Chamber of Pelotas"
+          },
+          "term_start2": {
+            "text": "1 January 2011"
+          },
+          "term_end2": {
+            "text": "1 January 2013"
+          },
+          "predecessor2": {
+            "text": "Milton Rodrigues Martins"
+          },
+          "successor2": {
+            "text": "Professor Adinho"
+          },
+          "office3": {
+            "text": "City Councillor of Pelotas"
+          },
+          "term_start3": {
+            "text": "1 January 2009"
+          },
+          "term_end3": {
+            "text": "1 January 2013"
+          },
+          "birth_name": {
+            "text": "Eduardo Figueiredo Cavalheiro Leite"
+          },
+          "birth_date": {
+            "text": "March 10, 1985"
+          },
+          "birth_place": {
+            "text": "Pelotas, Rio Grande do Sul, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pelotas"
+              },
+              {
+                "type": "internal",
+                "page": "Rio Grande do Sul"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSDB",
+            "links": [
+              {
+                "text": "PSDB",
+                "type": "internal",
+                "page": "Brazilian Social Democracy Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Federal University of Pelotas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Federal University of Pelotas"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Eduardo Leite, governador do RS, fala sobre homossexualidade em entrevista a Bial: 'Eu sou gay. E tenho orgulho disso'",
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2021/07/01/governador-do-rs-assume-homossexualidade-em-entrevista-a-bial.ghtml",
+          "access-date": "2021-07-02",
+          "website": "G1",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

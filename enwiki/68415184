@@ -1,0 +1,164 @@
+{
+  "title": "Bruno Bianco",
+  "pageID": 68415184,
+  "categories": [
+    "1982 births",
+    "Living people",
+    "People from São Paulo (state)",
+    "21st-century Brazilian lawyers",
+    "Government ministers of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bruno Bianco Leal (born 1982) is a Brazilian attorney and politician currently serving as the as Attorney General of Brazil in the administration of President Jair Bolsonaro since August 2021 replacing André Mendonça.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Attorney General of Brazil"
+                },
+                {
+                  "text": "administration",
+                  "type": "internal",
+                  "page": "Bolsonaro administration cabinet members"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "type": "internal",
+                  "page": "André Mendonça"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bruno Bianco Leal"
+                ]
+              }
+            },
+            {
+              "text": "Also known as \"Mickey da Previdência\" (\"Social security Mickey Mouse\")."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "birth_year": "1982",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bruno Bianco"
+          },
+          "image": {
+            "text": "Bruno Bianco.jpg"
+          },
+          "office": {
+            "text": "Attorney General of the Union",
+            "links": [
+              {
+                "text": "Attorney General of the Union",
+                "type": "internal",
+                "page": "Attorney General of Brazil"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "André Mendonça",
+            "links": [
+              {
+                "type": "internal",
+                "page": "André Mendonça"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Bruno Bianco Leal"
+          },
+          "birth_date": {
+            "text": "1982 (age 39)"
+          },
+          "birth_place": {
+            "text": "São Paulo, Brazil",
+            "links": [
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://g1.globo.com/politica/noticia/2021/08/06/bolsonaro-nomeia-bruno-bianco-para-o-lugar-de-andre-mendonca-na-agu.ghtml",
+          "title": "Indicado para o STF, Mendonça deixa AGU; Bruno Bianco assume o cargo",
+          "website": "G1",
+          "date": "6 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cnnbrasil.com.br/politica/2021/08/05/bolsonaro-ja-teria-comunicado-a-ministros-escolha-de-bruno-bianco-para-a-agu",
+          "title": "Bolsonaro confirma que nomeará Bruno Bianco como ministro da AGU",
+          "website": "CNN",
+          "date": "6 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/economia/noticia/2019/04/17/mickey-da-previdencia-secretario-da-pasta-bruno-bianco-usa-as-redes-para-divulgar-o-projeto-da-reforma.ghtml",
+          "title": "'Mickey da Previdência': secretário da pasta, Bruno Bianco usa as redes para divulgar o projeto da reforma",
+          "website": "G1",
+          "date": "17 April 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://noticias.r7.com/brasil/bruno-bianco-e-confirmado-como-novo-advogado-geral-da-uniao-06082021",
+          "title": "Bruno Bianco é confirmado como novo advogado-geral da União",
+          "website": "R7",
+          "date": "6 August 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Roberto Campos Neto",
+  "pageID": 59082974,
+  "categories": [
+    "Presidents of the Central Bank of Brazil",
+    "Brazilian economists",
+    "1969 births",
+    "Living people",
+    "People named in the Pandora Papers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Roberto de Oliveira Campos Neto (born 28 June 1969) is a Brazilian economist, former executive of Banco Santander, and current president of Central Bank of Brazil.",
+              "links": [
+                {
+                  "text": "Banco Santander",
+                  "type": "internal",
+                  "page": "Santander Brasil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Brazil"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Roberto de Oliveira Campos Neto"
+                ]
+              }
+            },
+            {
+              "text": "He is the grandson of Brazilian politician and economist Roberto de Oliveira Campos.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roberto de Oliveira Campos"
+                }
+              ]
+            },
+            {
+              "text": "\"Neto\" is not his surname, but a suffix that means grandson in Portuguese, and is used for those with the same name as their grandfather."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 November 2018 Campos Neto was announced as the future President of the Central Bank of Brazil in the administration of Jair Bolsonaro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Bank of Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1969",
+          "month": "6",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "President of the Central Bank of Brazil",
+            "links": [
+              {
+                "text": "President of the Central Bank of Brazil",
+                "type": "internal",
+                "page": "Central Bank of Brazil",
+                "anchor": "Presidents"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 February 2019"
+          },
+          "appointer": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ilan Goldfajn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ilan Goldfajn"
+              }
+            ]
+          },
+          "name": {
+            "text": "Roberto Campos Neto"
+          },
+          "image": {
+            "text": "Roberto Campos Neto (cropped).jpg"
+          },
+          "birth_name": {
+            "text": "Roberto de Oliveira Campos Neto"
+          },
+          "birth_date": {
+            "text": "June 28, 1969"
+          },
+          "alma_mater": {
+            "text": "University of California, Los Angeles California Institute of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of California, Los Angeles"
+              },
+              {
+                "type": "internal",
+                "page": "California Institute of Technology"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

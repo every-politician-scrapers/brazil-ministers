@@ -1,0 +1,149 @@
+{
+  "title": "Paulo Câmara",
+  "pageID": 49784002,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "Brazilian Socialist Party politicians",
+    "Brazilian Democratic Movement politicians",
+    "Governors of Pernambuco",
+    "People from Recife"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paulo Henrique Saraiva Câmara (born August 8, 1972 in Recife) is a Brazilian politician.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paulo Henrique Saraiva Câmara"
+                ]
+              }
+            },
+            {
+              "text": "He became Governor of Pernambuco on January 1, 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of Pernambuco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a member of the PMDB, from 1985 to 1990.",
+              "links": [
+                {
+                  "text": "PMDB",
+                  "type": "internal",
+                  "page": "Brazilian Democratic Movement Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "1972",
+            "08",
+            "8"
+          ],
+          "template": "birthdate and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Paulo Câmara"
+          },
+          "image": {
+            "text": "Paulo_Câmara_Gov_PE_2016.jpg"
+          },
+          "office1": {
+            "text": "Governor of Pernambuco",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Pernambuco"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 1, 2015"
+          },
+          "birth_place": {
+            "text": "Recife, PE",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recife"
+              },
+              {
+                "text": "PE",
+                "type": "internal",
+                "page": "Pernambuco"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Paulo Henrique Saraiva Câmara"
+          },
+          "party": {
+            "text": "PSB (1990–present)",
+            "links": [
+              {
+                "text": "PSB",
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Ana Luiza Câmara"
+          },
+          "profession": {
+            "text": "Economist",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economist"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://g1.globo.com/pernambuco/eleicoes/2014/noticia/2014/10/paulo-camara-do-psb-e-eleito-governador-de-pernambuco.html",
+          "title": "Paulo Câmara, do PSB, é eleito governador de Pernambuco",
+          "publisher": "G1",
+          "date": "October 5, 2014",
+          "language": "pt",
+          "accessdate": "March 15, 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

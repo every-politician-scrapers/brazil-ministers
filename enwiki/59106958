@@ -1,0 +1,183 @@
+{
+  "title": "Mauro Mendes",
+  "pageID": 59106958,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People from Anápolis",
+    "Democrats (Brazil) politicians",
+    "Governors of Mato Grosso"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mauro Mendes Ferreira (born 12 April 1964) is a Brazilian politician.",
+              "formatting": {
+                "bold": [
+                  "Mauro Mendes Ferreira"
+                ]
+              }
+            },
+            {
+              "text": "He is the former mayor of Cuiabá and is the governor of Mato Grosso, having been elected in the 2018 election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cuiabá"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mato Grosso"
+                },
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 Brazilian gubernatorial elections"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Democrats.",
+              "links": [
+                {
+                  "text": "Democrats",
+                  "type": "internal",
+                  "page": "Democrats (Brazil)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "4",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Congressos. Seminários. Palestras (18717240209).jpg"
+          },
+          "office": {
+            "text": "Governor of Mato Grosso",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "List of Governors of Mato Grosso"
+              },
+              {
+                "type": "internal",
+                "page": "Mato Grosso"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "vicegovernor": {
+            "text": "Otaviano Pivetta"
+          },
+          "predecessor": {
+            "text": "Pedro Taques",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Taques"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Mayor of Cuiabá",
+            "links": [
+              {
+                "text": "Mayor",
+                "type": "internal",
+                "page": "List of mayors of Cuiabá"
+              },
+              {
+                "type": "internal",
+                "page": "Cuiabá"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2013"
+          },
+          "term_end1": {
+            "text": "1 January 2017"
+          },
+          "predecessor1": {
+            "text": "Chico Galindo"
+          },
+          "successor1": {
+            "text": "Emanuel Pinheiro"
+          },
+          "birth_place": {
+            "text": "Anápolis, Goiás, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anápolis"
+              },
+              {
+                "type": "internal",
+                "page": "Goiás"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Mauro Mendes Ferreira"
+          },
+          "birth_date": {
+            "text": "April 12, 1964"
+          },
+          "party": {
+            "text": "DEM",
+            "links": [
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Federal University of Mato Grosso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Federal University of Mato Grosso"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Virgínia Mendes"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

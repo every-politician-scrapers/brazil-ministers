@@ -1,0 +1,374 @@
+{
+  "title": "Marcos Pontes",
+  "pageID": 1187714,
+  "categories": [
+    "Brazilian astronauts",
+    "Brazilian engineers",
+    "1963 births",
+    "Living people",
+    "People from Bauru",
+    "Recipients of the National Order of Merit (Brazil)",
+    "Astronaut-politicians",
+    "Writers from São Paulo",
+    "Social Liberal Party (Brazil) politicians",
+    "Brazilian Socialist Party politicians",
+    "Ministers of Science and Technology of Brazil",
+    "Spaceflight participants",
+    "Brazilian autobiographers",
+    "Amateur radio people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marcos Cesar Pontes (born 11 March 1963) is a Brazilian Air Force pilot, engineer, AEB astronaut and author.",
+              "links": [
+                {
+                  "text": "engineer",
+                  "type": "internal",
+                  "page": "engineer"
+                },
+                {
+                  "text": "AEB",
+                  "type": "internal",
+                  "page": "Agência Espacial Brasileira"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marcos Cesar Pontes"
+                ]
+              }
+            },
+            {
+              "text": "He became the first South American and the first Lusophone to go into space when he docked onto the International Space Station aboard Soyuz TMA-8 on March 30, 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lusophone"
+                },
+                {
+                  "type": "internal",
+                  "page": "Soyuz TMA-8"
+                }
+              ]
+            },
+            {
+              "text": "He is the only Brazilian to have completed the NASA astronaut training program, although he switched to training in Russia after NASA's Space Shuttle program encountered problems.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NASA"
+                },
+                {
+                  "type": "internal",
+                  "page": "Space Shuttle"
+                }
+              ]
+            },
+            {
+              "text": "After Jair Bolsonaro's election as President of Brazil in 2018, Pontes was officially nominated to be Minister of Science, Technology and Innovation, a post which he accepted days later.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of Brazil"
+                },
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Brazilian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1963",
+          "month": "3",
+          "day": "11",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "fields": {
+            "text": "Systems Engineering",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Systems Engineering"
+              }
+            ]
+          },
+          "thesis_title": {
+            "text": "Polarization effects on infrared target contrast"
+          },
+          "thesis_url": {
+            "text": "https://archive.org/details/polarizationeffe00pont/mode/2up"
+          },
+          "thesis_year": {
+            "text": "1989",
+            "number": 1989
+          },
+          "academic_advisors": {
+            "text": "Alfred W. Cooper, David D. Cleary (thesis)"
+          }
+        },
+        {
+          "child": {
+            "text": "yes"
+          },
+          "image": {
+            "text": "Image:Marcos Pontes2.jpg"
+          },
+          "type": {
+            "text": "NASA astronaut",
+            "links": [
+              {
+                "type": "internal",
+                "page": "NASA"
+              },
+              {
+                "text": "astronaut",
+                "type": "internal",
+                "page": "astronaut"
+              }
+            ]
+          },
+          "status": {
+            "text": "Retired"
+          },
+          "selection": {
+            "text": "1998 NASA Group",
+            "links": [
+              {
+                "text": "1998 NASA Group",
+                "type": "internal",
+                "page": "List of astronauts by selection",
+                "anchor": "1998"
+              }
+            ]
+          },
+          "time": {
+            "text": "9d 21h 17m"
+          },
+          "mission": {
+            "text": "Soyuz TMA-8, Missão Centenário, Soyuz TMA-7",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Soyuz TMA-8"
+              },
+              {
+                "type": "internal",
+                "page": "Missão Centenário"
+              },
+              {
+                "type": "internal",
+                "page": "Soyuz TMA-7"
+              }
+            ]
+          },
+          "insignia": {
+            "text": "Soyuz TMA-8 Patch.png Missão Centenário (insignia).png Soyuz TMA-7 patch white.png"
+          },
+          "website": {
+            "text": "http://www.marcospontes.com"
+          }
+        },
+        {
+          "name": {
+            "text": "Marcos Pontes"
+          },
+          "image": {
+            "text": "Ministro Marcos Pontes (cropped).jpg"
+          },
+          "caption": {
+            "text": "Pontes at the presidential inauguration of Jair Bolsonaro",
+            "links": [
+              {
+                "text": "presidential inauguration",
+                "type": "internal",
+                "page": "Brazilian presidential inauguration"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Science, Technology and Innovation",
+            "links": [
+              {
+                "text": "Minister of Science, Technology and Innovation",
+                "type": "internal",
+                "page": "Ministry of Science, Technology and Innovation (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gilberto Kassab",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gilberto Kassab"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Marcos Cesar Pontes"
+          },
+          "birth_date": {
+            "text": "March 11, 1963"
+          },
+          "birth_place": {
+            "text": "Bauru, São Paulo, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bauru"
+              },
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSL (2018–present)",
+            "links": [
+              {
+                "text": "PSL",
+                "type": "internal",
+                "page": "Social Liberal Party (Brazil)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PSB (2013–2018)",
+            "links": [
+              {
+                "text": "PSB",
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Fighter pilot, astronaut",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fighter pilot"
+              },
+              {
+                "text": "astronaut",
+                "type": "internal",
+                "page": "astronaut"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Marcos Pontes autograph.jpg"
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "🇧🇷",
+                "type": "internal",
+                "page": "brazil"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Air Force.svg Brazilian Air Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Air Force"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Tenente-Coronel Aeronautica.gif Lieutenant colonel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieutenant colonel"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/bolsonaro-confirma-quatro-ministros-para-seu-governo",
+          "title": "Bolsonaro confirma quatro ministros para seu governo",
+          "publisher": "Agência Brasil",
+          "language": "pt",
+          "first": "Carolina",
+          "last": "Gonçalves",
+          "date": "October 28, 2018",
+          "access-date": "October 31, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/30/astronauta-marcos-pontes-diz-que-aceitou-convite-para-ser-ministro-de-ciencia-e-tecnologia.ghtml",
+          "title": "Astronauta Marcos Pontes diz que aceitou convite para ser ministro de Ciência e Tecnologia",
+          "publisher": "G1",
+          "language": "pt",
+          "date": "October 30, 2018",
+          "access-date": "October 31, 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.spacefacts.de/bios/international/english/pontes_marcos.htm",
+          "title": "Astronaut Biography: Marcos Pontes",
+          "website": "www.spacefacts.de",
+          "access-date": "Aug 28, 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

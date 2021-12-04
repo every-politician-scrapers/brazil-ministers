@@ -1,0 +1,190 @@
+{
+  "title": "Fátima Bezerra",
+  "pageID": 51277756,
+  "categories": [
+    "Living people",
+    "1955 births",
+    "Members of the Federal Senate",
+    "Workers' Party (Brazil) politicians",
+    "Members of the Chamber of Deputies (Brazil) from Rio Grande do Norte",
+    "Members of the Legislative Assembly of Rio Grande do Norte",
+    "Governors of Rio Grande do Norte",
+    "Women state governors of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Maria de Fátima Bezerra (born May 19, 1955) is a Brazilian politician.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Maria de Fátima Bezerra"
+                ]
+              }
+            },
+            {
+              "text": "She has been serving as Governor of Rio Grande do Norte since January 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rio Grande do Norte"
+                }
+              ]
+            },
+            {
+              "text": "Previously, she was a deputy from Rio Grande do Norte from 2003 to 2011."
+            },
+            {
+              "text": "She is a member of the Workers' Party.",
+              "links": [
+                {
+                  "text": "Workers' Party",
+                  "type": "internal",
+                  "page": "Workers' Party (Brazil)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1955",
+          "month": "5",
+          "day": "19",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Maria de Fátima Bezerra"
+          },
+          "image": {
+            "text": "File:Senadora Fátima Bezerra (Foto oficial).jpg"
+          },
+          "office": {
+            "text": "56th Governor of Rio Grande do Norte",
+            "links": [
+              {
+                "text": "Governor of Rio Grande do Norte",
+                "type": "internal",
+                "page": "List of governors of Rio Grande do Norte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "vicegovernor": {
+            "text": "Antenor Roberto"
+          },
+          "predecessor": {
+            "text": "Robinson Faria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robinson Faria"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator for Rio Grande do Norte",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Brazilian Senate"
+              },
+              {
+                "type": "internal",
+                "page": "Rio Grande do Norte"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "February 1, 2015"
+          },
+          "term_end1": {
+            "text": "January 1, 2019"
+          },
+          "office2": {
+            "text": "Federal Deputy for Rio Grande do Norte",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "February 1, 2003"
+          },
+          "term_end2": {
+            "text": "February 1, 2015"
+          },
+          "office3": {
+            "text": "State Deputy of Rio Grande do Norte"
+          },
+          "term_start3": {
+            "text": "February 1, 1995"
+          },
+          "term_end3": {
+            "text": "February 1, 2003"
+          },
+          "birth_date": {
+            "text": "May 19, 1955"
+          },
+          "birth_place": {
+            "text": "Nova Palmeira, Paraíba",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nova Palmeira"
+              },
+              {
+                "type": "internal",
+                "page": "Paraíba"
+              }
+            ]
+          },
+          "party": {
+            "text": "Workers' Party",
+            "links": [
+              {
+                "text": "Workers' Party",
+                "type": "internal",
+                "page": "Workers' Party (Brazil)"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Teacher"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Senadora Fátima Bezerra",
+          "url": "http://www25.senado.leg.br/web/senadores/senador/-/perfil/3713",
+          "work": "Federal Senate",
+          "accessdate": "August 8, 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

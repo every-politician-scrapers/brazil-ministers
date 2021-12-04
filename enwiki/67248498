@@ -1,0 +1,165 @@
+{
+  "title": "Carlos Alberto França",
+  "pageID": 67248498,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Foreign ministers of Brazil",
+    "People from Goiânia",
+    "Brazilian diplomats",
+    "University of Brasília alumni",
+    "21st-century Brazilian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Alberto Franco França (born in 1964) is a Brazilian diplomat and Brazil's current Minister of Foreign Affairs.",
+              "links": [
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomat"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Brazil)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Alberto Franco França"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed by President Jair Bolsonaro on the 29th of March 2021 to replace outgoing Minister Ernesto Araújo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ernesto Araújo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Brazilian diplomat, Minister of Foreign Affairs of Brazil",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1964",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Alberto França"
+          },
+          "image": {
+            "text": "Minister Carlos Alberto França.jpg"
+          },
+          "caption": {
+            "text": "França in April 2021."
+          },
+          "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs (Brazil)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 March 2021"
+          },
+          "president1": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ernesto Araújo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ernesto Araújo"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Carlos Alberto Franco França"
+          },
+          "birth_date": {
+            "text": "1964 (age 57)"
+          },
+          "birth_place": {
+            "text": "Goiânia, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Goiânia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Rio Branco Institute University of Brasília",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rio Branco Institute"
+              },
+              {
+                "type": "internal",
+                "page": "University of Brasília"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.br/mre/pt-br/acesso-a-informacao/institucional/quem-e-quem",
+          "title": "Embaixador Carlos Alberto Franco França - Ministro das Relações Exteriores",
+          "website": "gov.br/mre",
+          "access-date": "6 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/politica/noticia/2021/03/29/bolsonaro-oficializa-reforma-ministerial-com-seis-mudancas.ghtml",
+          "title": "Bolsonaro oficializa reforma ministerial com seis mudanças",
+          "website": "G1",
+          "date": "29 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

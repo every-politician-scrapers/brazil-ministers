@@ -1,0 +1,162 @@
+{
+  "title": "Ibaneis Rocha",
+  "pageID": 59008004,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "People from Brasília",
+    "Governors of the Federal District (Brazil)",
+    "Brazilian Democratic Movement politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ibaneis Rocha Barros Junior (born 10 July 1971) is a Brazilian politician, lawyer and the current Governor of the Federal District.",
+              "links": [
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of the Federal District (Brazil)"
+                },
+                {
+                  "text": "Federal District",
+                  "type": "internal",
+                  "page": "Federal District (Brazil)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ibaneis Rocha Barros Junior"
+                ]
+              }
+            },
+            {
+              "text": "He defeated incumbent governor Rodrigo Rollemberg with 69% of the popular vote.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rodrigo Rollemberg"
+                }
+              ]
+            },
+            {
+              "text": "A member of the Brazilian Democratic Movement (MDB), Rocha is the first Federal District native to serve as its governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brazilian Democratic Movement"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician and lawyer",
+          "template": "short description"
+        },
+        {
+          "year": "1971",
+          "month": "7",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Ibaneis rocha (cropped).png"
+          },
+          "office": {
+            "text": "19th Governor of the Federal District",
+            "links": [
+              {
+                "text": "Governor of the Federal District",
+                "type": "internal",
+                "page": "Governor of the Federal District (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "vicegovernor": {
+            "text": "Paco Britto"
+          },
+          "preceded": {
+            "text": "Rodrigo Rollemberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Rollemberg"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Ibaneis Rocha Barros Junior"
+          },
+          "birth_date": {
+            "text": "July 10, 1971"
+          },
+          "birth_place": {
+            "text": "Brasília, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brasília"
+              }
+            ]
+          },
+          "party": {
+            "text": "MDB",
+            "links": [
+              {
+                "text": "MDB",
+                "type": "internal",
+                "page": "Brazilian Democratic Movement"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "UNICEUB",
+            "links": [
+              {
+                "text": "UNICEUB",
+                "type": "internal",
+                "page": "Centro Universitário de Brasília"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://istoe.com.br/ibaneis-rocha-e-o-novo-governador-do-df/",
+          "title": "Ibaneis Rocha é o novo governador do DF - ISTOÉ Independente",
+          "website": "istoe.com.br",
+          "access-date": "2018-11-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gazetadopovo.com.br/blogs/a-protagonista/2018/10/28/df-elege-primeiro-governador-nascido-em-brasilia-em-sua-historia/",
+          "title": "DF elege primeiro governador nascido em Brasília em sua história - A Protagonista",
+          "website": "gazetadopovo.com.br",
+          "access-date": "2018-11-09",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

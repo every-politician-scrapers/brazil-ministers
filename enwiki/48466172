@@ -1,0 +1,333 @@
+{
+  "title": "Flávio Dino",
+  "pageID": 48466172,
+  "categories": [
+    "Governors of Maranhão",
+    "Living people",
+    "Communist Party of Brazil politicians",
+    "Workers' Party (Brazil) politicians",
+    "Brazilian Democratic Movement politicians",
+    "1968 births",
+    "Far-left politics in Brazil",
+    "People from São Luís, Maranhão"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Flávio Dino de Castro e Costa (born 30 April 1968) is a Brazilian attorney, politician and teacher.",
+              "links": [
+                {
+                  "text": "attorney",
+                  "type": "internal",
+                  "page": "attorney-at-law"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Flávio Dino de Castro e Costa"
+                ]
+              }
+            },
+            {
+              "text": "A former federal judge, Dino was elected to the Chamber of Deputies in 2006, serving a four-year term until 2011, representing the state of Maranhão.",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Brazil)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maranhão"
+                }
+              ]
+            },
+            {
+              "text": "He was elected as the governor of Maranhão after running in the 2014 election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maranhão"
+                }
+              ]
+            },
+            {
+              "text": "He became the governor of Maranhão on 1 January 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maranhão"
+                }
+              ]
+            },
+            {
+              "text": "He was reelected in 2018."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dino also served 3 years as president of Embratur, a federal agency promoting Brazilian tourism, between his legislative term and gubernatorial term.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Embratur"
+                }
+              ]
+            },
+            {
+              "text": "Dino was considered a leading left-wing candidate in the 2022 presidential election but chose to forgo a candidacy, instead choosing to run for Senate.",
+              "links": [
+                {
+                  "text": "2022 presidential election",
+                  "type": "internal",
+                  "page": "2022 Brazilian general election"
+                },
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Brazilian Senate"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "first": "Castro",
+          "second": "Costa",
+          "template": "portuguese name"
+        },
+        {
+          "year": "1968",
+          "month": "4",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Flávio Dino"
+          },
+          "image": {
+            "text": "Flávio Dino Governador (cropped2).png"
+          },
+          "caption": {
+            "text": "Flávio Dino in 2018"
+          },
+          "office": {
+            "text": "Governor of Maranhão",
+            "links": [
+              {
+                "text": "Governor of Maranhão",
+                "type": "internal",
+                "page": "List of Governors of Maranhão"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2015"
+          },
+          "vicegovernor": {
+            "text": "Carlos Brandão",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carlos Brandão"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Arnaldo Melo"
+          },
+          "office1": {
+            "text": "President of Embratur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Embratur"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "17 June 2011"
+          },
+          "term_end1": {
+            "text": "11 March 2014"
+          },
+          "nominator1": {
+            "text": "Dilma Rousseff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dilma Rousseff"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Mário Moysés"
+          },
+          "successor1": {
+            "text": "Vicente Neto"
+          },
+          "office2": {
+            "text": "Federal Deputy for Maranhão",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "type": "internal",
+                "page": "Maranhão"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 February 2007"
+          },
+          "term_end2": {
+            "text": "1 February 2011"
+          },
+          "birth_date": {
+            "text": "April 30, 1968"
+          },
+          "birth_place": {
+            "text": "São Luís, Maranhão, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "São Luís, Maranhão"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Flávio Dino de Castro e Costa"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "party": {
+            "text": "PSB (2021–current)",
+            "links": [
+              {
+                "text": "PSB",
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PT (1987–1994)\n\nPCdoB (2006–2021)",
+            "links": [
+              {
+                "text": "PT",
+                "type": "internal",
+                "page": "Workers' Party (Brazil)"
+              },
+              {
+                "text": "PCdoB",
+                "type": "internal",
+                "page": "Communist Party of Brazil"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Federal judge Teacher Lawyer (1990)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Federal judge"
+              },
+              {
+                "type": "internal",
+                "page": "Teacher"
+              },
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://g1.globo.com/ma/maranhao/eleicoes/2014/noticia/2014/10/conheca-o-perfil-de-flavio-dino-governador-eleito-do-maranhao.html",
+          "title": "Conheça o perfil de Flávio Dino, governador eleito do Maranhão",
+          "last": "Editorial Team",
+          "date": "5 October 2014",
+          "access-date": "2 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Aires)",
+          "first": "Augusto Taglioni (Buenos",
+          "title": "Flavio Dino, la nueva estrella de la izquierda brasileña que busca heredar a Lula",
+          "url": "https://www.lapoliticaonline.com.mx/nota/134012-flavio-dino-la-nueva-estrella-de-la-izquierda-brasilena-que-busca-heredar-a-lula/",
+          "access-date": "2 January 2021",
+          "website": "www.lapoliticaonline.com.mx",
+          "language": "es-ar",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Flávio Dino decide que irá disputar o Senado em 2022 {{!}} Radar",
+          "url": "https://veja.abril.com.br/blog/radar/flavio-dino-decide-que-ira-disputar-o-senado-em-2022/",
+          "access-date": "2 January 2021",
+          "website": "VEJA",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "10 May 2014",
+          "title": "Flávio Dino, do PCdoB, é eleito governador do Maranhão",
+          "url": "http://g1.globo.com/ma/maranhao/eleicoes/2014/noticia/2014/10/flavio-dino-do-pcdob-e-eleito-governador-do-maranhao.html",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200115070759/http://g1.globo.com/ma/maranhao/eleicoes/2014/noticia/2014/10/flavio-dino-do-pcdob-e-eleito-governador-do-maranhao.html",
+          "archive-date": "15 January 2020",
+          "access-date": "30 November 2020",
+          "website": "G1 (website)",
+          "publisher": "Grupo Globo",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "10 August 2018",
+          "title": "Resultado da apuração do 1º turno das Eleições 2018 - Maranhão (MA) para governador, senador, deputado federal e deputado estadual.",
+          "url": "https://g1.globo.com/politica/eleicoes/2018/ma/apuracao/governador.ghtml",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20190504022938/https://g1.globo.com/politica/eleicoes/2018/ma/apuracao/governador.ghtml",
+          "archive-date": "4 May 2019",
+          "access-date": "30 November 2020",
+          "website": "G1 (website)",
+          "publisher": "Grupo Globo",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

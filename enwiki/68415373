@@ -1,0 +1,164 @@
+{
+  "title": "João Roma",
+  "pageID": 68415373,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "People from Recife",
+    "Government ministers of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "João Roma (born in Recife) is a Brazilian politician currently serving as the as Minister of Citizenship in the administration of President Jair Bolsonaro since February 2021 replacing Onyx Lorenzoni.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Recife"
+                },
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "text": "Minister of Citizenship",
+                  "type": "internal",
+                  "page": "Ministry of Citizenship (Brazil)"
+                },
+                {
+                  "text": "administration",
+                  "type": "internal",
+                  "page": "Bolsonaro administration cabinet members"
+                },
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Onyx Lorenzoni"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "João Roma"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian lawyer and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1972",
+          "month": "11",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "João Roma"
+          },
+          "image": {
+            "text": "João Roma 2.jpg"
+          },
+          "office": {
+            "text": "Minister of Citizenship",
+            "links": [
+              {
+                "text": "Minister of Citizenship",
+                "type": "internal",
+                "page": "Ministry of Citizenship (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 February 2021"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Onyx Lorenzoni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Onyx Lorenzoni"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 17, 1972"
+          },
+          "birth_place": {
+            "text": "Recife, Pernambuco, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recife"
+              },
+              {
+                "type": "internal",
+                "page": "Pernambuco"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://g1.globo.com/politica/noticia/2021/02/12/onyx-lorenzoni-assume-a-secretaria-geral-da-presidencia-joao-roma-sera-ministro-da-cidadania.ghtml",
+          "title": "Bolsonaro transfere Onyx para a Secretaria-Geral e nomeia aliado de ACM Neto para Cidadania",
+          "date": "12 February 2021",
+          "website": "G1",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://politicalivre.com.br/2021/02/baianos-em-ministerio-podem-devolver-vida-politica-a-tia-eron/",
+          "title": "Baianos em ministério podem devolver vida política a Tia Eron",
+          "website": "Política Livre",
+          "date": "12 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.camara.leg.br/deputados/131273/biografia",
+          "title": "Biografia do Deputado(a) Federal JOÃO ROMA",
+          "date": "22 March 2019",
+          "website": "Portal da Câmara dos Deputados",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

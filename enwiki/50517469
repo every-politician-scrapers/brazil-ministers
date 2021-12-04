@@ -1,0 +1,146 @@
+{
+  "title": "Waldez Góes",
+  "pageID": 50517469,
+  "categories": [
+    "Democratic Labour Party (Brazil) politicians",
+    "Governors of Amapá",
+    "1961 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Antônio Waldez Góes da Silva (born October 29, 1961) is a Brazilian politician.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Antônio Waldez Góes da Silva"
+                ]
+              }
+            },
+            {
+              "text": "He serves as governor of Amapá, elected in 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amapá"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1961",
+          "month": "10",
+          "day": "29",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Waldez Góes"
+          },
+          "image": {
+            "text": "Waldez2006.jpg"
+          },
+          "office1": {
+            "text": "Governor of Amapá",
+            "links": [
+              {
+                "text": "Governor of Amapá",
+                "type": "internal",
+                "page": "List of Governors of Amapá"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 1, 2015"
+          },
+          "term_start2": {
+            "text": "January 1, 2003"
+          },
+          "term_end2": {
+            "text": "March 31, 2010"
+          },
+          "birthname": {
+            "text": "Antônio Waldez Góes da Silva"
+          },
+          "birth_date": {
+            "text": "October 29, 1961"
+          },
+          "birth_place": {
+            "text": "Gurupá, PA",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gurupá"
+              },
+              {
+                "text": "PA",
+                "type": "internal",
+                "page": "Pará"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Marília Góes"
+          },
+          "party": {
+            "text": "PDT",
+            "links": [
+              {
+                "text": "PDT",
+                "type": "internal",
+                "page": "Democratic Labour Party (Brazil)"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "title": "Damares Alves",
+  "pageID": 59327647,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Evangelical pastors",
+    "Brazilian evangelicals",
+    "Brazilian anti-abortion activists",
+    "Female critics of feminism",
+    "Anti-communism in Brazil",
+    "People from Paranaguá"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Damares Regina Alves (born September 11, 1964) is a Brazilian attorney and evangelical pastor.",
+              "formatting": {
+                "bold": [
+                  "Damares Regina Alves"
+                ]
+              }
+            },
+            {
+              "text": "She has been Minister of the Family, the Woman, and Human Rights in the Presidency of Jair Bolsonaro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Presidency of Jair Bolsonaro"
+                }
+              ]
+            },
+            {
+              "text": "She is the second female minister appointed to the new government as of December 2018."
+            },
+            {
+              "text": "Damares defends the prohibition of abortion after rape and in risk pregnancies, women trafficking, suicide, the prohibition of juvenile self-harming and drug consumption such as, from her perspective, taking hormone blockers.",
+              "links": [
+                {
+                  "text": "abortion",
+                  "type": "internal",
+                  "page": "abortion"
+                },
+                {
+                  "text": "women trafficking",
+                  "type": "internal",
+                  "page": "Woman trafficking"
+                },
+                {
+                  "text": "self-harming",
+                  "type": "internal",
+                  "page": "self-harming"
+                }
+              ]
+            },
+            {
+              "text": "Alves is engaged directly in the preparation of youth for the Fourth Industrial Revolution and intends to consolidate a pactuated agenda between different ministries of the Federal Government capable of integrating programs, policies, projects and initiatives under the same, articulated perspective of impact—modernizing education.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fourth Industrial Revolution"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian attorney and evangelical pastor",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "9",
+          "day": "11",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Damares Alves"
+          },
+          "image": {
+            "text": "Damares Alves em fevereiro de 2019 (2).jpg"
+          },
+          "caption": {
+            "text": "Alves in February 2019"
+          },
+          "office": {
+            "text": "Minister of Women, Family and Human Rights",
+            "links": [
+              {
+                "text": "Minister of Women, Family and Human Rights",
+                "type": "internal",
+                "page": "Ministry of Women, Family and Human Rights"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 1, 2019"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gustavo Rocha"
+          },
+          "birth_name": {
+            "text": "Damares Regina Alves"
+          },
+          "birth_date": {
+            "text": "September 11, 1964"
+          },
+          "birth_place": {
+            "text": "Paranaguá, Paraná, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paranaguá"
+              },
+              {
+                "text": "Paraná",
+                "type": "internal",
+                "page": "Paraná (state)"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://brazilian.report/power/2018/12/07/damares-alves-minister-human-rights/",
+          "title": "Who is Damares Alves, Brazil's new Minister of Human Rights?",
+          "last": "Marshall",
+          "first": "Euan",
+          "date": "2018-12-07",
+          "website": "The Brazilian Report",
+          "language": "en-US",
+          "access-date": "2018-12-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.oantagonista.com/brasil/damares-faz-ronda-no-senado-para-aprovar-projeto-antissuicidio/",
+          "title": "Damares faz ronda no Senado para aprovar projeto antissuicídio",
+          "date": "2019-04-03",
+          "website": "O Antagonista",
+          "language": "pt-BR",
+          "access-date": "2019-05-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.mdh.gov.br/todas-as-noticias/2019/abril/governo-federal-anuncia-agenda-juventude-4-0-em-todo-o-pais",
+          "title": "Governo Federal anuncia Agenda Juventude 4.0 em todo o país",
+          "last": "Oliveira",
+          "first": "Raquel",
+          "website": "Mulher, da Família e dos Direitos Humanos",
+          "language": "pt-br",
+          "access-date": "2019-05-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2018/dec/06/outcry-over-bolsonaros-plan-to-put-conservative-in-charge-of-new-family-and-women-ministry",
+          "title": "Bolsonaro abolishes human rights ministry in favour of family values &#124; World news",
+          "website": "The Guardian",
+          "access-date": "2018-12-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.mdh.gov.br/todas-as-noticias/2019/maio/ministra-damares-alves-promove-acoes-do-ministerio-em-parceria-com-o-tjse",
+          "title": "Ministra Damares Alves promove ações do ministério em parceria com o TJSE",
+          "last": "Oliveira",
+          "first": "Raquel",
+          "website": "Mulher, da Família e dos Direitos Humanos",
+          "language": "pt-br",
+          "access-date": "2019-05-04",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

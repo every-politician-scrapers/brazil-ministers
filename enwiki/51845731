@@ -1,0 +1,374 @@
+{
+  "title": "João Doria",
+  "pageID": 51845731,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Businesspeople from São Paulo",
+    "Brazilian business executives",
+    "Brazilian Roman Catholics",
+    "Mayors of São Paulo",
+    "Brazilian Social Democracy Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "João Agripino da Costa Doria Júnior (born December 16, 1957) is a Brazilian politician, businessman and journalist who is the 37th and current Governor of São Paulo, in office since January 2019.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of São Paulo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "João Agripino da Costa Doria Júnior"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as the 52nd Mayor of São Paulo from 1 January 2017 to his resignation on 6 April 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "São Paulo"
+                }
+              ]
+            },
+            {
+              "text": "He was the first mayor in 24 years to be elected in the first round.",
+              "links": [
+                {
+                  "text": "first round",
+                  "type": "internal",
+                  "page": "Two Round System"
+                }
+              ]
+            },
+            {
+              "text": "Doria is a member of the Brazilian Social Democracy Party (PSDB), and is known for having hosted the TV show O Aprendiz, a Brazilian version of The Apprentice.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brazilian Social Democracy Party"
+                },
+                {
+                  "text": "The Apprentice",
+                  "type": "internal",
+                  "page": "The Apprentice (TV series)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "O Aprendiz",
+                  "The Apprentice"
+                ]
+              }
+            },
+            {
+              "text": "Doria resigned the office of mayor in April 2018 in order to run for Governor of São Paulo.",
+              "links": [
+                {
+                  "text": "Governor of São Paulo",
+                  "type": "internal",
+                  "page": "List of Governors of São Paulo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician, businessman, and politician",
+          "template": "short description"
+        },
+        {
+          "suffix": "Júnior",
+          "template": "portuguese name"
+        },
+        {
+          "date": "October 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "João Doria"
+          ],
+          "date": "January 2020",
+          "template": "expand portuguese"
+        },
+        {
+          "year": "1957",
+          "month": "12",
+          "day": "16",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Bia Bettanin",
+          "from": "1987",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "João Doria"
+          },
+          "image": {
+            "text": "Foto oficial de João Dória como Governador de São Paulo (cropped).jpg"
+          },
+          "office": {
+            "text": "Governor of São Paulo",
+            "links": [
+              {
+                "text": "Governor of São Paulo",
+                "type": "internal",
+                "page": "List of Governors of São Paulo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "1blankname": {
+            "text": "Lieutenant"
+          },
+          "1namedata": {
+            "text": "Rodrigo Garcia",
+            "links": [
+              {
+                "text": "Rodrigo Garcia",
+                "type": "internal",
+                "page": "Rodrigo Garcia (politician)"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Márcio França",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Márcio França"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Mayor of São Paulo",
+            "links": [
+              {
+                "text": "Mayor of São Paulo",
+                "type": "internal",
+                "page": "List of mayors of São Paulo"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2017"
+          },
+          "term_end1": {
+            "text": "6 April 2018"
+          },
+          "deputy1": {
+            "text": "Bruno Covas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bruno Covas"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Fernando Haddad",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando Haddad"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Bruno Covas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bruno Covas"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of Embratur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Embratur"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 March 1986"
+          },
+          "term_end2": {
+            "text": "25 August 1988"
+          },
+          "appointer2": {
+            "text": "José Sarney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Sarney"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Joaquim Mac Dowell"
+          },
+          "successor2": {
+            "text": "Pedro Grossi"
+          },
+          "office3": {
+            "text": "Secretary of Tourism of São Paulo"
+          },
+          "term_start3": {
+            "text": "23 March 1983"
+          },
+          "term_end3": {
+            "text": "15 January 1986"
+          },
+          "1blankname3": {
+            "text": "Mayor"
+          },
+          "1namedata3": {
+            "text": "Mário Covas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mário Covas"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Domingos Mantelli"
+          },
+          "successor3": {
+            "text": "Epaminondas da Cunha"
+          },
+          "birth_name": {
+            "text": "João Agripino da Costa Doria Júnior"
+          },
+          "birth_date": {
+            "text": "December 16, 1957"
+          },
+          "birth_place": {
+            "text": "São Paulo, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "São Paulo"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSDB (2001–present)",
+            "links": [
+              {
+                "text": "PSDB",
+                "type": "internal",
+                "page": "Brazilian Social Democracy Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Bia Bettanin (m. 1987)"
+          },
+          "alma_mater": {
+            "text": "Fundação Armando Alvares Penteado",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fundação Armando Alvares Penteado"
+              }
+            ]
+          },
+          "signature": {
+            "text": "João Doria signature.svg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://aovivo.folha.uol.com.br/2016/09/30/5065-aovivo.shtml",
+          "title": "Doria endossa candidatura de Alckmin à Presidência em 2018: Ao vivo {{!}} Folha",
+          "date": "30 September 2016",
+          "work": "Folha de S. Paulo",
+          "access-date": "3 October 2016",
+          "language": "pt",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://g1.globo.com/sao-paulo/eleicoes/2016/noticia/2016/10/joao-doria-do-psdb-e-eleito-prefeito-de-sao-paulo.html",
+          "title": "João Doria, do PSDB, é eleito prefeito de São Paulo",
+          "work": "G1",
+          "date": "2 October 2016",
+          "access-date": "25 October 2016",
+          "language": "pt",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://g1.globo.com/sao-paulo/noticia/doria-toma-posse-como-prefeito-de-sp.ghtml",
+          "title": "Doria toma posse como prefeito de SP e promete 'respeito à ética e transparência'",
+          "work": "G1",
+          "date": "2 October 2016",
+          "access-date": "3 January 2017",
+          "language": "pt",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.infomoney.com.br/mercados/politica/noticia/5606132/doria-eleito-prefeito-sao-paulo-primeiro-turno-eleicao-historica",
+          "title": "Doria é eleito prefeito de São Paulo no primeiro turno em eleição histórica",
+          "publisher": "InfoMoney",
+          "access-date": "26 January 2017",
+          "date": "2 October 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://apuracao.gazetadopovo.com.br/resultados-eleicoes-2016-primeiro-turno/sao-paulo-sp/prefeito/",
+          "title": "Apuração da eleições",
+          "date": "2 October 2016",
+          "access-date": "2 October 2016",
+          "publisher": "Gazeta do Povo",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/cotidiano/2018/04/na-contramao-de-doria-covas-assume-prefeitura-com-exaltacao-a-politica.shtml",
+          "publisher": "Folha de São Paulo",
+          "access-date": "10 April 2018",
+          "date": "9 April 2018",
+          "title": "Na contramão de Doria, Covas assume prefeitura com exaltação à política",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

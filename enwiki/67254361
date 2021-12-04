@@ -1,0 +1,230 @@
+{
+  "title": "Flávia Arruda",
+  "pageID": 67254361,
+  "categories": [
+    "1980 births",
+    "Living people",
+    "Liberal Party (Brazil, 2006) politicians",
+    "Democrats (Brazil) politicians",
+    "Members of the Chamber of Deputies (Brazil) from the Federal District",
+    "Brazilian lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Flávia Carolina Peres Arruda (born 21 January 1980 in Taguatinga) is a Brazilian entrepreneur, lawyer and politician, member of the Liberal Party.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party (Brazil, 2006)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Flávia Carolina Peres Arruda"
+                ]
+              }
+            },
+            {
+              "text": "She is the incumbent Secretary of Government of Brazil.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary of Government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1980",
+          "month": "1",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "José Roberto Arruda",
+          "from": "2013",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Flávia Arruda"
+          },
+          "image": {
+            "text": "Deputada-federal-flavia-arruda.jpg"
+          },
+          "office": {
+            "text": "Secretary of Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of Government"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 March 2021"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Luiz Eduardo Ramos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luiz Eduardo Ramos"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Federal Deputy from the Federal District",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "text": "Federal District",
+                "type": "internal",
+                "page": "Federal District (Brazil)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 February 2019"
+          },
+          "term_end1": {
+            "text": "29 March 2021"
+          },
+          "office2": {
+            "text": "First Lady of the Federal District",
+            "links": [
+              {
+                "text": "Federal District",
+                "type": "internal",
+                "page": "Federal District (Brazil)"
+              }
+            ]
+          },
+          "term_label2": {
+            "text": "In role"
+          },
+          "term_start2": {
+            "text": "1 January 2007"
+          },
+          "term_end2": {
+            "text": "16 March 2010"
+          },
+          "governor2": {
+            "text": "José Roberto Arruda"
+          },
+          "predecessor2": {
+            "text": "Weslian Roriz"
+          },
+          "successor2": {
+            "text": "Anna Christina Kubitschek"
+          },
+          "birth_name": {
+            "text": "Flávia Carolina Peres"
+          },
+          "birth_date": {
+            "text": "January 21, 1980"
+          },
+          "birth_place": {
+            "text": "Taguatinga, Federal District, Brazil",
+            "links": [
+              {
+                "text": "Taguatinga",
+                "type": "internal",
+                "page": "Taguatinga, Federal District"
+              },
+              {
+                "text": "Federal District",
+                "type": "internal",
+                "page": "Federal District (Brazil)"
+              }
+            ]
+          },
+          "party": {
+            "text": "PL (2013–present)",
+            "links": [
+              {
+                "text": "PL",
+                "type": "internal",
+                "page": "Liberal Party (Brazil, 2006)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "DEM (2009–13)",
+            "links": [
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "José Roberto Arruda (m. 2013)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "Euroamerican Universitary Center (LL.B.)",
+            "links": [
+              {
+                "text": "LL.B.",
+                "type": "internal",
+                "page": "Bachelor of Laws"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://oglobo.globo.com/brasil/flavia-arruda-nova-ministra-da-secretaria-de-governo-24946907",
+          "title": "Flávia Arruda é nova ministra da Secretaria de Governo",
+          "website": "O Globo",
+          "language": "pt",
+          "first1": "Jussara",
+          "last1": "Soares",
+          "first2": "Natália",
+          "last2": "Portinari",
+          "date": "29 March 2021",
+          "accessdate": "29 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

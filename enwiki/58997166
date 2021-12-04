@@ -1,0 +1,257 @@
+{
+  "title": "Tereza Cristina",
+  "pageID": 58997166,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "People from Campo Grande",
+    "Democrats (Brazil) politicians",
+    "Brazilian Socialist Party politicians",
+    "Members of the Chamber of Deputies (Brazil) from Mato Grosso do Sul",
+    "Government ministers of Brazil",
+    "Women government ministers of Brazil",
+    "21st-century Brazilian women politicians",
+    "21st-century Brazilian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tereza Cristina Corrêa da Costa Dias (born 6 July 1954) is a Brazilian entrepreneur, agronomic engineer, and politician, member of the Democrats (DEM).",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "text": "Democrats",
+                  "type": "internal",
+                  "page": "Democrats (Brazil)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tereza Cristina Corrêa da Costa Dias"
+                ]
+              }
+            },
+            {
+              "text": "She has been a Federal Deputy since 2015, representing the state of Mato Grosso do Sul, and is a member of the congressional ruralist front.",
+              "links": [
+                {
+                  "text": "Federal Deputy",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Brazil)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mato Grosso do Sul"
+                }
+              ]
+            },
+            {
+              "text": "In November 2018, president-elect Jair Bolsonaro announced that she would be Minister of Agriculture, Livestock and Supply and the first woman to compose the new government, which was inaugurated on 1 January 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "text": "Minister of Agriculture, Livestock and Supply",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture (Brazil)"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed by a group of 20 members of the Farming Parliamentary Front (FPA)."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Deputy of Brazilian parliament",
+          "template": "short description"
+        },
+        {
+          "year": "1954",
+          "month": "7",
+          "day": "6",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tereza Cristina"
+          },
+          "image": {
+            "text": "Tereza Cristina em 18 de julho de 2019.jpg"
+          },
+          "office": {
+            "text": "Minister of Agriculture, Livestock and Supply",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Livestock and Supply",
+                "type": "internal",
+                "page": "Ministry of Agriculture (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Blairo Maggi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Blairo Maggi"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Federal Deputy from Mato Grosso do Sul",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "type": "internal",
+                "page": "Mato Grosso do Sul"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 February 2015"
+          },
+          "term_end1": {
+            "text": "1 January 2019"
+          },
+          "office2": {
+            "text": "Secretary of Agrarian Development, Production, Industry, Trade and Tourism of Mato Grosso do Sul",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mato Grosso do Sul"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 January 2007"
+          },
+          "term_end2": {
+            "text": "7 April 2014"
+          },
+          "1blankname2": {
+            "text": "Governor"
+          },
+          "1namedata2": {
+            "text": "André Puccinelli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "André Puccinelli"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "João Crisóstomo Mauad Cavallero"
+          },
+          "successor2": {
+            "text": "Paulo Engel"
+          },
+          "birth_name": {
+            "text": "Tereza Cristina Corrêa da Costa Dias"
+          },
+          "birth_date": {
+            "text": "July 6, 1954"
+          },
+          "birth_place": {
+            "text": "Campo Grande, MS, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Campo Grande"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Mato Grosso do Sul"
+              }
+            ]
+          },
+          "party": {
+            "text": "DEM (Since 2017) PSB (Until 2017)",
+            "links": [
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              },
+              {
+                "text": "PSB",
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              }
+            ]
+          },
+          "education": {
+            "text": "Federal University of Viçosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Federal University of Viçosa"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Agronomic engineer, entrepreneur"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www1.folha.uol.com.br/mercado/2018/11/tereza-cristina-sera-ministra-da-agricultura-de-bolsonaro.shtml",
+          "title": "Tereza Cristina (DEM-MS) será ministra da Agricultura de Bolsonaro",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "date": "7 November 2018",
+          "accessdate": "7 November 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://brasil.elpais.com/brasil/2018/09/26/politica/1537970891_279915.html",
+          "title": "Campanha de defensora de lei pró-agrotóxicos já recebeu 350 mil reais de executivos ligados ao setor",
+          "publisher": "El País",
+          "language": "pt",
+          "first": "Daniel",
+          "last": "Camargos",
+          "date": "26 September 2018",
+          "accessdate": "7 November 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "title": "Tarcísio Gomes de Freitas",
+  "pageID": 62812142,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "People from Rio de Janeiro (city)",
+    "Brazilian Roman Catholics",
+    "Brazilian civil engineers",
+    "Government ministers of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tarcísio Gomes de Freitas (born 19 June 1975) is a Brazilian engineer and military.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tarcísio Gomes de Freitas"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Minister of Infrastructure of Jair Bolsonaro administration, being nominated in 27 November 2018.",
+              "links": [
+                {
+                  "text": "Minister of Infrastructure",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Brazil)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1975",
+          "month": "6",
+          "day": "19",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Tarcísio Gomes de Freitas"
+          },
+          "image": {
+            "text": "Tarcísio Gomes de Freitas em 18 de julho de 2019.jpg"
+          },
+          "office": {
+            "text": "Minister of Infrastructure",
+            "links": [
+              {
+                "text": "Minister of Infrastructure",
+                "type": "internal",
+                "page": "Ministry of Transport (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Valter Casimiro Silveira"
+          },
+          "birth_name": {
+            "text": "Tarcísio Gomes de Freitas"
+          },
+          "birth_date": {
+            "text": "June 19, 1975"
+          },
+          "birth_place": {
+            "text": "Rio de Janeiro, Rio de Janeiro, Brazil",
+            "links": [
+              {
+                "text": "Rio de Janeiro",
+                "type": "internal",
+                "page": "Rio de Janeiro (city)"
+              },
+              {
+                "text": "Rio de Janeiro",
+                "type": "internal",
+                "page": "Rio de Janeiro (state)"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Military Institute of Engineering (B.E.)",
+            "links": [
+              {
+                "text": "Military Institute of Engineering",
+                "type": "internal",
+                "page": "Instituto Militar de Engenharia"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "Brazil",
+                "type": "internal",
+                "page": "brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Army"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Capitão.png Captain",
+            "links": [
+              {
+                "text": "Captain",
+                "type": "internal",
+                "page": "Captain (armed forces)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-11/bolsonaro-indica-ex-diretor-do-dnit-para-ministerio-da-infraestrutura",
+          "title": "Bolsonaro indica ex-diretor do Dnit para Ministério da Infraestrutura",
+          "publisher": "Agência Brasil",
+          "language": "pt",
+          "first": "Pedro Rafael",
+          "last": "Vilela",
+          "date": "27 November 2018",
+          "accessdate": "12 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/politica/noticia/2018/11/27/bolsonaro-anuncia-ex-diretor-do-dnit-tarcisio-gomes-de-freitas-para-ministro-da-infraestrutura.ghtml",
+          "title": "Bolsonaro anuncia ex-diretor do Dnit Tarcísio Gomes de Freitas para ministro da Infraestrutura",
+          "publisher": "G1",
+          "language": "pt",
+          "first": "Guilherme",
+          "last": "Mazui",
+          "date": "27 November 2018",
+          "accessdate": "12 January 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

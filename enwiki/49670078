@@ -1,0 +1,216 @@
+{
+  "title": "Ronaldo Caiado",
+  "pageID": 49670078,
+  "categories": [
+    "Candidates for President of Brazil",
+    "Democrats (Brazil) politicians",
+    "Conservatism in Brazil",
+    "Governors of Goiás",
+    "Members of the Federal Senate",
+    "Members of the Chamber of Deputies (Brazil) from Goiás",
+    "1949 births",
+    "Living people",
+    "People from Anápolis",
+    "Brazilian orthopaedic surgeons"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ronaldo Ramos Caiado (Anápolis, September 25, 1949) is a Brazilian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anápolis"
+                },
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ronaldo Ramos Caiado"
+                ]
+              }
+            },
+            {
+              "text": "An orthopedic physician trained at the School of Medicine and Surgery of Rio de Janeiro, he comes from a family landowners and politicians from Goiás.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Goiás"
+                }
+              ]
+            },
+            {
+              "text": "He is the grandson of Antonio Ramos Caiado."
+            },
+            {
+              "text": "Caiado served as chairman of the União Democrática Ruralista in the late eighties (1986-1989), an organization that aims to defend the interests of landowners.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "União Democrática Ruralista"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1949",
+          "month": "9",
+          "day": "25",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ronaldo Caiado"
+          },
+          "office": {
+            "text": "Governor of Goiás",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Goiás"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "predecessor": {
+            "text": "José Eliton Júnior"
+          },
+          "office1": {
+            "text": "Senator from Goiás",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Federal Senate (Brazil)"
+              },
+              {
+                "type": "internal",
+                "page": "Goiás"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 February 2015"
+          },
+          "term_end1": {
+            "text": "1 January 2019"
+          },
+          "office2": {
+            "text": "Member of Chamber of Deputies",
+            "links": [
+              {
+                "text": "Member of Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1st:''' 1 February 1991\n2nd: 1 February 2015",
+            "formatting": {
+              "bold": [
+                "2nd:"
+              ]
+            }
+          },
+          "term_end2": {
+            "text": "1st: 31 January 1995\n2nd: 31 December 2014",
+            "formatting": {
+              "bold": [
+                "1st:",
+                "2nd:"
+              ]
+            }
+          },
+          "constituency2": {
+            "text": "Goiás",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Goiás"
+              }
+            ]
+          },
+          "image": {
+            "text": "Foto oficial de Ronaldo Caiado.jpg"
+          },
+          "party": {
+            "text": "PSD (1989&ndash;1990)\nPFL (1991&ndash;2007)\nDEM (2007&ndash;present)",
+            "links": [
+              {
+                "text": "PFL",
+                "type": "internal",
+                "page": "Liberal Front Party (Brazil)"
+              },
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 25, 1949"
+          },
+          "birth_place": {
+            "text": "Anápolis, GO, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anápolis"
+              },
+              {
+                "text": "GO",
+                "type": "internal",
+                "page": "Goiás"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Physician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.eleicoes2014.com.br/ronaldo-caiado/",
+          "title": "Ronaldo Caiado 251",
+          "website": "Eleições 2014",
+          "access-date": "2016-03-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

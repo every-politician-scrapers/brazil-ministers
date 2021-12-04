@@ -1,0 +1,287 @@
+{
+  "title": "Rodrigo Pacheco (politician)",
+  "pageID": 61253891,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "People from Porto Velho",
+    "Brazilian lawyers",
+    "Democrats (Brazil) politicians",
+    "Brazilian Democratic Movement politicians",
+    "Members of the Chamber of Deputies (Brazil) from Minas Gerais",
+    "Members of the Federal Senate"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodrigo Otavio Soares Pacheco (born 3 November 1976) is a Brazilian politician and lawyer, serving as the President of the Federal Senate and of the National Congress of Brazil.",
+              "links": [
+                {
+                  "text": "President of the Federal Senate",
+                  "type": "internal",
+                  "page": "President of the Federal Senate (Brazil)"
+                },
+                {
+                  "text": "of the National Congress",
+                  "type": "internal",
+                  "page": "National Congress of Brazil"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rodrigo Otavio Soares Pacheco"
+                ]
+              }
+            },
+            {
+              "text": "Although born in Rondônia, he has spent his political career representing Minas Gerais, having served as senator since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rondônia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minas Gerais"
+                }
+              ]
+            },
+            {
+              "text": "He previously served in the chamber of deputies from 2015 to 2019."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "first": "Soares",
+          "second": "Pacheco",
+          "template": "portuguese name"
+        },
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1976",
+          "month": "11",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Rodrigo Pacheco"
+          },
+          "image": {
+            "text": "Senador Rodrigo Pacheco.jpg"
+          },
+          "caption": {
+            "text": "Pacheco in 2019"
+          },
+          "office": {
+            "text": "President of the Federal Senate",
+            "links": [
+              {
+                "text": "President of the Federal Senate",
+                "type": "internal",
+                "page": "President of the Federal Senate (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 February 2021"
+          },
+          "predecessor": {
+            "text": "Davi Alcolumbre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Davi Alcolumbre"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator for Minas Gerais",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Brazilian Senate"
+              },
+              {
+                "type": "internal",
+                "page": "Minas Gerais"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 February 2019"
+          },
+          "office2": {
+            "text": "Senate DEM Leader",
+            "links": [
+              {
+                "text": "Senate",
+                "type": "internal",
+                "page": "Brazilian Senate"
+              },
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 February 2019"
+          },
+          "term_end2": {
+            "text": "1 February 2021"
+          },
+          "predecessor2": {
+            "text": "Ronaldo Caiado",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ronaldo Caiado"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Marcos Rogério",
+            "links": [
+              {
+                "text": "Marcos Rogério",
+                "type": "internal",
+                "page": "Marcos Rogério da Silva Brito"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Federal Deputy for Minas Gerais",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "type": "internal",
+                "page": "Minas Gerais"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 February 2015"
+          },
+          "term_end3": {
+            "text": "31 January 2019"
+          },
+          "birth_name": {
+            "text": "Rodrigo Otavio Soares Pacheco"
+          },
+          "birth_date": {
+            "text": "November 3, 1976"
+          },
+          "birth_place": {
+            "text": "Porto Velho, Rondônia, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Porto Velho"
+              },
+              {
+                "type": "internal",
+                "page": "Rondônia"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSD (2021–present)",
+            "links": [
+              {
+                "text": "PSD",
+                "type": "internal",
+                "page": "Social Democratic Party (Brazil, 2011)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "DEM (2018–21) \nMDB (2010–18)",
+            "links": [
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              },
+              {
+                "text": "MDB",
+                "type": "internal",
+                "page": "Brazilian Democratic Movement"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Rodrigo Otavio Soares Pacheco assinatura.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://icslatam.com/",
+          "title": "Brazilian President Dilma Rousseff fails to win Senate seat ICSLATAM.COM",
+          "last": "Services (ICS)",
+          "first": "International Consulting",
+          "last2": "Services (ICS)",
+          "first2": "International Consulting",
+          "website": "icslatam.com",
+          "language": "en",
+          "access-date": "2019-07-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Rodrigo Pacheco - MG",
+          "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5732",
+          "language": "pt",
+          "access-date": "10 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "RODRIGO PACHECO – Biografia",
+          "url": "https://www.camara.leg.br/deputados/178897/biografia",
+          "work": "Câmara dos Deputados do Brasil",
+          "language": "pt",
+          "access-date": "10 July 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

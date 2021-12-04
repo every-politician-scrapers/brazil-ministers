@@ -1,0 +1,195 @@
+{
+  "title": "Laerte de Souza Santos",
+  "pageID": 68226141,
+  "categories": [
+    "People from Rio de Janeiro (city)",
+    "Brazilian military personnel",
+    "1958 births",
+    "Living people",
+    "Brazilian generals"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Laerte de Souza Santos (born 2 September 1958) is a Brazilian military, Army General, and Chief of the Joint Staff of the Armed Forces.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazilians"
+                },
+                {
+                  "type": "internal",
+                  "page": "Army General"
+                },
+                {
+                  "text": "Chief of the Joint Staff of the Armed Forces",
+                  "type": "internal",
+                  "page": "Joint Staff of the Armed Forces"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Laerte de Souza Santos"
+                ]
+              }
+            },
+            {
+              "text": "Santos became commander on 31 May 2021, replacing Raul Botelho.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raul Botelho"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chief of the Joint Staff of the Brazilian Armed Forces",
+          "template": "short description"
+        },
+        {
+          "year": "1958",
+          "month": "9",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "Army General"
+              }
+            ]
+          },
+          "name": {
+            "text": "Laerte de Souza Santos"
+          },
+          "image": {
+            "text": "GenLaerte.jpg"
+          },
+          "office": {
+            "text": "Chief of the Joint Staff of the Armed Forces",
+            "links": [
+              {
+                "text": "Chief of the Joint Staff of the Armed Forces",
+                "type": "internal",
+                "page": "Joint Staff of the Armed Forces"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 May 2021"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "minister": {
+            "text": "Walter Souza Braga Netto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Walter Souza Braga Netto"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Raul Botelho",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raul Botelho"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 2, 1958"
+          },
+          "birth_place": {
+            "text": "Rio de Janeiro, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rio de Janeiro"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Army"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "Brazil",
+                "type": "internal",
+                "page": "brazil"
+              }
+            ]
+          },
+          "rank": {
+            "text": "General do Exército.gif Army General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Army General"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1974–present"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.defesaaereanaval.com.br/ministerio-da-defesa/estado-maior-conjunto-das-forcas-armadas-tem-novo-chefe",
+          "title": "Estado-Maior Conjunto das Forças Armadas tem novo Chefe",
+          "website": "Defesa Aerea e Naval",
+          "language": "pt",
+          "date": "1 June 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.br/defesa/pt-br/composicao/estado-maior-conjunto-das-forcas-armadas-emcfa/general-de-exercito-laerte-de-souza-santos",
+          "title": "General de Exército Laerte de Souza Santos",
+          "website": "Gov.br",
+          "language": "pt",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
