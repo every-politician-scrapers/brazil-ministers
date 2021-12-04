@@ -7,17 +7,28 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      alt.empty? ? src : alt
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.parent.parent.css('a/@href').text.split('/').last
     end
+
+    private
+
+    def alt
+      noko.attr('alt').tidy
+    end
+
+    def src
+      noko.attr('src').split('/').last
+    end
+
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.tile img.image-inline')
     end
   end
 end
