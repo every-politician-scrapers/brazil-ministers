@@ -31,6 +31,12 @@ jobs:
       run: wd sparql -f csv bin/scraper/wikidata.js | sed -e 's/T00:00:00Z//g' | qsv dedup -s psid | ifne tee data/wikidata.csv
     - name: Generate diff
       run: bundle exec ruby bin/diff.rb | tee data/diff.csv
+    - name: Scrape governors list
+      run: bundle exec ruby bin/scraper/governors-wikipedia.rb | ifne tee data/governors-wikipedia.csv
+    - name: Get wikidata list of governors
+      run: wd sparql -f csv bin/scraper/governors-wikidata.js | sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' | qsv dedup -s psid | ifne tee data/governors-wikidata.csv
+    - name: Generate governors diff
+      run: bundle exec ruby bin/diff-governors.rb | tee data/diff-governors.csv
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3

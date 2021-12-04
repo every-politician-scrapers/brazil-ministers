@@ -10,6 +10,7 @@ gem 'every-politician-scraper', '0.1.13', github: 'tmtmtmtm/every-politician-scr
 gem 'open-uri-cached'
 gem 'pry'
 gem 'rake'
+gem 'table_unspanner', github: 'everypolitician/table_unspanner'
 gem 'wikidata_ids_decorator', github: 'everypolitician/wikidata_ids_decorator'
 
 group :test do

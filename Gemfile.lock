@@ -1,4 +1,11 @@
 GIT
+  remote: https://github.com/everypolitician/table_unspanner.git
+  revision: 238e7f90a8ff00f155cd60b811a89fc79a45b4fc
+  specs:
+    table_unspanner (0.1.1)
+      nokogiri
+
+GIT
   remote: https://github.com/everypolitician/wikidata_ids_decorator.git
   revision: 17265d480df935631957a8188de38bdd42cbd29f
   specs:
@@ -135,6 +142,7 @@ DEPENDENCIES
   rake
   reek (~> 6.0)
   rubocop (~> 0.89)
+  table_unspanner!
   wikidata_ids_decorator!
 
 RUBY VERSION
