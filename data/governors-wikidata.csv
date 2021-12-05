@@ -1,5 +1,4 @@
 state,stateLabel,position,positionLabel,person,personLabel,start,psid
-Q119158,Federal District,Q53739380,Q53739380,,,,
 Q42362,Maranhão,Q53739358,governor of Maranhão,Q10283063,Flávio Dino,2015-01-01,Q10283063-881681FB-4043-49A2-9EB8-ADA503493C52
 Q43255,Rio Grande do Norte,Q53739366,governor of Rio Grande do Norte,Q10286993,Fátima Bezerra,2019-01-01,Q10286993-FA3E6C5F-8BEF-439B-AB62-96168E64BDD1
 Q40780,Acre,Q47520037,governor of Acre,Q10290029,Gladson Cameli,2019-01-01,Q10290029-7961C02B-CAE9-44FD-9562-A4D8CB86AD9B
@@ -20,6 +19,7 @@ Q39109,Minas Gerais,Q53739337,governor of Minas Gerais,Q57092113,Romeu Zema,2019
 Q41115,Santa Catarina,Q53739354,governor of Santa Catarina,Q57946067,Carlos Moisés da Silva,2019-01-01,Q57946067-7aaa0b46-4168-07ad-8487-ee20006d5474
 Q41428,Rio de Janeiro,Q25471912,governor of Rio de Janeiro,Q57965921,Claudio Bomfim de Castro e Silva,2020-01-01,Q57965921-11ba5438-445b-00e2-e773-220a836599d1
 Q40040,Amazonas,Q53739362,governor of Amazonas,Q58047696,Wilson Lima,2019-01-01,Q58047696-0442DD7E-B3C1-4548-B763-C8622C4916F7
+Q119158,Federal District,Q18176444,Governor of the Federal District,Q58053056,Ibaneis Rocha,2019-01-01,Q58053056-96FFB248-E89F-4FEE-8559-464E885F3397
 Q42508,Roraima,Q53739390,governor of the state of Roraima,Q59284403,Antonio Denarium,2019-01-01,Q59284403-6d00b9d3-4601-9b29-afcb-a5fa9d4827d8
 Q43235,Rondônia,Q53739384,governor of Rondônia,Q60345250,Marcos Rocha,2019-01-01,Q60345250-118869b6-40b2-019b-2777-4a72be87896b
 Q42824,Mato Grosso,Q53739368,governor of Mato Grosso,Q7724122,Mauro Mendes,2019-01-01,Q7724122-bf167818-42fe-f8fd-6735-9d6b3363effd
