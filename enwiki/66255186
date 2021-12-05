@@ -1,0 +1,213 @@
+{
+  "title": "Gilson Machado Neto",
+  "pageID": 66255186,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "People from Recife",
+    "Social Christian Party (Brazil) politicians",
+    "Government ministers of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gilson Machado Guimarães Neto, commonly known as Gilson Machado Neto, is a Brazilian entrepreneur and politician, current Minister of Tourism under the government of Jair Bolsonaro.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gilson Machado Guimarães Neto",
+                  "Gilson Machado Neto"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He replaced the licensed federal deputy Marcelo Álvaro Antônio (PSL).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Marcelo Álvaro Antônio"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gilson Machado"
+          },
+          "image": {
+            "text": "Gilson Machado Neto (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Tourism",
+            "links": [
+              {
+                "text": "Minister of Tourism",
+                "type": "internal",
+                "page": "Ministry of Tourism (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 December 2020"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Marcelo Álvaro Antônio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marcelo Álvaro Antônio"
+              }
+            ]
+          },
+          "office1": {
+            "text": "President of Embratur",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Embratur"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 May 2019"
+          },
+          "term_end1": {
+            "text": "9 December 2020"
+          },
+          "president1": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Minister",
+            "links": [
+              {
+                "text": "Minister",
+                "type": "internal",
+                "page": "Ministry of Tourism (Brazil)"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Marcelo Álvaro Antônio",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marcelo Álvaro Antônio"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Paulo Senise"
+          },
+          "successor1": {
+            "text": "Carlos Alberto Gomes de Brito"
+          },
+          "birth_name": {
+            "text": "Gilson Machado Guimarães Neto"
+          },
+          "birth_place": {
+            "text": "Recife, Pernambuco, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Recife"
+              },
+              {
+                "type": "internal",
+                "page": "Pernambuco"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSC (2020–present)",
+            "links": [
+              {
+                "text": "PSC",
+                "type": "internal",
+                "page": "Social Christian Party (Brazil)"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Entrepreneur"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.poder360.com.br/governo/gilson-machado-deixa-embratur-para-ser-o-novo-ministro-do-turismo/",
+          "title": "Gilson Machado deixa Embratur para ser o novo ministro do Turismo",
+          "website": "Poder360",
+          "language": "pt",
+          "first": "Murilo",
+          "last": "Fagundes",
+          "date": "9 December 2020",
+          "accessdate": "1 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/mg/minas-gerais/noticia/2019/10/04/ministro-do-turismo-e-denunciado-pelo-ministerio-publico-de-mg-por-candidaturas-laranja-do-psl-1.ghtml",
+          "title": "Ministro do Turismo é denunciado pelo Ministério Público de MG por candidaturas-laranja do PSL",
+          "website": "G1",
+          "language": "pt",
+          "first1": "Flávia",
+          "last1": "Lages",
+          "first2": "Cintia",
+          "last2": "Paes",
+          "date": "4 October 2019",
+          "accessdate": "1 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2020/12/10/demissao-de-marcelo-alvaro-antonio-do-ministerio-do-turismo-e-publicada-no-diario-oficial.ghtml",
+          "title": "Demissão de Marcelo Álvaro Antônio do Ministério do Turismo é publicada no Diário Oficial",
+          "website": "G1",
+          "language": "pt",
+          "date": "10 December 2020",
+          "accessdate": "1 January 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

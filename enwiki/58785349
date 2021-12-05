@@ -24,8 +24,11 @@
               "links": [
                 {
                   "text": "Ratinho",
-                  "type": "internal",
-                  "page": ":pt:Carlos Massa"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "pt"
+                  }
                 }
               ],
               "formatting": {
@@ -144,8 +147,11 @@
             "links": [
               {
                 "text": "Ratinho",
-                "type": "internal",
-                "page": ":pt:Carlos Massa"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "pt"
+                }
               }
             ]
           },

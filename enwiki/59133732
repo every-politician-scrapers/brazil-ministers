@@ -1,0 +1,169 @@
+{
+  "title": "Wagner de Campos Rosário",
+  "pageID": 59133732,
+  "categories": [
+    "Living people",
+    "University of Salamanca alumni",
+    "People from Juiz de Fora",
+    "Government ministers of Brazil",
+    "Year of birth missing (living people)",
+    "Universidade Gama Filho alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wagner de Campos Rosário (Juiz de Fora) is the current Brazilian Minister of Transparency, Supervision and Control, having temporarily assumed the post after the resignation of Torquato Jardim and the refusal of Osmar Serraglio, and became effective thereafter.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Juiz de Fora"
+                },
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Torquato Jardim"
+                },
+                {
+                  "type": "internal",
+                  "page": "Osmar Serraglio"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wagner de Campos Rosário"
+                ]
+              }
+            },
+            {
+              "text": "On November 20, 2018, President-elect Jair Bolsonaro stated that Wagner Campos will remain in the ministry."
+            },
+            {
+              "text": "Rosário served as a career servant at the Ministry of Transparency, Supervision and Control and, from August 2016 until March 2017, he was executive secretary of the pulp."
+            },
+            {
+              "text": "He was also captain of the Army."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wagner de Campos Rosário"
+          },
+          "image": {
+            "text": "Wagner Rosário em 30 de julho de 2019 (recorte).jpg"
+          },
+          "caption": {
+            "text": "Rosário in July 2019"
+          },
+          "office": {
+            "text": "Comptroller General of the Union",
+            "links": [
+              {
+                "text": "Comptroller General of the Union",
+                "type": "internal",
+                "page": "Comptroller General of Brazil"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 May 2017"
+          },
+          "president": {
+            "text": "Michel Temer Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michel Temer"
+              },
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Torquato Jardim",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Torquato Jardim"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Catholic University of Brasília Universidad de Salamanca",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Catholic University of Brasília"
+              },
+              {
+                "type": "internal",
+                "page": "Universidad de Salamanca"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Police officer"
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "Brazil",
+                "type": "internal",
+                "page": "brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Army"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Capitão.png Captain",
+            "links": [
+              {
+                "text": "Captain",
+                "type": "internal",
+                "page": "Captain (armed forces)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Bolsonaro anuncia que vai manter Wagner Rosário como ministro da Controladoria-Geral da União",
+          "url": "https://g1.globo.com/politica/noticia/2018/11/20/bolsonaro-anuncia-wagner-rosario-para-ministro-da-controladoria-geral-da-uniao.ghtml",
+          "journal": "G1",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    }
+  ]
+}

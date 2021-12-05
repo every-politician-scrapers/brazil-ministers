@@ -1,0 +1,331 @@
+{
+  "title": "Rogério Simonetti Marinho",
+  "pageID": 63739262,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "People from Natal, Rio Grande do Norte",
+    "Brazilian Social Democracy Party politicians",
+    "Government ministers of Brazil",
+    "Members of the Chamber of Deputies (Brazil) from Rio Grande do Norte"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rogério Simonetti Marinho (born 26 November 1963) is a Brazilian economist and politician, member of the Brazilian Social Democracy Party (PSDB).",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazilian Social Democracy Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rogério Simonetti Marinho"
+                ]
+              }
+            },
+            {
+              "text": "He was a Federal Deputy until 1 February 2019, representing the state of Rio Grande do Norte, and is Honour President of the PSDB in his state.",
+              "links": [
+                {
+                  "text": "Federal Deputy",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Brazil)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rio Grande do Norte"
+                }
+              ]
+            },
+            {
+              "text": "Marinho was State Secretary of Economic Development of Rio Grande do Norte during the government of Rosalba Ciarlini.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rosalba Ciarlini"
+                }
+              ]
+            },
+            {
+              "text": "Currently, he is Minister of Regional Development, nominated by president Jair Bolsonaro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian economist and politician",
+          "template": "short description"
+        },
+        {
+          "first": "Simonetti",
+          "second": "Marinho",
+          "template": "portuguese name"
+        },
+        {
+          "year": "1963",
+          "month": "11",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rogério Marinho"
+          },
+          "image": {
+            "text": "Rogério Marinho em março de 2017.jpg"
+          },
+          "office": {
+            "text": "Minister of Regional Development",
+            "links": [
+              {
+                "text": "Minister of Regional",
+                "type": "internal",
+                "page": "Ministry of National Integration"
+              },
+              {
+                "text": "Development",
+                "type": "internal",
+                "page": "Ministry of Cities"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 February 2020"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Gustavo Canuto",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gustavo Canuto"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Special Secretary of Social Security and Labour"
+          },
+          "term_start1": {
+            "text": "1 January 2019"
+          },
+          "term_end1": {
+            "text": "6 February 2020"
+          },
+          "president1": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Minister",
+            "links": [
+              {
+                "text": "Minister",
+                "type": "internal",
+                "page": "Ministry of the Economy (Brazil)"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Paulo Guedes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulo Guedes"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Marcelo Caetano"
+          },
+          "successor1": {
+            "text": "Bruno Bianco"
+          },
+          "office2": {
+            "text": "Federal Deputy from Rio Grande do Norte",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "type": "internal",
+                "page": "Rio Grande do Norte"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 February 2015"
+          },
+          "term_end2": {
+            "text": "1 January 2019"
+          },
+          "term_start3": {
+            "text": "1 February 2007"
+          },
+          "term_end3": {
+            "text": "5 November 2012"
+          },
+          "office4": {
+            "text": "State Secretary of Economic Development of Rio Grande do Norte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rio Grande do Norte"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "13 December 2012"
+          },
+          "term_end4": {
+            "text": "10 January 2014"
+          },
+          "1blankname4": {
+            "text": "Governor",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "Governors of Rio Grande do Norte"
+              }
+            ]
+          },
+          "1namedata4": {
+            "text": "Rosalba Ciarlini",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosalba Ciarlini"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Rogério Simonetti Marinho"
+          },
+          "birth_date": {
+            "text": "November 26, 1963"
+          },
+          "birth_place": {
+            "text": "Natal, Rio Grande do Norte, Brazil",
+            "links": [
+              {
+                "text": "Natal",
+                "type": "internal",
+                "page": "Natal, Rio Grande do Norte"
+              },
+              {
+                "type": "internal",
+                "page": "Rio Grande do Norte"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSDB (2009-2020)",
+            "links": [
+              {
+                "text": "PSDB",
+                "type": "internal",
+                "page": "Brazilian Social Democracy Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PSB (1993–2009)",
+            "links": [
+              {
+                "text": "PSB",
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              }
+            ]
+          },
+          "education": {
+            "text": "Marist High School of Natal"
+          },
+          "alma_mater": {
+            "text": "Potiguar University (BEc)"
+          },
+          "profession": {
+            "text": "Economist"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.psdb.org.br/acompanhe/rogerio-marinho-comanda-encontro-regional-do-psdb-em-caico/",
+          "title": "Rogério Marinho comanda encontro regional do PSDB em Caicó",
+          "publisher": "Partido da Social Democracia Brasileira",
+          "language": "pt",
+          "date": "7 May 2016",
+          "accessdate": "22 April 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.tribunadonorte.com.br/noticia/itagres-promete-retomada/239204",
+          "title": "Itagres promete retomada",
+          "publisher": "Tribuna do Norte",
+          "language": "pt",
+          "first": "Andrielle",
+          "last": "Mendes",
+          "date": "18 December 2012",
+          "accessdate": "22 April 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/politica/noticia/2020/02/11/bolsonaro-da-posse-a-rogerio-marinho-como-ministro-do-desenvolvimento-regional.ghtml",
+          "title": "Bolsonaro dá posse a Rogério Marinho como ministro do Desenvolvimento Regional",
+          "publisher": "G1",
+          "language": "pt",
+          "first": "Guilherme",
+          "last": "Mazui",
+          "date": "11 February 2020",
+          "accessdate": "22 April 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

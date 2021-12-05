@@ -1,0 +1,331 @@
+{
+  "title": "Augusto Heleno",
+  "pageID": 58952023,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "Brazilian generals",
+    "United Nations military personnel",
+    "People from Curitiba",
+    "Brazilian politicians convicted of corruption",
+    "Government ministers of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Augusto Heleno Ribeiro Pereira (born 29 October 1947) is a Brazilian politician and retired General of the Brazilian Army.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazilian Army"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Augusto Heleno Ribeiro Pereira"
+                ]
+              }
+            },
+            {
+              "text": "He was military commander of the Amazon and Chief of the Department of Science and Technology of the Army."
+            },
+            {
+              "text": "Heleno has declared positions against official politics, particularly about the attitude of the international community in regards to Haiti and the indigenous politics of the Brazilian government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haiti"
+                },
+                {
+                  "text": "Brazilian government",
+                  "type": "internal",
+                  "page": "Politics of Brazil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During Jair Bolsonaro presidential campaign, the candidate invited Heleno as his running mate in the election, but his party refused.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "text": "presidential campaign",
+                  "type": "internal",
+                  "page": "Jair Bolsonaro presidential campaign, 2018"
+                }
+              ]
+            },
+            {
+              "text": "The general was then invited for Minister of Defence of Bolsonaro's government."
+            },
+            {
+              "text": "However, the nominated minister stepped back and was chosen for the Institutional Security Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institutional Security Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "first": "Ribeiro",
+          "second": "Pereira",
+          "template": "portuguese name"
+        },
+        {
+          "year": "1947",
+          "month": "10",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (Brazil)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Augusto Heleno"
+          },
+          "image": {
+            "text": "Augusto Heleno (cropped).jpg"
+          },
+          "office": {
+            "text": "Secretary of Institutional Security",
+            "links": [
+              {
+                "text": "Secretary of Institutional Security",
+                "type": "internal",
+                "page": "Institutional Security Office of Brazil"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sérgio Etchegoyen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sérgio Etchegoyen"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Commander of MINUSTAH",
+            "links": [
+              {
+                "text": "MINUSTAH",
+                "type": "internal",
+                "page": "United Nations Stabilisation Mission in Haiti"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 2004"
+          },
+          "term_end1": {
+            "text": "August 2005"
+          },
+          "1blankname1": {
+            "text": "Head"
+          },
+          "1namedata1": {
+            "text": "Juan Gabriel Valdés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Gabriel Valdés"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Urano Teixeira da Matta Bacellar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Urano Teixeira da Matta Bacellar"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Augusto Heleno Ribeiro Pereira"
+          },
+          "birth_date": {
+            "text": "October 29, 1947"
+          },
+          "birth_place": {
+            "text": "Curitiba, Paraná, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Curitiba"
+              },
+              {
+                "text": "Paraná",
+                "type": "internal",
+                "page": "Paraná (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "PRP (2018)",
+            "links": [
+              {
+                "text": "PRP",
+                "type": "internal",
+                "page": "Progressive Republican Party (Brazil)"
+              }
+            ]
+          },
+          "mother": {
+            "text": "Edina Ribeiro"
+          },
+          "father": {
+            "text": "Ari de Oliveira Pereira"
+          },
+          "spouse": {
+            "text": "Sônia Pereira"
+          },
+          "children": {
+            "text": "Renata Mário Márcio"
+          },
+          "occupation": {
+            "text": "Military"
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "🇧🇷",
+                "type": "internal",
+                "page": "brazil"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1966–2011"
+          },
+          "rank": {
+            "text": "General do Exército.gif General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (Brazil)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Preparatory School for Army Cadets 5th Armored Cavalry Brigade Army Physical Capacity Center United Nations Stabilisation Mission in Haiti Amazon Military Command Department of Science and Technology",
+            "links": [
+              {
+                "text": "Preparatory School for Army Cadets",
+                "type": "internal",
+                "page": "Escola Preparatória de Cadetes do Exército"
+              },
+              {
+                "type": "internal",
+                "page": "United Nations Stabilisation Mission in Haiti"
+              },
+              {
+                "type": "internal",
+                "page": "Amazon Military Command"
+              }
+            ]
+          },
+          "mawards": {
+            "text": "Marshal Hermes Medal"
+          },
+          "signature": {
+            "text": "Augusto Heleno signature.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.com/portuguese/brasil-46017462",
+          "title": "Bolsonaro presidente: Quem são os 4 nomes apontados como prováveis ministros",
+          "publisher": "BBC Brasil",
+          "language": "pt",
+          "date": "29 October 2018",
+          "accessdate": "3 November 2018",
+          "newspaper": "BBC News Brasil",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/07/general-afirma-que-nao-sera-vice-de-bolsonaro.shtml",
+          "title": "General Augusto Heleno afirma que não será vice de Bolsonaro",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "first": "Talita",
+          "last": "Fernandes",
+          "date": "18 July 2018",
+          "accessdate": "3 November 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
