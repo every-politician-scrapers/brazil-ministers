@@ -55,6 +55,10 @@
       ],
       "templates": [
         {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
           "year": "1960",
           "month": "12",
           "day": "3",
