@@ -42,6 +42,10 @@
               "links": [
                 {
                   "type": "internal",
+                  "page": "Diário Oficial da União"
+                },
+                {
+                  "type": "internal",
                   "page": "Ricardo Salles"
                 }
               ]
@@ -51,7 +55,14 @@
         {
           "sentences": [
             {
-              "text": "Joaquim Alvaro Pereira Leite was until then responsible for the Amazon and Environmental Services Secretariat at the Ministry of the Environment."
+              "text": "Joaquim Alvaro Pereira Leite was until then responsible for the Amazon and Environmental Services Secretariat at the Ministry of the Environment.",
+              "links": [
+                {
+                  "text": " Ministry of the Environment",
+                  "type": "internal",
+                  "page": "Ministry of the Environment (Brazil) "
+                }
+              ]
             }
           ]
         }
