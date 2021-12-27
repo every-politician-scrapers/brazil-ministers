@@ -19,35 +19,22 @@ jobs:
       run: |-
         sudo apt-get install jq moreutils
         npm install -g wikibase-cli
-        curl -L https://github.com/jqnatividad/qsv/releases/download/0.20.0/qsv-0.20.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
+        curl -L https://github.com/jqnatividad/qsv/releases/download/0.22.0/qsv-0.22.0-x86_64-unknown-linux-gnu.zip -o /tmp/qsv.zip
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
-    - name: Install ruby dependencies
-      run: bundle install
-    - name: Scrape official site (mirrored earlier)
-      run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
-    - name: Scrape enwiki
-      run: bundle exec ruby bin/scraper/wikipedia.rb | ifne tee data/wikipedia.csv
-    - name: Get current wikidata list
-      run: wd sparql -f csv bin/scraper/wikidata.js | sed -e 's/T00:00:00Z//g' | qsv dedup -s psid | ifne tee data/wikidata.csv
-    - name: Generate diff
-      run: bundle exec ruby bin/diff.rb | tee data/diff.csv
-    - name: Scrape governors list
-      run: bundle exec ruby bin/scraper/governors-wikipedia.rb | ifne tee data/governors-wikipedia.csv
-    - name: Get wikidata list of governors
-      run: wd sparql -f csv bin/scraper/governors-wikidata.js | sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' | qsv dedup -s psid | ifne tee data/governors-wikidata.csv
-    - name: Generate governors diff
-      run: bundle exec ruby bin/diff-governors.rb | tee data/diff-governors.csv
+        bundle install
+    - name: Compare external sources to Wikidata
+      run: for comp in bin/compare-*.sh; do bash $comp; done
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: Diff Wikipedia to Wikidata
+        commit-message: Compare external sources to Wikidata
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: data-update
         delete-branch: true
-        title: 'Current member list'
+        title: 'Compare external sources to Wikidata'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs
