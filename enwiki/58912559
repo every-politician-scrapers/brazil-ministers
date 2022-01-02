@@ -192,6 +192,9 @@
               }
             ]
           },
+          "partner": {
+            "text": "Thalis Bolzan"
+          },
           "alma_mater": {
             "text": "Federal University of Pelotas",
             "links": [
