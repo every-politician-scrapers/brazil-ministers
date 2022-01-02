@@ -336,38 +336,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://agenciabrasil.ebc.com.br/politica/noticia/2018-10/bolsonaro-confirma-quatro-ministros-para-seu-governo",
-          "title": "Bolsonaro confirma quatro ministros para seu governo",
-          "publisher": "Agência Brasil",
-          "language": "pt",
-          "first": "Carolina",
-          "last": "Gonçalves",
-          "date": "October 28, 2018",
-          "access-date": "October 31, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://g1.globo.com/politica/eleicoes/2018/noticia/2018/10/30/astronauta-marcos-pontes-diz-que-aceitou-convite-para-ser-ministro-de-ciencia-e-tecnologia.ghtml",
-          "title": "Astronauta Marcos Pontes diz que aceitou convite para ser ministro de Ciência e Tecnologia",
-          "publisher": "G1",
-          "language": "pt",
-          "date": "October 30, 2018",
-          "access-date": "October 31, 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.spacefacts.de/bios/international/english/pontes_marcos.htm",
-          "title": "Astronaut Biography: Marcos Pontes",
-          "website": "www.spacefacts.de",
-          "access-date": "Aug 28, 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

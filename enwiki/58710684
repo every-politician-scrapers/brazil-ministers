@@ -153,32 +153,6 @@
             "text": "Economist"
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Ayres",
-          "first": "Marcela",
-          "date": "31 August 2018",
-          "title": "O que pensa Paulo Guedes, o cérebro econômico de Jair Bolsonaro",
-          "url": "https://exame.abril.com.br/brasil/o-que-pensa-paulo-guedes-o-cerebro-economico-de-jair-bolsonaro/",
-          "work": "Exame",
-          "access-date": "9 October 2018",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Alves",
-          "first1": "Raoni",
-          "last2": "Matoso",
-          "first2": "Filipe",
-          "date": "30 October 2018",
-          "title": "Ministério da Economia unificará Fazenda, Planejamento e Indústria, diz Paulo Guedes",
-          "url": "https://g1.globo.com/politica/noticia/2018/10/30/ministerio-da-economia-unificara-fazenda-planejamento-e-industria-diz-paulo-guedes.ghtml",
-          "work": "G1",
-          "access-date": "21 January 2019",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

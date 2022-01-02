@@ -243,44 +243,6 @@
             "text": "Rodrigo Otavio Soares Pacheco assinatura.jpg"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://icslatam.com/",
-          "title": "Brazilian President Dilma Rousseff fails to win Senate seat ICSLATAM.COM",
-          "last": "Services (ICS)",
-          "first": "International Consulting",
-          "last2": "Services (ICS)",
-          "first2": "International Consulting",
-          "website": "icslatam.com",
-          "language": "en",
-          "access-date": "2019-07-11",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Rodrigo Pacheco - MG",
-          "url": "https://www25.senado.leg.br/web/senadores/senador/-/perfil/5732",
-          "language": "pt",
-          "access-date": "10 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "RODRIGO PACHECO – Biografia",
-          "url": "https://www.camara.leg.br/deputados/178897/biografia",
-          "work": "Câmara dos Deputados do Brasil",
-          "language": "pt",
-          "access-date": "10 July 2019",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

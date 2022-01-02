@@ -147,22 +147,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Bolsonaro anuncia que vai manter Wagner Rosário como ministro da Controladoria-Geral da União",
-          "url": "https://g1.globo.com/politica/noticia/2018/11/20/bolsonaro-anuncia-wagner-rosario-para-ministro-da-controladoria-geral-da-uniao.ghtml",
-          "journal": "G1",
-          "language": "pt-BR",
-          "template": "citation",
-          "type": "journal"
-        }
       ]
     }
   ]

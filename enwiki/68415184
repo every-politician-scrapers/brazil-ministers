@@ -124,40 +124,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://g1.globo.com/politica/noticia/2021/08/06/bolsonaro-nomeia-bruno-bianco-para-o-lugar-de-andre-mendonca-na-agu.ghtml",
-          "title": "Indicado para o STF, Mendonça deixa AGU; Bruno Bianco assume o cargo",
-          "website": "G1",
-          "date": "6 August 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.cnnbrasil.com.br/politica/2021/08/05/bolsonaro-ja-teria-comunicado-a-ministros-escolha-de-bruno-bianco-para-a-agu",
-          "title": "Bolsonaro confirma que nomeará Bruno Bianco como ministro da AGU",
-          "website": "CNN",
-          "date": "6 August 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://g1.globo.com/economia/noticia/2019/04/17/mickey-da-previdencia-secretario-da-pasta-bruno-bianco-usa-as-redes-para-divulgar-o-projeto-da-reforma.ghtml",
-          "title": "'Mickey da Previdência': secretário da pasta, Bruno Bianco usa as redes para divulgar o projeto da reforma",
-          "website": "G1",
-          "date": "17 April 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://noticias.r7.com/brasil/bruno-bianco-e-confirmado-como-novo-advogado-geral-da-uniao-06082021",
-          "title": "Bruno Bianco é confirmado como novo advogado-geral da União",
-          "website": "R7",
-          "date": "6 August 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

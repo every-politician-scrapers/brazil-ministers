@@ -159,49 +159,6 @@
             "number": 3
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Antônio Denarium",
-          "url": "https://especiais.gazetadopovo.com.br/eleicoes/2018/candidatos/rr/governador/antonio-denarium/",
-          "website": "Gazeta do Povo",
-          "accessdate": "9 May 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Daniels",
-          "first1": "Joe Parkin",
-          "last2": "Phillips",
-          "first2": "Dom",
-          "title": "Exiled Venezuelans yearn for home, but fear a long wait for change",
-          "url": "https://www.theguardian.com/world/2019/jan/27/exiled-venezuelans-yearn-for-home-but-fear-a-long-wait-for-change",
-          "accessdate": "9 May 2019",
-          "newspaper": "The Guardian",
-          "date": "January 27, 2019",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2018-12-09",
-          "title": "Venezuela’s Health Tragedy and Brazil’s Response",
-          "url": "https://www.hrw.org/news/2018/12/09/venezuelas-health-tragedy-and-brazils-response",
-          "access-date": "2021-03-30",
-          "website": "Human Rights Watch",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2020-05-28",
-          "title": "Apoiador de Bolsonaro, Governador de RR se desfilia do PSL",
-          "url": "https://g1.globo.com/rr/roraima/noticia/2020/05/28/apoiador-de-bolsonaro-governador-de-rr-se-desfilia-do-psl.ghtml",
-          "access-date": "2021-03-28",
-          "website": "G1",
-          "language": "pt",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
