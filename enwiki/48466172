@@ -268,65 +268,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://g1.globo.com/ma/maranhao/eleicoes/2014/noticia/2014/10/conheca-o-perfil-de-flavio-dino-governador-eleito-do-maranhao.html",
-          "title": "Conheça o perfil de Flávio Dino, governador eleito do Maranhão",
-          "last": "Editorial Team",
-          "date": "5 October 2014",
-          "access-date": "2 July 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Aires)",
-          "first": "Augusto Taglioni (Buenos",
-          "title": "Flavio Dino, la nueva estrella de la izquierda brasileña que busca heredar a Lula",
-          "url": "https://www.lapoliticaonline.com.mx/nota/134012-flavio-dino-la-nueva-estrella-de-la-izquierda-brasilena-que-busca-heredar-a-lula/",
-          "access-date": "2 January 2021",
-          "website": "www.lapoliticaonline.com.mx",
-          "language": "es-ar",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Flávio Dino decide que irá disputar o Senado em 2022 {{!}} Radar",
-          "url": "https://veja.abril.com.br/blog/radar/flavio-dino-decide-que-ira-disputar-o-senado-em-2022/",
-          "access-date": "2 January 2021",
-          "website": "VEJA",
-          "language": "pt-BR",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "10 May 2014",
-          "title": "Flávio Dino, do PCdoB, é eleito governador do Maranhão",
-          "url": "http://g1.globo.com/ma/maranhao/eleicoes/2014/noticia/2014/10/flavio-dino-do-pcdob-e-eleito-governador-do-maranhao.html",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20200115070759/http://g1.globo.com/ma/maranhao/eleicoes/2014/noticia/2014/10/flavio-dino-do-pcdob-e-eleito-governador-do-maranhao.html",
-          "archive-date": "15 January 2020",
-          "access-date": "30 November 2020",
-          "website": "G1 (website)",
-          "publisher": "Grupo Globo",
-          "language": "pt-BR",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "10 August 2018",
-          "title": "Resultado da apuração do 1º turno das Eleições 2018 - Maranhão (MA) para governador, senador, deputado federal e deputado estadual.",
-          "url": "https://g1.globo.com/politica/eleicoes/2018/ma/apuracao/governador.ghtml",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20190504022938/https://g1.globo.com/politica/eleicoes/2018/ma/apuracao/governador.ghtml",
-          "archive-date": "4 May 2019",
-          "access-date": "30 November 2020",
-          "website": "G1 (website)",
-          "publisher": "Grupo Globo",
-          "language": "pt-br",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

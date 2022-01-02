@@ -161,26 +161,6 @@
             "text": "Lawyer"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.es.gov.br/site/governo/governador.aspx",
-          "title": "Governador Renato Casagrande",
-          "publisher": "Governo do Estado do Espírito Santo",
-          "language": "Portuguese",
-          "access-date": "2011-08-25",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20110830164208/http://www.es.gov.br/site/governo/governador.aspx",
-          "archive-date": "2011-08-30",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

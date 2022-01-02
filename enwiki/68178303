@@ -132,50 +132,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://g1.globo.com/politica/noticia/2021/06/23/bolsonaro-exonera-salles-do-cargo-de-ministro-do-meio-ambiente.ghtml",
-          "title": "Cai o ministro Ricardo Salles, do Meio Ambiente",
-          "website": "G1",
-          "lang": "pt",
-          "date": "June 23, 2021",
-          "accessdate": "October 17, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://g1.globo.com/politica/noticia/2021/06/23/quem-e-joaquim-alvaro-pereira-leite-que-substitui-salles-no-ministerio-do-meio-ambiente.ghtml",
-          "title": "Quem é Joaquim Alvaro Pereira Leite, que substitui Salles no Ministério do Meio Ambiente",
-          "trans-title": "Who is Joaquim Alvaro Pereira Leite, who replaces Salles in the Ministry of the Environment",
-          "website": "G1",
-          "lang": "pt",
-          "date": "June 23, 2020",
-          "accessdate": "October 17, 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://g1.globo.com/df/distrito-federal/noticia/2021/06/23/ricardo-salles-entenda-operacao-contra-exportacao-ilegal-de-madeira-que-mira-ministro-do-meio-ambiente.ghtml",
-          "last": "Alves",
-          "first": "Pedro",
-          "title": "Ricardo Salles é investigado por esquema de exportação ilegal de madeira; entenda",
-          "website": "G1",
-          "lang": "pt",
-          "date": "June 23, 2021",
-          "accessdate": "October 17, 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.gov.br/mma/pt-br/acesso-a-informacao/institucional/quem-e-quem-1/secretaria-da-amazonia-e-servicos-ambientais/joaquim-leite.pdf",
-          "title": "MINISTÉRIO DO MEIO AMBIENTE",
-          "trans-title": "Ministry of Environment",
-          "lang": "pt",
-          "accessdate": "October 17, 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -143,60 +143,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://brazilian.report/power/2018/12/07/damares-alves-minister-human-rights/",
-          "title": "Who is Damares Alves, Brazil's new Minister of Human Rights?",
-          "last": "Marshall",
-          "first": "Euan",
-          "date": "2018-12-07",
-          "website": "The Brazilian Report",
-          "language": "en-US",
-          "access-date": "2018-12-09",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.oantagonista.com/brasil/damares-faz-ronda-no-senado-para-aprovar-projeto-antissuicidio/",
-          "title": "Damares faz ronda no Senado para aprovar projeto antissuicídio",
-          "date": "2019-04-03",
-          "website": "O Antagonista",
-          "language": "pt-BR",
-          "access-date": "2019-05-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.mdh.gov.br/todas-as-noticias/2019/abril/governo-federal-anuncia-agenda-juventude-4-0-em-todo-o-pais",
-          "title": "Governo Federal anuncia Agenda Juventude 4.0 em todo o país",
-          "last": "Oliveira",
-          "first": "Raquel",
-          "website": "Mulher, da Família e dos Direitos Humanos",
-          "language": "pt-br",
-          "access-date": "2019-05-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.theguardian.com/world/2018/dec/06/outcry-over-bolsonaros-plan-to-put-conservative-in-charge-of-new-family-and-women-ministry",
-          "title": "Bolsonaro abolishes human rights ministry in favour of family values &#124; World news",
-          "website": "The Guardian",
-          "access-date": "2018-12-09",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.mdh.gov.br/todas-as-noticias/2019/maio/ministra-damares-alves-promove-acoes-do-ministerio-em-parceria-com-o-tjse",
-          "title": "Ministra Damares Alves promove ações do ministério em parceria com o TJSE",
-          "last": "Oliveira",
-          "first": "Raquel",
-          "website": "Mulher, da Família e dos Direitos Humanos",
-          "language": "pt-br",
-          "access-date": "2019-05-04",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

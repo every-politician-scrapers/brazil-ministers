@@ -336,33 +336,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "Londoño",
-          "first1": "Ernesto",
-          "last2": "Casado",
-          "first2": "Letícia",
-          "title": "As Virus and Economic Woes Ravage Brazil, Bolsonaro Improvises and Confounds",
-          "url": "https://www.nytimes.com/2021/03/31/world/americas/brazil-coronavirus-bolsonaro.html?action=click&module=Spotlight&pgtype=Homepage",
-          "access-date": "1 April 2021",
-          "work": "The New York Times",
-          "date": "31 March 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://exame.abril.com.br/brasil/quem-e-o-general-que-vai-comandar-a-intervencao-do-exercito-no-rj/",
-          "title": "Quem é o general que vai comandar a intervenção federal no RJ",
-          "magazine": "Exame",
-          "language": "pt",
-          "first": "Talita",
-          "last": "Abrantes",
-          "date": "16 February 2018",
-          "accessdate": "12 February 2020",
-          "template": "citation",
-          "type": "magazine"
-        }
       ]
     }
   ]

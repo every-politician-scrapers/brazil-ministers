@@ -356,33 +356,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://exame.abril.com.br/brasil/saiba-quem-e-onyx-lorenzoni-futuro-ministro-da-casa-civil-de-bolsonaro/",
-          "title": "A trajetória de Onyx Lorenzoni, futuro ministro da Casa Civil de Bolsonaro",
-          "publisher": "Exame",
-          "language": "pt",
-          "date": "31 October 2018",
-          "access-date": "3 November 2018",
-          "url-access": "limited",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www1.folha.uol.com.br/poder/2018/10/equipe-de-bolsonaro-entrega-22-nomes-do-grupo-de-transicao-ao-planalto.shtml",
-          "title": "Equipe de Bolsonaro entrega 22 nomes do grupo de transição ao Planalto",
-          "publisher": "Folha de S. Paulo",
-          "language": "pt",
-          "first1": "Laís",
-          "last1": "Alegretti",
-          "first2": "Daniel",
-          "last2": "Carvalho",
-          "date": "31 October 2018",
-          "access-date": "3 November 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
