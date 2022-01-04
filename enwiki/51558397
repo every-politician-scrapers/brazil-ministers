@@ -19,13 +19,6 @@
           "sentences": [
             {
               "text": "José Renan Vasconcelos Calheiros Filho (born December 8, 1979) is a Brazilian economist and politician.",
-              "links": [
-                {
-                  "text": "Brazilian",
-                  "type": "internal",
-                  "page": "Brazil"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "José Renan Vasconcelos Calheiros Filho"

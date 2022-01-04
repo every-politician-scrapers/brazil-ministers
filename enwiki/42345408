@@ -21,13 +21,6 @@
           "sentences": [
             {
               "text": "Ciro Nogueira Lima Filho (born November 21, 1968) is a Brazilian lawyer and politician.",
-              "links": [
-                {
-                  "text": "Brazilian",
-                  "type": "internal",
-                  "page": "Brazil"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Ciro Nogueira Lima Filho"
