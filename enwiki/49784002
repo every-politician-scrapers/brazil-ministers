@@ -18,13 +18,6 @@
           "sentences": [
             {
               "text": "Paulo Henrique Saraiva Câmara (born August 8, 1972 in Recife) is a Brazilian politician.",
-              "links": [
-                {
-                  "text": "Brazilian",
-                  "type": "internal",
-                  "page": "Brazil"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Paulo Henrique Saraiva Câmara"
@@ -63,12 +56,10 @@
           "template": "short description"
         },
         {
-          "list": [
-            "1972",
-            "08",
-            "8"
-          ],
-          "template": "birthdate and age"
+          "year": "1972",
+          "month": "08",
+          "day": "8",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -90,6 +81,9 @@
           },
           "term_start1": {
             "text": "January 1, 2015"
+          },
+          "birth_date": {
+            "text": "August 8, 1972"
           },
           "birth_place": {
             "text": "Recife, PE",

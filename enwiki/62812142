@@ -18,13 +18,6 @@
           "sentences": [
             {
               "text": "Tarcísio Gomes de Freitas (born 19 June 1975) is a Brazilian engineer and military.",
-              "links": [
-                {
-                  "text": "Brazilian",
-                  "type": "internal",
-                  "page": "Brazil"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Tarcísio Gomes de Freitas"

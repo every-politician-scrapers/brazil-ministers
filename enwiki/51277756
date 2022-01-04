@@ -20,13 +20,6 @@
           "sentences": [
             {
               "text": "Maria de Fátima Bezerra (born May 19, 1955) is a Brazilian politician.",
-              "links": [
-                {
-                  "text": "Brazilian",
-                  "type": "internal",
-                  "page": "Brazil"
-                }
-              ],
               "formatting": {
                 "bold": [
                   "Maria de Fátima Bezerra"
