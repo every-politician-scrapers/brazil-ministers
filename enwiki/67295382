@@ -47,6 +47,10 @@
       ],
       "templates": [
         {
+          "description": "Brazilian delegate, Minister of Justice of Brazil",
+          "template": "short description"
+        },
+        {
           "birth_year": "1976",
           "template": "birth year and age"
         }
