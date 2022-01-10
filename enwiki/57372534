@@ -50,14 +50,19 @@
               ]
             },
             {
-              "text": "Mourão is the first ethnically indigenous person to serve as vice president.",
+              "text": "Mourão is the first person of caboclo background to serve as vice president.",
               "links": [
                 {
-                  "text": "indigenous",
+                  "text": "caboclo",
                   "type": "internal",
-                  "page": "Indigenous Brazilian"
+                  "page": "caboclo"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "caboclo"
+                ]
+              }
             }
           ]
         },
@@ -268,6 +273,10 @@
           },
           "spouse": {
             "text": "Ana Elisabeth Rossell (m. 1976-2016) Paula de Oliveira (m. 2018)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
           },
           "signature": {
             "text": "Hamilton Mourão signature.svg"
