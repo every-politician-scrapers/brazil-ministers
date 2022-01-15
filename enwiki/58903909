@@ -35,6 +35,10 @@
       ],
       "templates": [
         {
+          "description": "Brazilian businessman and politician",
+          "template": "short description"
+        },
+        {
           "year": "1964",
           "month": "10",
           "day": "28",
@@ -45,7 +49,7 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Romeu Zema Neto"
+            "text": "Romeu Zema"
           },
           "image": {
             "text": "Romeu Zema em janeiro de 2019.jpg"
