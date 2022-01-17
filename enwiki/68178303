@@ -69,8 +69,8 @@
       ],
       "templates": [
         {
-          "year": "1975",
-          "month": "7",
+          "year": "1967",
+          "month": "12",
           "day": "8",
           "df": "y",
           "template": "birth date and age"
@@ -116,20 +116,34 @@
             ]
           },
           "birth_date": {
-            "text": "July 8, 1975"
+            "text": "December 8, 1967"
           },
           "birth_place": {
-            "text": "Palmeiras de Goiás, Goiás, Brazil",
+            "text": "São Paulo, Brazil",
             "links": [
               {
                 "type": "internal",
-                "page": "Palmeiras de Goiás"
-              },
-              {
-                "type": "internal",
-                "page": "Goiás"
+                "page": "São Paulo"
               }
             ]
+          },
+          "alma_mater": {
+            "text": "University of Marília (BBA)\n\nTeaching and Research Institute (MBA)",
+            "links": [
+              {
+                "text": "BBA",
+                "type": "internal",
+                "page": "Bachelor of Business Administration"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Administrator"
           }
         }
       ]
