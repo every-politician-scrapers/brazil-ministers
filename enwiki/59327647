@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Damares Regina Alves (born September 11, 1964) is a Brazilian attorney and evangelical pastor.",
+              "text": "Damares Regina Alves (born September 11, 1964) is a Brazilian lawyer and evangelical pastor.",
               "formatting": {
                 "bold": [
                   "Damares Regina Alves"
@@ -141,6 +141,29 @@
                 "page": "Brazil"
               }
             ]
+          },
+          "party": {
+            "text": "Independent (2020–present)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PP (1995–2020)",
+            "links": [
+              {
+                "text": "PP",
+                "type": "internal",
+                "page": "Progressistas"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Evangelical pastor"
           }
         }
       ]
