@@ -200,6 +200,15 @@
           },
           "profession": {
             "text": "Lawyer"
+          },
+          "nickname": {
+            "text": "Cerrado",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cerrado"
+              }
+            ]
           }
         }
       ]
