@@ -18,8 +18,12 @@
         {
           "sentences": [
             {
-              "text": "Helder Zahluth Barbalho (born 18 May 1979) is a Brazilian administrator, politician, former Chief Minister of National Secretariat of Ports and Minister of Fishing and Aquaculture during the government of president Dilma Rousseff, and former Minister of National Integration, appointed by president Michel Temer.",
+              "text": "Helder Zahluth Barbalho (born 18 May 1979) is a Brazilian administrator, politician, the current governor of the state of Pará, former Chief Minister of National Secretariat of Ports and Minister of Fishing and Aquaculture during the government of president Dilma Rousseff, and former Minister of National Integration, appointed by president Michel Temer.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Pará"
+                },
                 {
                   "text": "Minister of Fishing and Aquaculture",
                   "type": "internal",
@@ -44,13 +48,93 @@
                   "Helder Zahluth Barbalho"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "He is the son of former governor of Pará and current senator Jader Barbalho and federal congresswoman Elcione Zahluth.",
+              "text": "He is the son of former governor of Pará and current senator Jader Barbalho and federal congresswoman Elcione Zahluth Barbalho, has a bachelor's degree in administration by Universidade da Amazônia (UNAMA) and a executive MBA in in public administration from Fundação Getulio Vargas",
               "links": [
                 {
                   "type": "internal",
                   "page": "Jader Barbalho"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elcione Zahluth Barbalho"
+                },
+                {
+                  "type": "internal",
+                  "page": "Universidade da Amazônia"
+                },
+                {
+                  "type": "internal",
+                  "page": "MBA"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fundação Getulio Vargas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As the son of Pará's former governor Jader Barbalho, Helder Barbalho started his political career while young, at the age of 18 he joined the Brazilian Democratic Movement, in 2000, he became the most voted city councilman in the city of Ananindeua, and in 2002 was elected State deputy in the legislature of Pará, once again as the most voted candidate in the state's history, he left the position in 2004 to become mayor of the city of Ananindeua in 2005, a position that he held until 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pará"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jader Barbalho"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazilian Democratic Movement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ananindeua"
+                },
+                {
+                  "type": "internal",
+                  "page": "State deputy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014, Barbalho particpated in the elections to become governor of Pará but was defeated by then governor Simão Jatene, he joined the federal government as Minister of Fishing and Aquaculture in 2015 and later became Minister of National Integration until he left in 2018 to dispute and win the 2018 elections for the state of Pará becoming governor from 2019 on.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pará"
+                },
+                {
+                  "type": "internal",
+                  "page": "Simão Jatene"
+                },
+                {
+                  "text": "Minister of Fishing and Aquaculture",
+                  "type": "internal",
+                  "page": "Ministry of Fishing and Aquaculture (Brazil)"
+                },
+                {
+                  "text": "Minister of National Integration",
+                  "type": "internal",
+                  "page": "Ministry of National Integration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pará"
                 }
               ]
             }
