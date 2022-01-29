@@ -1,0 +1,230 @@
+{
+  "title": "Gladson Cameli",
+  "pageID": 51318756,
+  "categories": [
+    "Living people",
+    "1978 births",
+    "Members of the Federal Senate",
+    "Governors of Acre (state)",
+    "Members of the Chamber of Deputies (Brazil) from Acre",
+    "Progressistas politicians",
+    "People from Acre (state)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gladson de Lima Cameli (born March 26, 1978) is a Brazilian politician and engineer.",
+              "formatting": {
+                "bold": [
+                  "Gladson de Lima Cameli"
+                ]
+              }
+            },
+            {
+              "text": "He has represented Acre in the Federal Senate since 2015.",
+              "links": [
+                {
+                  "text": "Acre",
+                  "type": "internal",
+                  "page": "Acre (state)"
+                },
+                {
+                  "text": "Federal Senate",
+                  "type": "internal",
+                  "page": "Brazilian Senate"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he was a deputy from Acre from 2007 to 2015.",
+              "links": [
+                {
+                  "text": "deputy",
+                  "type": "internal",
+                  "page": "Chamber of Deputies (Brazil)"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Progressive Party.",
+              "links": [
+                {
+                  "text": "Progressive Party",
+                  "type": "internal",
+                  "page": "Progressive Party (Brazil)"
+                }
+              ]
+            },
+            {
+              "text": "He has been implicated in the Petrobras scandal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Petrobras scandal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cameli is the governor of Acre, having been elected in the first round of the 2018 election.",
+              "links": [
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 Brazilian gubernatorial elections"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician and engineer",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1978",
+          "month": "03",
+          "day": "26",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gladson Cameli"
+          },
+          "image": {
+            "text": "Gladson Cameli em outubro de 2018.jpg"
+          },
+          "office": {
+            "text": "18th Governor of Acre",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "List of Governors of Acre"
+              },
+              {
+                "text": "Acre",
+                "type": "internal",
+                "page": "Acre (state)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 1, 2019"
+          },
+          "vicegovernor": {
+            "text": "Major Rocha"
+          },
+          "predecessor": {
+            "text": "Tião Viana",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tião Viana"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator from Acre",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Senate of Brazil"
+              },
+              {
+                "text": "Acre",
+                "type": "internal",
+                "page": "Acre (state)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "February 1, 2015"
+          },
+          "term_end1": {
+            "text": "January 1, 2019"
+          },
+          "predecessor1": {
+            "text": "Aníbal Diniz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aníbal Diniz"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Mailza Gomes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mailza Gomes"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy from Acre",
+            "links": [
+              {
+                "text": "Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "February 1, 2007"
+          },
+          "term_end2": {
+            "text": "January 31, 2015"
+          },
+          "birth_date": {
+            "text": "March 26, 1978"
+          },
+          "birth_place": {
+            "text": "Cruzeiro do Sul, Acre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cruzeiro do Sul, Acre"
+              }
+            ]
+          },
+          "party": {
+            "text": "Progressive Party",
+            "links": [
+              {
+                "text": "Progressive Party",
+                "type": "internal",
+                "page": "Progressive (Brazil)"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Engineer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Engineer"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

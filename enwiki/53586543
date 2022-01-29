@@ -54,7 +54,7 @@
         {
           "sentences": [
             {
-              "text": "He is the son of former governor of Pará and current senator Jader Barbalho and federal congresswoman Elcione Zahluth Barbalho, has a bachelor's degree in administration by Universidade da Amazônia (UNAMA) and a executive MBA in in public administration from Fundação Getulio Vargas",
+              "text": "He is the son of former governor of Pará and current senator Jader Barbalho and federal congresswoman Elcione Zahluth Barbalho, has a bachelor's degree in administration by Universidade da Amazônia (UNAMA) and a executive MBA in public administration from Fundação Getulio Vargas",
               "links": [
                 {
                   "type": "internal",
@@ -351,11 +351,15 @@
             "text": "Administrator"
           },
           "parents": {
-            "text": "Jader Barbalho\nElcione Zahluth",
+            "text": "Jader Barbalho\nElcione Zahluth Barbalho",
             "links": [
               {
                 "type": "internal",
                 "page": "Jader Barbalho"
+              },
+              {
+                "type": "internal",
+                "page": "Elcione Zahluth Barbalho"
               }
             ]
           }
