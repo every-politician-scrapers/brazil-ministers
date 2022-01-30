@@ -1,17 +1,11 @@
 @@,itemlabel,item,startdate,enddate
 +++,Aníbal Miranda Ferreira da Silva,,1962-06-15,1963-03-01
-+++,José Augusto de Araújo,Q10308924,1963-03-01,1964-05-08
 +++,Edgard Cerqueira,,1964-05-08,1966-09-19
-+++,Jorge Kalume,Q6278180,1966-09-19,1971-03-15
-+++,Wanderley Dantas,Q10285208,1971-03-15,1975-03-15
-+++,Geraldo Mesquita,Q10289062,1975-03-15,1979-03-15
-+++,Joaquim Macedo,Q10307148,1979-03-15,1983-03-15
-+++,Nabor Júnior,Q10335272,1983-03-15,1986-05-14
-+++,Iolanda Fleming,Q6062433,1986-05-14,1987-03-15
-+++,Édison Cadaxo,Q10396263,1990-04-02,1991-03-15
-+++,Edmundo Pinto,Q10270478,1991-03-15,1992-05-17
-+++,Romildo Magalhães,Q10364280,1992-05-17,1995-01-01
-+++,Orleir Cameli,Q10341568,1995-01-01,1999-01-01
-+++,Jorge Viana,Q954775,1999-01-01,2007-01-01
-+++,Binho Marques,Q4914358,2007-01-01,2011-01-01
+->,Francisco Wanderley Dantas->Wanderley Dantas,Q10285208,1971-03-15,1975-03-15
+->,Geraldo Gurgel de Mesquita->Geraldo Mesquita,Q10289062,1975-03-15,1979-03-15
+->,Joaquim Falcão Macedo->Joaquim Macedo,Q10307148,1979-03-15,1983-03-15
+->,Nabor Teles da Rocha Júnior->Nabor Júnior,Q10335272,1983-03-15,1986-05-14
+->,Édison Simão Cadaxo->Édison Cadaxo,Q10396263,1990-04-02,1991-03-15
+->,Romildo Magalhães da Silva->Romildo Magalhães,Q10364280,1992-05-17,1995-01-01
+->,Orleir Messias Cameli->Orleir Cameli,Q10341568,1995-01-01,1999-01-01
 ->,Tião Viana,Q212394,2011-02-01->2011-01-01,2019-01-01

@@ -4,15 +4,13 @@
 +++,Tarcísio Carlos de Almeida Cunha,,1993-06,1993-07
 ->,Geraldo Magela da Cruz Quintão,Q5441710->NULL,1993-07,1994-12-31->1994-12
 ->,Geraldo Magela da Cruz Quintão,Q5441710->NULL,1995-01,2000-01
-+++,Gilmar Ferreira Mendes,Q2362405,2000-01,2002-06
+->,Gilmar Mendes->Gilmar Ferreira Mendes,Q2362405,2000-01,2002-06
 +++,Walter do Carmo Barletta,,2000-01,
 +++,José Bonifácio Borges de Andrada,,2002-06,2002-12
 +++,Álvaro Augusto Ribeiro Costa,,2003-01,2007-03
-+++,José Antônio Dias Toffoli,Q10266077,2007-03,2009-10
+->,Dias Toffoli->José Antônio Dias Toffoli,Q10266077,2007-03,2009-10
 ->,Luís Inácio Adams->Luis Inácio Lucena Adams,Q3624445,2009-10-23->2009-10,2016-03-03->2016-03
-+++,José Eduardo Cardozo,Q10309291,2016-03,2016-05
-+++,Fábio Medina Osório,Q24076835,2016-05,2016-09
-+++,Grace Maria Mendonça,Q26884925,2016-09,2019-01
+->,Grace Mendonça->Grace Maria Mendonça,Q26884925,2016-09,2019-01
 +++,André Luiz de Almeida Mendonça,Q60396070,2019-01,2020-04
 ---,André Mendonça,Q60396070,2019-01-01,2020-04-28
 ->,José Levi Mello do Amaral Júnior,Q28920415,2020-04-29->2020-04,2021-03-29->2021-03
