@@ -62,6 +62,10 @@
       ],
       "templates": [
         {
+          "description": "Brazilian lawyer and politician",
+          "template": "short description"
+        },
+        {
           "year": "1979",
           "month": "3",
           "day": "29",
