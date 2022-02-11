@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Arthur Pereira Lyra (born 25 June 1969 in Maceió), or simply Arthur Lyra, is a Brazilian lawyer, farmer, entrepreneur and politician, current Federal Deputy for Alagoas, member of Progressistas (PP) and President of the Chamber of Deputies since February 2021.",
+              "text": "Arthur César Pereira de Lira (born 25 June 1969 in Maceió), or simply Arthur Lira, is a Brazilian lawyer, farmer, entrepreneur and politician, current Federal Deputy for Alagoas, member of Progressistas (PP) and President of the Chamber of Deputies since February 2021.",
               "links": [
                 {
                   "text": "Federal Deputy",
@@ -40,8 +40,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Arthur Pereira Lyra",
-                  "Arthur Lyra"
+                  "Arthur César Pereira de Lira",
+                  "Arthur Lira"
                 ]
               }
             }
@@ -189,7 +189,7 @@
             "text": "1 February 1999"
           },
           "birth_name": {
-            "text": "Arthur Pereira  Lyra"
+            "text": "Arthur César Pereira de Lira"
           },
           "birth_date": {
             "text": "June 25, 1969"

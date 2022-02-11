@@ -37,12 +37,11 @@
               }
             },
             {
-              "text": "A member of the Democrats (DEM), he is currently a Federal Deputy from Rio Grande do Sul in his fourth term.",
+              "text": "A member of the Brazil Union (UB), he is currently a Federal Deputy from Rio Grande do Sul in his fourth term.",
               "links": [
                 {
-                  "text": "Democrats",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Brazil Union"
                 },
                 {
                   "type": "internal",
@@ -306,18 +305,23 @@
             ]
           },
           "party": {
-            "text": "DEM (2007–present)",
+            "text": "UB (2022–present)",
+            "links": [
+              {
+                "text": "UB",
+                "type": "internal",
+                "page": "Brazil Union"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "DEM (2007–2022)\nPFL (1997–2007)\nPL (1987–1997)",
             "links": [
               {
                 "text": "DEM",
                 "type": "internal",
                 "page": "Democrats (Brazil)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "PFL (1997–2007)\nPL (1987–1997)",
-            "links": [
+              },
               {
                 "text": "PFL",
                 "type": "internal",

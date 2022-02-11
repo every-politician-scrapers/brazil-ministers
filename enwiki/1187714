@@ -10,8 +10,10 @@
     "Recipients of the National Order of Merit (Brazil)",
     "Astronaut-politicians",
     "Writers from São Paulo",
+    "Liberal Party (Brazil, 2006) politicians",
     "Social Liberal Party (Brazil) politicians",
     "Brazilian Socialist Party politicians",
+    "Democrats (Brazil) politicians",
     "Ministers of Science and Technology of Brazil",
     "Spaceflight participants",
     "Brazilian autobiographers",
@@ -267,22 +269,32 @@
             ]
           },
           "party": {
-            "text": "PSL (2018–present)",
+            "text": "PL (2022–present)",
             "links": [
               {
-                "text": "PSL",
+                "text": "PL",
                 "type": "internal",
-                "page": "Social Liberal Party (Brazil)"
+                "page": "Liberal Party (Brazil, 2006)"
               }
             ]
           },
           "otherparty": {
-            "text": "PSB (2013–2018)",
+            "text": "DEM (2009–12)\n\nPSB (2013–18)\n\nPSL (2018–22)",
             "links": [
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              },
               {
                 "text": "PSB",
                 "type": "internal",
                 "page": "Brazilian Socialist Party"
+              },
+              {
+                "text": "PSL",
+                "type": "internal",
+                "page": "Social Liberal Party (Brazil)"
               }
             ]
           },
