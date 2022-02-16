@@ -1,0 +1,229 @@
+{
+  "title": "Camilo Santana",
+  "pageID": 44934014,
+  "categories": [
+    "Governors of Ceará",
+    "People from Crato, Ceará",
+    "1968 births",
+    "Living people",
+    "Brazilian engineers",
+    "Workers' Party (Brazil) politicians",
+    "Members of the Legislative Assembly of Ceará",
+    "21st-century Brazilian politicians",
+    "Federal University of Ceará alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Camilo Sobreira de Santana (born 3 June 1968) is a Brazilian agricultural engineer and politician, affiliated to the Workers' Party (PT).",
+              "links": [
+                {
+                  "text": "agricultural engineer",
+                  "type": "internal",
+                  "page": "agricultural engineer"
+                },
+                {
+                  "text": "Workers' Party",
+                  "type": "internal",
+                  "page": "Partido dos Trabalhadores"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Camilo Sobreira de Santana"
+                ]
+              }
+            },
+            {
+              "text": "He has a bachelor's degree in agricultural engineering from the Federal University of Ceará and a master's degree in Development and Environment from the same university.",
+              "links": [
+                {
+                  "text": "agricultural engineering",
+                  "type": "internal",
+                  "page": "agricultural engineering"
+                },
+                {
+                  "type": "internal",
+                  "page": "Federal University of Ceará"
+                }
+              ]
+            },
+            {
+              "text": "As an undergraduate, he held the director function UFC Students of Central Directory."
+            },
+            {
+              "text": "He was Secretary of Agrarian Development of the State of Ceará in the government of Cid Gomes, from 1 February 2007 to 31 December 2010, as well as Secretary of Cities in the same government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cid Gomes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was voted the most voted state deputy of Ceará in October 2010, with 131,171 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ceará"
+                }
+              ]
+            },
+            {
+              "text": "He is the current governor of the state of Ceará.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ceará"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian agricultural engineer and politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2015",
+          "template": "more footnotes"
+        },
+        {
+          "year": "1968",
+          "month": "6",
+          "day": "3",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Camilo Santana"
+          },
+          "birth_name": {
+            "text": "Camilo Sobreira de Santana"
+          },
+          "image": {
+            "text": "Camilo Santana.jpg"
+          },
+          "office": {
+            "text": "60th Governor of Ceará",
+            "links": [
+              {
+                "text": "Governor of Ceará",
+                "type": "internal",
+                "page": "Ceará"
+              }
+            ]
+          },
+          "vicegovernor": {
+            "text": "Izolda Cela"
+          },
+          "term_start": {
+            "text": "1 January 2015"
+          },
+          "predecessor": {
+            "text": "Cid Gomes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cid Gomes"
+              }
+            ]
+          },
+          "office1": {
+            "text": "State Deputy for Ceará",
+            "links": [
+              {
+                "text": "State Deputy for Ceará",
+                "type": "internal",
+                "page": "Ceará"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 January 2011"
+          },
+          "term_end2": {
+            "text": "31 December 2014"
+          },
+          "birth_date": {
+            "text": "June 3, 1968"
+          },
+          "birth_place": {
+            "text": "Crato, Ceará, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Crato, Ceará"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Brazilian",
+            "links": [
+              {
+                "text": "Brazilian",
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "party": {
+            "text": "PT",
+            "links": [
+              {
+                "text": "PT",
+                "type": "internal",
+                "page": "Worker's Party (Brazil)"
+              }
+            ]
+          },
+          "partner": {
+            "text": "Onelia Leite"
+          },
+          "children": {
+            "text": "Pedro Santana, Luisa Santana"
+          },
+          "alma_mater": {
+            "text": "Federal University of Ceará",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Federal University of Ceará"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Agricultural engineer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agricultural engineer"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Camilo Santana signature.svg"
+          }
+        }
+      ]
+    }
+  ]
+}
