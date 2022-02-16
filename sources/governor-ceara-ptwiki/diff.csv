@@ -1,13 +1,10 @@
 @@,itemlabel,item,startdate,enddate
-+++,Tasso Jereissati,Q7687655,1987-03-15,1991-03-15
 ->,Ciro Gomes,Q744798,1991-03-15,1994-09-06->1994-09-08
-+++,Francisco de Barros,Q10284546,1994-09-08,1994-10-09
-+++,Francisco Aguiar,Q10285420,1994-10-09,1995-01-01
-+++,Tasso Jereissati,Q7687655,1995-01-01,1999-01-01
+->,Francisco Adalberto de Oliveira Barros Leal->Francisco de Barros,Q10284546,1994-09-08,1994-10-09
+->,Francisco de Paula Rocha Aguiar->Francisco Aguiar,Q10285420,1994-10-09,1995-01-01
+->,Tasso Jereissati,Q7687655,1995-01-01,2002-04-06->1999-01-01
 +++,Tasso Jereissati,Q7687655,1999-01-01,2002-04-06
-+++,Beni Veras,Q9654343,2002-04-06,2003-01-01
-+++,Lúcio Alcântara,Q13164197,2003-01-01,2007-01-01
-+++,Cid Gomes,Q5119489,2007-01-01,2011-01-01
+->,Cid Gomes,Q5119489,2007-01-01,2015-01-01->2011-01-01
 +++,Cid Gomes,Q5119489,2011-01-01,2015-01-01
 ->,Camilo Santana,Q18242106,2015-01-01,NULL->2019-01-01
 +++,Camilo Santana,Q18242106,2019-01-01,
