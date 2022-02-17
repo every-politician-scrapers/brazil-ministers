@@ -75,7 +75,7 @@
             ]
           },
           "term_start": {
-            "text": "1 January 2019\nSuspended since 30 March 2021\n24 October 2020 – 27 November 2020"
+            "text": "1 January 2019"
           },
           "vicegovernor": {
             "text": "Daniela Reinehr"
@@ -104,7 +104,17 @@
             ]
           },
           "party": {
-            "text": "PSL (2018–present)",
+            "text": "Independent (2021–present)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PSL (2018–21)",
             "links": [
               {
                 "text": "PSL",

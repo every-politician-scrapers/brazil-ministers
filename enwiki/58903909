@@ -96,7 +96,7 @@
             ]
           },
           "party": {
-            "text": "NOVO (since 2018)",
+            "text": "NOVO (2018–present)",
             "links": [
               {
                 "text": "NOVO",
@@ -115,10 +115,10 @@
             ]
           },
           "otherparty": {
-            "text": "PL (2000-2018)",
+            "text": "PR (2000–18)",
             "links": [
               {
-                "text": "PL",
+                "text": "PR",
                 "type": "internal",
                 "page": "Liberal Party (Brazil, 2006)"
               }
