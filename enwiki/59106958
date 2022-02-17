@@ -5,7 +5,7 @@
     "1964 births",
     "Living people",
     "People from Anápolis",
-    "Democrats (Brazil) politicians",
+    "Brazil Union politicians",
     "Governors of Mato Grosso"
   ],
   "sections": [
@@ -69,6 +69,9 @@
       ],
       "infoboxes": [
         {
+          "name": {
+            "text": "Mauro Mendes"
+          },
           "image": {
             "text": "Congressos. Seminários. Palestras (18717240209).jpg"
           },
@@ -147,8 +150,28 @@
             "text": "April 12, 1964"
           },
           "party": {
-            "text": "DEM",
+            "text": "UNIÃO (2022–present)",
             "links": [
+              {
+                "text": "UNIÃO",
+                "type": "internal",
+                "page": "Brazil Union"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PR (2006–09)\n\nPSB (2009–18)\n\nDEM (2018–22)",
+            "links": [
+              {
+                "text": "PR",
+                "type": "internal",
+                "page": "Liberal Party (Brazil, 2006)"
+              },
+              {
+                "text": "PSB",
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              },
               {
                 "text": "DEM",
                 "type": "internal",

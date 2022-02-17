@@ -3,7 +3,7 @@
   "pageID": 49670078,
   "categories": [
     "Candidates for President of Brazil",
-    "Democrats (Brazil) politicians",
+    "Brazil Union politicians",
     "Conservatism in Brazil",
     "Governors of Goiás",
     "Members of the Federal Senate",
@@ -93,11 +93,17 @@
           "term_start": {
             "text": "1 January 2019"
           },
+          "1blankname": {
+            "text": "Vice Governor"
+          },
+          "1namedata": {
+            "text": "Lincoln Tejota"
+          },
           "predecessor": {
             "text": "José Eliton Júnior"
           },
           "office1": {
-            "text": "Senator from Goiás",
+            "text": "Senator for Goiás",
             "links": [
               {
                 "text": "Senator",
@@ -117,51 +123,61 @@
             "text": "1 January 2019"
           },
           "office2": {
-            "text": "Member of Chamber of Deputies",
+            "text": "Federal Deputy from Goiás",
             "links": [
               {
-                "text": "Member of Chamber of Deputies",
+                "text": "Federal Deputy",
                 "type": "internal",
                 "page": "Chamber of Deputies (Brazil)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1st:''' 1 February 1991\n2nd: 1 February 2015",
-            "formatting": {
-              "bold": [
-                "2nd:"
-              ]
-            }
-          },
-          "term_end2": {
-            "text": "1st: 31 January 1995\n2nd: 31 December 2014",
-            "formatting": {
-              "bold": [
-                "1st:",
-                "2nd:"
-              ]
-            }
-          },
-          "constituency2": {
-            "text": "Goiás",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Goiás"
               }
             ]
           },
+          "term_start2": {
+            "text": "1 February 1999"
+          },
+          "term_end2": {
+            "text": "1 February 2015"
+          },
+          "term_start3": {
+            "text": "1 February 1991"
+          },
+          "term_end3": {
+            "text": "1 February 1995"
+          },
           "image": {
             "text": "Foto oficial de Ronaldo Caiado.jpg"
           },
           "party": {
-            "text": "PSD (1989&ndash;1990)\nPFL (1991&ndash;2007)\nDEM (2007&ndash;present)",
+            "text": "UNIÃO (2022–present)",
             "links": [
+              {
+                "text": "UNIÃO",
+                "type": "internal",
+                "page": "Brazil Union"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PSD (1989–93)\n\nPFL (1993; 1994–2007)\n\nPPR (1993–94)\n\nDEM (2007–22)",
+            "links": [
+              {
+                "text": "PSD",
+                "type": "internal",
+                "page": "Social Democratic Party (Brazil, 1945–65)"
+              },
               {
                 "text": "PFL",
                 "type": "internal",
-                "page": "Liberal Front Party (Brazil)"
+                "page": "Democrats (Brazil)"
+              },
+              {
+                "text": "PPR",
+                "type": "internal",
+                "page": "Reform Progressive Party"
               },
               {
                 "text": "DEM",
