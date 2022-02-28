@@ -50,19 +50,14 @@
               ]
             },
             {
-              "text": "Mourão is the first person of caboclo background to serve as vice president.",
+              "text": "Mourão is the first person of Indigenous background to serve as vice president.",
               "links": [
                 {
-                  "text": "caboclo",
+                  "text": "Indigenous",
                   "type": "internal",
-                  "page": "caboclo"
+                  "page": "Indigenous peoples in Brazil"
                 }
-              ],
-              "formatting": {
-                "italic": [
-                  "caboclo"
-                ]
-              }
+              ]
             }
           ]
         },
@@ -161,6 +156,10 @@
         {
           "description": "Current Vice President of Brazil",
           "template": "short description"
+        },
+        {
+          "date": "February 2022",
+          "template": "update"
         },
         {
           "first": "Martins",
