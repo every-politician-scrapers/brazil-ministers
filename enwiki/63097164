@@ -1,338 +1,37 @@
 {
-  "title": "Walter Souza Braga Netto",
-  "pageID": 63097164,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "Brazilian generals",
-    "People from Belo Horizonte",
-    "Defence ministers of Brazil",
-    "Chiefs of Staff of Brazil"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Walter Souza Braga Netto (born 11 March 1957) is a Brazilian army general and current Brazil's Minister of Defence.",
-              "links": [
-                {
-                  "text": "army general",
-                  "type": "internal",
-                  "page": "army general"
-                },
-                {
-                  "text": "Minister of Defence",
-                  "type": "internal",
-                  "page": "Minister of Defence (Brazil)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Walter Souza Braga Netto"
-                ]
-              }
-            },
-            {
-              "text": "Braga was Commander of the Eastern Military Command and, until 31 December 2018, Federal Interventor in the Public Security of the state of Rio de Janeiro.",
-              "links": [
-                {
-                  "text": "Eastern Military Command",
-                  "type": "internal",
-                  "page": "Eastern Military Command (Brazil)"
-                },
-                {
-                  "text": "Rio de Janeiro",
-                  "type": "internal",
-                  "page": "Rio de Janeiro (state)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Minister of Defence of Brazil",
-          "template": "short description"
-        },
-        {
-          "year": "1957",
-          "month": "3",
-          "day": "11",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "General",
-            "links": [
-              {
-                "text": "General",
-                "type": "internal",
-                "page": "Army general"
-              }
-            ]
-          },
-          "name": {
-            "text": "Walter Souza Braga Netto"
-          },
-          "image": {
-            "text": "Foto Oficial do Sr Ministro da Defesa Walter Braga Netto.jpg"
-          },
-          "office": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence (Brazil)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 March 2021"
-          },
-          "president": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Fernando Azevedo e Silva",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fernando Azevedo e Silva"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief of Staff of the Presidency",
-            "links": [
-              {
-                "text": "Chief of Staff of the Presidency",
-                "type": "internal",
-                "page": "Chief of Staff of Brazil"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "18 February 2020"
-          },
-          "term_end1": {
-            "text": "29 March 2021"
-          },
-          "president1": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Onyx Lorenzoni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Onyx Lorenzoni"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Luiz Eduardo Ramos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luiz Eduardo Ramos"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chief of the Brazilian Army General Staff",
-            "links": [
-              {
-                "text": "Chief of the Brazilian Army General Staff",
-                "type": "internal",
-                "page": "Brazilian Army General Staff"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 March 2019"
-          },
-          "term_end2": {
-            "text": "18 February 2020"
-          },
-          "1blankname2": {
-            "text": "Minister",
-            "links": [
-              {
-                "text": "Minister",
-                "type": "internal",
-                "page": "Ministry of Defence (Brazil)"
-              }
-            ]
-          },
-          "1namedata2": {
-            "text": "Fernando Azevedo e Silva",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fernando Azevedo e Silva"
-              }
-            ]
-          },
-          "2blankname2": {
-            "text": "Commander"
-          },
-          "2namedata2": {
-            "text": "Edson Leal Pujol",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edson Leal Pujol"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Paulo Humberto Cesar de Oliveira"
-          },
-          "successor2": {
-            "text": "Marcos Antonio Amaro dos Santos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcos Antonio Amaro dos Santos"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Federal Interventor in Public Security of Rio de Janeiro",
-            "links": [
-              {
-                "text": "Rio de Janeiro",
-                "type": "internal",
-                "page": "Rio de Janeiro (state)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "16 February 2018"
-          },
-          "term_end3": {
-            "text": "1 January 2019"
-          },
-          "president3": {
-            "text": "Michel Temer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michel Temer"
-              }
-            ]
-          },
-          "1blankname3": {
-            "text": "Governor",
-            "links": [
-              {
-                "text": "Governor",
-                "type": "internal",
-                "page": "List of Governors of Rio de Janeiro"
-              }
-            ]
-          },
-          "1namedata3": {
-            "text": "Luiz Fernando Pezão\n\nFrancisco Dornelles",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luiz Fernando Pezão"
-              },
-              {
-                "type": "internal",
-                "page": "Francisco Dornelles"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 11, 1957"
-          },
-          "birth_place": {
-            "text": "Belo Horizonte, Minas Gerais, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Belo Horizonte"
-              },
-              {
-                "type": "internal",
-                "page": "Minas Gerais"
-              },
-              {
-                "type": "internal",
-                "page": "Brazil"
-              }
-            ]
-          },
-          "allegiance": {
-            "text": "🇧🇷 Brazil",
-            "links": [
-              {
-                "text": "Brazil",
-                "type": "internal",
-                "page": "brazil"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brazilian Army"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1975–present"
-          },
-          "rank": {
-            "text": "General do Exército.gif Army general",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Army general"
-              }
-            ]
-          },
-          "commands": {
-            "text": "Staff of the Brazilian Army\n\nEastern Military Command\n\n1st Military Region\n\n1st Regiment of Combat Cars",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brazilian Army"
-              },
-              {
-                "text": "Eastern Military Command",
-                "type": "internal",
-                "page": "Eastern Military Command (Brazil)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "General",
+  "name": "Walter Souza Braga Netto",
+  "image": "Foto Oficial do Sr Ministro da Defesa Walter Braga Netto.jpg",
+  "office": "Minister of Defence",
+  "term_start": "30 March 2021",
+  "president": "Jair Bolsonaro",
+  "predecessor": "Fernando Azevedo e Silva",
+  "office1": "Chief of Staff of the Presidency",
+  "term_start1": "18 February 2020",
+  "term_end1": "29 March 2021",
+  "president1": "Jair Bolsonaro",
+  "predecessor1": "Onyx Lorenzoni",
+  "successor1": "Luiz Eduardo Ramos",
+  "office2": "Chief of the Brazilian Army General Staff",
+  "term_start2": "29 March 2019",
+  "term_end2": "18 February 2020",
+  "1blankname2": "Minister",
+  "1namedata2": "Fernando Azevedo e Silva",
+  "2blankname2": "Commander",
+  "2namedata2": "Edson Leal Pujol",
+  "predecessor2": "Paulo Humberto Cesar de Oliveira",
+  "successor2": "Marcos Antonio Amaro dos Santos",
+  "office3": "Federal Interventor in Public Security of Rio de Janeiro",
+  "term_start3": "16 February 2018",
+  "term_end3": "1 January 2019",
+  "president3": "Michel Temer",
+  "1blankname3": "Governor",
+  "1namedata3": "Luiz Fernando Pezão\n\nFrancisco Dornelles",
+  "birth_date": "March 11, 1957",
+  "birth_place": "Belo Horizonte, Minas Gerais, Brazil",
+  "allegiance": "🇧🇷 Brazil",
+  "branch": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+  "serviceyears": "1975–present",
+  "rank": "General do Exército.gif Army general",
+  "commands": "Staff of the Brazilian Army\n\nEastern Military Command\n\n1st Military Region\n\n1st Regiment of Combat Cars"
 }

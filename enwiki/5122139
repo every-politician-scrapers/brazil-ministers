@@ -1,162 +1,17 @@
 {
-  "title": "Mário Frias",
-  "pageID": 5122139,
-  "categories": [
-    "1971 births",
-    "Living people",
-    "Brazilian male telenovela actors"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mário Frias (born October 9, 1971 in Rio de Janeiro) is a Brazilian telenovela actor, and current Special Secretary of Culture, a cabinet position in president Jair Bolsonaro's federal administration.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Rio de Janeiro"
-                },
-                {
-                  "text": "telenovela",
-                  "type": "internal",
-                  "page": "telenovela"
-                },
-                {
-                  "text": "actor",
-                  "type": "internal",
-                  "page": "actor"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jair Bolsonaro"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mário Frias"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Brazilian actor",
-          "template": "short description"
-        },
-        {
-          "year": "1971",
-          "month": "10",
-          "day": "9",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Nívea Stelmann",
-          "from": "2003",
-          "to": "2005",
-          "end": "div",
-          "template": "marriage"
-        },
-        {
-          "spouse": "Juliana Camatti",
-          "from": "2008",
-          "template": "marriage"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Mário Frias"
-          },
-          "birth_name": {
-            "text": "Mário Luis Frias"
-          },
-          "birth_date": {
-            "text": "October 9, 1971"
-          },
-          "birth_place": {
-            "text": "Rio de Janeiro, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rio de Janeiro"
-              },
-              {
-                "type": "internal",
-                "page": "Brazil"
-              }
-            ]
-          },
-          "office": {
-            "text": "Special Secretary of Culture"
-          },
-          "term_start": {
-            "text": "June 23, 2020"
-          },
-          "predecessor": {
-            "text": "Regina Duarte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Regina Duarte"
-              }
-            ]
-          },
-          "president": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "1blankname": {
-            "text": "Minister",
-            "links": [
-              {
-                "text": "Minister",
-                "type": "internal",
-                "page": "Ministry of Tourism (Brazil)"
-              }
-            ]
-          },
-          "1namedata": {
-            "text": "Marcelo Álvaro Antônio\n\nGilson Machado",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcelo Álvaro Antônio"
-              },
-              {
-                "text": "Gilson Machado",
-                "type": "internal",
-                "page": "Gilson Machado Neto"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Nívea Stelmann (m. 2003-2005)\n\nJuliana Camatti (m. 2008)"
-          },
-          "children": {
-            "text": "Miguel Stelmann Frias (b. 2004)\n\nLaura Camatti Frias (b. 2011)"
-          },
-          "occupation": {
-            "text": "Actor"
-          },
-          "image": {
-            "text": "Mário Frias em 2020.jpg"
-          },
-          "caption": {
-            "text": "Frias in 2020"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Mário Frias",
+  "birth_name": "Mário Luis Frias",
+  "birth_date": "October 9, 1971",
+  "birth_place": "Rio de Janeiro, Brazil",
+  "office": "Special Secretary of Culture",
+  "term_start": "June 23, 2020",
+  "predecessor": "Regina Duarte",
+  "president": "Jair Bolsonaro",
+  "1blankname": "Minister",
+  "1namedata": "Marcelo Álvaro Antônio\n\nGilson Machado",
+  "spouse": "Nívea Stelmann (m. 2003-2005)\n\nJuliana Camatti (m. 2008)",
+  "children": "Miguel Stelmann Frias (b. 2004)\n\nLaura Camatti Frias (b. 2011)",
+  "occupation": "Actor",
+  "image": "Mário Frias em 2020.jpg",
+  "caption": "Frias in 2020"
 }

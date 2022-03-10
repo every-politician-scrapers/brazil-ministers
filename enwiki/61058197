@@ -1,279 +1,30 @@
 {
-  "title": "Luiz Eduardo Ramos",
-  "pageID": 61058197,
-  "categories": [
-    "Brazilian generals",
-    "1956 births",
-    "Living people",
-    "Government ministers of Brazil",
-    "Recipients of the Order of Military Merit (Brazil)",
-    "United Nations military personnel",
-    "Brazilian officials of the United Nations",
-    "Chiefs of Staff of Brazil"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Luiz Eduardo Ramos Baptista Pereira (born 12 June 1956) is a Brazilian Army four-star General, who is the current Secretary of Government of President Jair Bolsonaro, succeeding Lieutenant General Carlos Alberto dos Santos Cruz.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brazilian Army"
-                },
-                {
-                  "type": "internal",
-                  "page": "General"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary of Government"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jair Bolsonaro"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lieutenant General"
-                },
-                {
-                  "type": "internal",
-                  "page": "Carlos Alberto dos Santos Cruz"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Luiz Eduardo Ramos Baptista Pereira"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1956",
-          "month": "6",
-          "day": "12",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Luiz Eduardo Ramos"
-          },
-          "image": {
-            "text": "Luiz Eduardo Ramos em 4 de julho de 2019 (2; recorte).jpg"
-          },
-          "office": {
-            "text": "Secretary-General of the Presidency"
-          },
-          "term_start": {
-            "text": "26 July 2021"
-          },
-          "president": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Onyx Lorenzoni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Onyx Lorenzoni"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief of Staff of the Presidency",
-            "links": [
-              {
-                "text": "Chief of Staff of the Presidency",
-                "type": "internal",
-                "page": "Chief of Staff of the Presidency (Brazil)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 March 2021"
-          },
-          "term_end1": {
-            "text": "26 July 2021"
-          },
-          "president1": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Walter Souza Braga Netto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Walter Souza Braga Netto"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Ciro Nogueira",
-            "links": [
-              {
-                "text": "Ciro Nogueira",
-                "type": "internal",
-                "page": "Ciro Nogueira Lima Filho"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Secretary of Government of Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary of Government"
-              },
-              {
-                "type": "internal",
-                "page": "Brazil"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "13 June 2019"
-          },
-          "term_end2": {
-            "text": "29 March 2021"
-          },
-          "president2": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Carlos Alberto dos Santos Cruz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carlos Alberto dos Santos Cruz"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Flávia Arruda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Flávia Arruda"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 12, 1956"
-          },
-          "birth_place": {
-            "text": "Rio de Janeiro, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rio de Janeiro"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Brazilian",
-            "links": [
-              {
-                "text": "Brazilian",
-                "type": "internal",
-                "page": "Brazil"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ligia Faria Baptista Pereira"
-          },
-          "allegiance": {
-            "text": "🇧🇷 Brazil 🇺🇳 United Nations",
-            "links": [
-              {
-                "text": "Brazil",
-                "type": "internal",
-                "page": "brazil"
-              },
-              {
-                "text": "United Nations",
-                "type": "internal",
-                "page": "united nations"
-              }
-            ]
-          },
-          "branch": {
-            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brazilian Army"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1973–present"
-          },
-          "rank": {
-            "text": "General do Exército.gif Army General",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Army General"
-              }
-            ]
-          },
-          "commands": {
-            "text": "Southeastern Military Command\n\n1st Army Division\n\n11th Military Region\n\nMINUSTAH\n\n8th Motorized Infantry Brigade\n\n9th Motorized Infantry Battalion",
-            "links": [
-              {
-                "text": "Southeastern Military Command",
-                "type": "internal",
-                "page": "Southeastern Military Command (Brazil)"
-              },
-              {
-                "text": "MINUSTAH",
-                "type": "internal",
-                "page": "United Nations Stabilisation Mission in Haiti"
-              }
-            ]
-          },
-          "mawards": {
-            "text": "Order of Military Merit (Grand Cross)",
-            "links": [
-              {
-                "text": "Order of Military Merit",
-                "type": "internal",
-                "page": "Order of Military Merit (Brazil)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Luiz Eduardo Ramos",
+  "image": "Luiz Eduardo Ramos em 4 de julho de 2019 (2; recorte).jpg",
+  "office": "Secretary-General of the Presidency",
+  "term_start": "26 July 2021",
+  "president": "Jair Bolsonaro",
+  "predecessor": "Onyx Lorenzoni",
+  "office1": "Chief of Staff of the Presidency",
+  "term_start1": "29 March 2021",
+  "term_end1": "26 July 2021",
+  "president1": "Jair Bolsonaro",
+  "predecessor1": "Walter Souza Braga Netto",
+  "successor1": "Ciro Nogueira",
+  "office2": "Secretary of Government of Brazil",
+  "term_start2": "13 June 2019",
+  "term_end2": "29 March 2021",
+  "president2": "Jair Bolsonaro",
+  "predecessor2": "Carlos Alberto dos Santos Cruz",
+  "successor2": "Flávia Arruda",
+  "birth_date": "June 12, 1956",
+  "birth_place": "Rio de Janeiro, Brazil",
+  "nationality": "Brazilian",
+  "spouse": "Ligia Faria Baptista Pereira",
+  "allegiance": "🇧🇷 Brazil 🇺🇳 United Nations",
+  "branch": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+  "serviceyears": "1973–present",
+  "rank": "General do Exército.gif Army General",
+  "commands": "Southeastern Military Command\n\n1st Army Division\n\n11th Military Region\n\nMINUSTAH\n\n8th Motorized Infantry Brigade\n\n9th Motorized Infantry Battalion",
+  "mawards": "Order of Military Merit (Grand Cross)"
 }

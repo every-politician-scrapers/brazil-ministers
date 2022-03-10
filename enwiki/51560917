@@ -1,287 +1,32 @@
 {
-  "title": "Rui Costa (politician)",
-  "pageID": 51560917,
-  "categories": [
-    "Living people",
-    "1963 births",
-    "Governors of Roraima",
-    "Members of the Chamber of Deputies (Brazil) from Bahia",
-    "Workers' Party (Brazil) politicians",
-    "Brazilian economists",
-    "People from Salvador, Bahia"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rui Costa dos Santos (born January 18, 1963) is a Brazilian economist and politician.",
-              "formatting": {
-                "bold": [
-                  "Rui Costa dos Santos"
-                ]
-              }
-            },
-            {
-              "text": "He has served as governor of Bahia since January 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Bahia"
-                }
-              ]
-            },
-            {
-              "text": "He is affiliated with the Workers' Party (PT).",
-              "links": [
-                {
-                  "text": "Workers' Party",
-                  "type": "internal",
-                  "page": "Worker's Party (Brazil)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In January 2007, invited by the Governor Jaques Wagner, Rui Costa took over the Secretariat of Institutional Relations (Serin), where he stayed until 2010.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jaques Wagner"
-                }
-              ]
-            },
-            {
-              "text": "In Serin, Rui developed a new model of integration between the executive and legislative state with federal entities and social movements."
-            },
-            {
-              "text": "The initiative was enhanced with the launch of the Institutional Relationship System (SRI), designed to speed up the progress of claims and standardize care."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2010 he was elected federal deputy for the PT, again with the highest number of votes of the PT bench."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Rui Costa was chosen as the PT candidate for the State of Bahia in elections in 2014, and elected in the 1st round with 54.53% of the votes, against 37.39% of his main opponent, Paulo Souto.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Paulo Souto"
-                }
-              ]
-            },
-            {
-              "text": "In 2018, he was reelected with over 75% of the votes in the first round, easily defeating Zé Ronaldo."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Rui Costa is considered a moderate among his party."
-            },
-            {
-              "text": "As governor, he privatized the state owned supermarket, approved a pension reform, implemented public–private partnerships for education and health and supported electoral alliances with the PSDB and Democrats, center right historical rivals of PT, in the 2022 presidential election in order to defeat Bolsonaro.",
-              "links": [
-                {
-                  "text": "public–private partnerships",
-                  "type": "internal",
-                  "page": "public–private partnership"
-                },
-                {
-                  "type": "internal",
-                  "page": "PSDB"
-                },
-                {
-                  "text": "Democrats",
-                  "type": "internal",
-                  "page": "Democrats (Brazil)"
-                }
-              ]
-            },
-            {
-              "text": "He is being considered as the PT presidential nominee in 2022."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1963",
-          "month": "01",
-          "day": "18",
-          "mf": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Rui Costa"
-          },
-          "image": {
-            "text": "Posse de Rui Costa - Casa Civil.jpg"
-          },
-          "office": {
-            "text": "51st Governor of Bahia",
-            "links": [
-              {
-                "text": "Governor of Bahia",
-                "type": "internal",
-                "page": "List of Governors of Bahia"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "January 1, 2015"
-          },
-          "vicegovernor": {
-            "text": "João Leão"
-          },
-          "predecessor": {
-            "text": "Jaques Wagner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jaques Wagner"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Federal Deputy for Bahia",
-            "links": [
-              {
-                "text": "Federal Deputy",
-                "type": "internal",
-                "page": "Chamber of Deputies (Brazil)"
-              },
-              {
-                "type": "internal",
-                "page": "Bahia"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "February 1, 2011"
-          },
-          "term_end1": {
-            "text": "December 22, 2014"
-          },
-          "office2": {
-            "text": "Alderman of Salvador"
-          },
-          "term_start2": {
-            "text": "January 1, 2001"
-          },
-          "term_end2": {
-            "text": "January 1, 2009"
-          },
-          "office3": {
-            "text": "Secretary of the Civil House of Bahia"
-          },
-          "term_start3": {
-            "text": "January 5, 2012"
-          },
-          "term_end3": {
-            "text": "April 1, 2014"
-          },
-          "governor3": {
-            "text": "Jacque Wagner"
-          },
-          "predecessor3": {
-            "text": "Eva Chiavon"
-          },
-          "successor3": {
-            "text": "Bruno Dauster"
-          },
-          "office4": {
-            "text": "Institutional Relations Secretary of Bahia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "January 15, 2007"
-          },
-          "term_end4": {
-            "text": "January 1, 2011"
-          },
-          "governor4": {
-            "text": "Jacque Wagner"
-          },
-          "successor4": {
-            "text": "Emilson Piau"
-          },
-          "birth_date": {
-            "text": "January 18, 1963"
-          },
-          "birth_place": {
-            "text": "Salvador, Bahia, Brazil",
-            "links": [
-              {
-                "text": "Salvador",
-                "type": "internal",
-                "page": "Salvador, Bahia"
-              },
-              {
-                "type": "internal",
-                "page": "Bahia"
-              }
-            ]
-          },
-          "party": {
-            "text": "Workers' Party",
-            "links": [
-              {
-                "text": "Workers' Party",
-                "type": "internal",
-                "page": "Worker's Party (Brazil)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Aline Peixoto"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "alma_mater": {
-            "text": "Federal University of Bahia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Federal University of Bahia"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Economist",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economist"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Rui Costa",
+  "image": "Posse de Rui Costa - Casa Civil.jpg",
+  "office": "51st Governor of Bahia",
+  "term_start": "January 1, 2015",
+  "vicegovernor": "João Leão",
+  "predecessor": "Jaques Wagner",
+  "office1": "Federal Deputy for Bahia",
+  "term_start1": "February 1, 2011",
+  "term_end1": "December 22, 2014",
+  "office2": "Alderman of Salvador",
+  "term_start2": "January 1, 2001",
+  "term_end2": "January 1, 2009",
+  "office3": "Secretary of the Civil House of Bahia",
+  "term_start3": "January 5, 2012",
+  "term_end3": "April 1, 2014",
+  "governor3": "Jacque Wagner",
+  "predecessor3": "Eva Chiavon",
+  "successor3": "Bruno Dauster",
+  "office4": "Institutional Relations Secretary of Bahia",
+  "term_start4": "January 15, 2007",
+  "term_end4": "January 1, 2011",
+  "governor4": "Jacque Wagner",
+  "successor4": "Emilson Piau",
+  "birth_date": "January 18, 1963",
+  "birth_place": "Salvador, Bahia, Brazil",
+  "party": "Workers' Party",
+  "spouse": "Aline Peixoto",
+  "children": "4",
+  "alma_mater": "Federal University of Bahia",
+  "profession": "Economist"
 }

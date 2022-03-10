@@ -1,170 +1,20 @@
 {
-  "title": "Gilson Machado Neto",
-  "pageID": 66255186,
-  "categories": [
-    "Year of birth missing (living people)",
-    "Living people",
-    "People from Recife",
-    "Social Christian Party (Brazil) politicians",
-    "Ministers of Tourism of Brazil"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Gilson Machado Guimarães Neto, commonly known as Gilson Machado Neto, is a Brazilian entrepreneur and politician, current Minister of Tourism under the government of Jair Bolsonaro.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jair Bolsonaro"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Gilson Machado Guimarães Neto",
-                  "Gilson Machado Neto"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He replaced the licensed federal deputy Marcelo Álvaro Antônio (PSL).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Marcelo Álvaro Antônio"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Gilson Machado"
-          },
-          "image": {
-            "text": "Gilson Machado Neto (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Ministry of Tourism (Brazil)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "9 December 2020"
-          },
-          "president": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Marcelo Álvaro Antônio",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcelo Álvaro Antônio"
-              }
-            ]
-          },
-          "office1": {
-            "text": "President of Embratur",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Embratur"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "20 May 2019"
-          },
-          "term_end1": {
-            "text": "9 December 2020"
-          },
-          "president1": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Minister",
-            "links": [
-              {
-                "text": "Minister",
-                "type": "internal",
-                "page": "Ministry of Tourism (Brazil)"
-              }
-            ]
-          },
-          "1namedata1": {
-            "text": "Marcelo Álvaro Antônio",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcelo Álvaro Antônio"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Paulo Senise"
-          },
-          "successor1": {
-            "text": "Carlos Alberto Gomes de Brito"
-          },
-          "birth_name": {
-            "text": "Gilson Machado Guimarães Neto"
-          },
-          "birth_place": {
-            "text": "Recife, Pernambuco, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Recife"
-              },
-              {
-                "type": "internal",
-                "page": "Pernambuco"
-              }
-            ]
-          },
-          "party": {
-            "text": "PSC (2020–present)",
-            "links": [
-              {
-                "text": "PSC",
-                "type": "internal",
-                "page": "Social Christian Party (Brazil)"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Entrepreneur"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Gilson Machado",
+  "image": "Gilson Machado Neto (cropped).jpg",
+  "office": "Minister of Tourism",
+  "term_start": "9 December 2020",
+  "president": "Jair Bolsonaro",
+  "predecessor": "Marcelo Álvaro Antônio",
+  "office1": "President of Embratur",
+  "term_start1": "20 May 2019",
+  "term_end1": "9 December 2020",
+  "president1": "Jair Bolsonaro",
+  "1blankname1": "Minister",
+  "1namedata1": "Marcelo Álvaro Antônio",
+  "predecessor1": "Paulo Senise",
+  "successor1": "Carlos Alberto Gomes de Brito",
+  "birth_name": "Gilson Machado Guimarães Neto",
+  "birth_place": "Recife, Pernambuco, Brazil",
+  "party": "PSC (2020–present)",
+  "profession": "Entrepreneur"
 }
