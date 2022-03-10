@@ -144,11 +144,8 @@
             "links": [
               {
                 "text": "Ratinho",
-                "type": "interwiki",
-                "wiki": {
-                  "wiki": "",
-                  "lang": "pt"
-                }
+                "type": "internal",
+                "page": "Ratinho (TV presenter)"
               }
             ]
           },
