@@ -1,273 +1,31 @@
 {
-  "title": "Arthur Lira",
-  "pageID": 66553826,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "People from Maceió",
-    "Progressistas politicians",
-    "Members of the Chamber of Deputies (Brazil) from Alagoas",
-    "Presidents of the Chamber of Deputies (Brazil)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Arthur César Pereira de Lira (born 25 June 1969 in Maceió), or simply Arthur Lira, is a Brazilian lawyer, farmer, entrepreneur and politician, current Federal Deputy for Alagoas, member of Progressistas (PP) and President of the Chamber of Deputies since February 2021.",
-              "links": [
-                {
-                  "text": "Federal Deputy",
-                  "type": "internal",
-                  "page": "Chamber of Deputies (Brazil)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Alagoas"
-                },
-                {
-                  "type": "internal",
-                  "page": "Progressistas"
-                },
-                {
-                  "text": "President of the Chamber of Deputies",
-                  "type": "internal",
-                  "page": "President of the Chamber of Deputies (Brazil)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Arthur César Pereira de Lira",
-                  "Arthur Lira"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Brazilian politician",
-          "template": "short description"
-        },
-        {
-          "first": "Pereira",
-          "second": "Lira",
-          "template": "portuguese name"
-        },
-        {
-          "year": "1969",
-          "month": "6",
-          "day": "25",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Arthur Lira"
-          },
-          "image": {
-            "text": "Deputado Arthur Lira em 2016 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Lira in 2016"
-          },
-          "office": {
-            "text": "President of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "President of the Chamber of Deputies",
-                "type": "internal",
-                "page": "President of the Chamber of Deputies (Brazil)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 February 2021"
-          },
-          "predecessor": {
-            "text": "Rodrigo Maia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rodrigo Maia"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chamber Progressistas Leader",
-            "links": [
-              {
-                "text": "Chamber",
-                "type": "internal",
-                "page": "Chamber of Deputies (Brazil)"
-              },
-              {
-                "type": "internal",
-                "page": "Progressistas"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "14 February 2017"
-          },
-          "term_end1": {
-            "text": "1 February 2021"
-          },
-          "predecessor1": {
-            "text": "Aguinaldo Ribeiro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aguinaldo Ribeiro"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Cacá Leão"
-          },
-          "office2": {
-            "text": "Federal Deputy from Alagoas",
-            "links": [
-              {
-                "text": "Federal Deputy",
-                "type": "internal",
-                "page": "Chamber of Deputies (Brazil)"
-              },
-              {
-                "type": "internal",
-                "page": "Alagoas"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 February 2011"
-          },
-          "office3": {
-            "text": "State Deputy of Alagoas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alagoas"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 February 1999"
-          },
-          "term_end3": {
-            "text": "1 February 2011"
-          },
-          "office4": {
-            "text": "City Councillor of Maceió",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maceió"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 January 1993"
-          },
-          "term_end4": {
-            "text": "1 February 1999"
-          },
-          "birth_name": {
-            "text": "Arthur César Pereira de Lira"
-          },
-          "birth_date": {
-            "text": "June 25, 1969"
-          },
-          "birth_place": {
-            "text": "Maceió, Alagoas, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maceió"
-              },
-              {
-                "type": "internal",
-                "page": "Alagoas"
-              }
-            ]
-          },
-          "party": {
-            "text": "PP (2009–present)",
-            "links": [
-              {
-                "text": "PP",
-                "type": "internal",
-                "page": "Progressistas"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "PFL (1991–95)\n\nPSDB (1995–2001)\n\nPTB (2001–05)\n\nPMN (2005–09)",
-            "links": [
-              {
-                "text": "PFL",
-                "type": "internal",
-                "page": "Democrats (Brazil)"
-              },
-              {
-                "text": "PSDB",
-                "type": "internal",
-                "page": "Brazilian Social Democracy Party"
-              },
-              {
-                "text": "PTB",
-                "type": "internal",
-                "page": "Brazilian Labour Party (current)"
-              },
-              {
-                "text": "PMN",
-                "type": "internal",
-                "page": "Party of National Mobilization"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Federal University of Alagoas (LL.B.)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Federal University of Alagoas"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Ivanete Pereira"
-          },
-          "father": {
-            "text": "Benedito de Lira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Benedito de Lira"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Entrepreneur, farmer, lawyer"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "Arthur Lira",
+  "image": "Deputado Arthur Lira em 2016 (cropped).jpg",
+  "caption": "Lira in 2016",
+  "office": "President of the Chamber of Deputies",
+  "term_start": "1 February 2021",
+  "predecessor": "Rodrigo Maia",
+  "office1": "Chamber Progressistas Leader",
+  "term_start1": "14 February 2017",
+  "term_end1": "1 February 2021",
+  "predecessor1": "Aguinaldo Ribeiro",
+  "successor1": "Cacá Leão",
+  "office2": "Federal Deputy from Alagoas",
+  "term_start2": "1 February 2011",
+  "office3": "State Deputy of Alagoas",
+  "term_start3": "1 February 1999",
+  "term_end3": "1 February 2011",
+  "office4": "City Councillor of Maceió",
+  "term_start4": "1 January 1993",
+  "term_end4": "1 February 1999",
+  "birth_name": "Arthur César Pereira de Lira",
+  "birth_date": "June 25, 1969",
+  "birth_place": "Maceió, Alagoas, Brazil",
+  "party": "PP (2009–present)",
+  "otherparty": "PFL (1991–95)\n\nPSDB (1995–2001)\n\nPTB (2001–05)\n\nPMN (2005–09)",
+  "alma_mater": "Federal University of Alagoas (LL.B.)",
+  "mother": "Ivanete Pereira",
+  "father": "Benedito de Lira",
+  "profession": "Entrepreneur, farmer, lawyer"
 }

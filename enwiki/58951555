@@ -1,362 +1,40 @@
 {
-  "title": "Onyx Lorenzoni",
-  "pageID": 58951555,
-  "categories": [
-    "1954 births",
-    "Living people",
-    "Government ministers of Brazil",
-    "Democrats (Brazil) politicians",
-    "Liberal Front Party (Brazil) politicians",
-    "Liberal Party (Brazil, 1985) politicians",
-    "People from Porto Alegre",
-    "Brazilian Lutherans",
-    "Brazilian people of Italian descent",
-    "Members of the Chamber of Deputies (Brazil) from Rio Grande do Sul",
-    "Members of the Legislative Assembly of Rio Grande do Sul",
-    "Chiefs of Staff of Brazil"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Onyx Dornelles Lorenzoni (born 3 October 1954) is a Brazilian politician, businessman, and veterinarian.",
-              "links": [
-                {
-                  "text": "veterinarian",
-                  "type": "internal",
-                  "page": "veterinarian"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Onyx Dornelles Lorenzoni"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Brazil Union (UB), he is currently a Federal Deputy from Rio Grande do Sul in his fourth term.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brazil Union"
-                },
-                {
-                  "type": "internal",
-                  "page": "Rio Grande do Sul"
-                }
-              ]
-            },
-            {
-              "text": "After the 2018 Brazilian general election, president-elect Jair Bolsonaro invited Lorenzoni to be Chief of Staff.",
-              "links": [
-                {
-                  "text": "2018 Brazilian general election",
-                  "type": "internal",
-                  "page": "2018 Brazilian general election"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jair Bolsonaro"
-                },
-                {
-                  "text": "Chief of Staff",
-                  "type": "internal",
-                  "page": "Chief of Staff of Brazil"
-                }
-              ]
-            },
-            {
-              "text": "He was also designated leader of the transition team."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "first": "Dornelles",
-          "second": "Lorenzoni",
-          "template": "portuguese name"
-        },
-        {
-          "list": [
-            "Onyx Lorenzoni"
-          ],
-          "date": "August 2019",
-          "template": "expand portuguese"
-        },
-        {
-          "year": "1954",
-          "month": "10",
-          "day": "3",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Onyx Lorenzoni"
-          },
-          "image": {
-            "text": "Onyx Lorenzoni em 18 de julho de 2019.jpg"
-          },
-          "office": {
-            "text": "Minister of Labour and Social Security",
-            "links": [
-              {
-                "text": "Minister of Labour and Social Security",
-                "type": "internal",
-                "page": "Ministry of Labour and Employment (Brazil)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 July 2021"
-          },
-          "president": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Position restablished",
-            "formatting": {
-              "italic": [
-                "Position restablished"
-              ]
-            }
-          },
-          "office1": {
-            "text": "Secretary-General of the Presidency"
-          },
-          "term_start1": {
-            "text": "12 February 2021"
-          },
-          "term_end1": {
-            "text": "26 July 2021"
-          },
-          "president1": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Jorge Oliveira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jorge Oliveira"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Luiz Eduardo Ramos",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Luiz Eduardo Ramos"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Citizenship",
-            "links": [
-              {
-                "text": "Minister of Citizenship",
-                "type": "internal",
-                "page": "Ministry of Citizenship (Brazil)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "18 February 2020"
-          },
-          "term_end2": {
-            "text": "12 February 2021"
-          },
-          "president2": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Osmar Terra",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Osmar Terra"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "João Roma"
-          },
-          "office3": {
-            "text": "Chief of Staff of the Presidency",
-            "links": [
-              {
-                "text": "Chief of Staff of the Presidency",
-                "type": "internal",
-                "page": "Chief of Staff of Brazil"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 January 2019"
-          },
-          "term_end3": {
-            "text": "18 February 2020"
-          },
-          "president3": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Eliseu Padilha",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eliseu Padilha"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Walter Souza Braga Netto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Walter Souza Braga Netto"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Federal Deputy for Rio Grande do Sul",
-            "links": [
-              {
-                "text": "Federal Deputy",
-                "type": "internal",
-                "page": "Chamber of Deputies (Brazil)"
-              },
-              {
-                "type": "internal",
-                "page": "Rio Grande do Sul"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 February 2003"
-          },
-          "term_end4": {
-            "text": "1 January 2019"
-          },
-          "office5": {
-            "text": "State Deputy of Rio Grande do Sul",
-            "links": [
-              {
-                "text": "State Deputy of Rio Grande do Sul",
-                "type": "internal",
-                "page": "Legislative Assembly of Rio Grande do Sul"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 January 1995"
-          },
-          "term_end5": {
-            "text": "1 January 2003"
-          },
-          "birth_name": {
-            "text": "Onyx Dornelles Lorenzoni"
-          },
-          "birth_date": {
-            "text": "October 3, 1954"
-          },
-          "birth_place": {
-            "text": "Porto Alegre, Rio Grande do Sul, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Porto Alegre"
-              },
-              {
-                "type": "internal",
-                "page": "Rio Grande do Sul"
-              }
-            ]
-          },
-          "party": {
-            "text": "UB (2022–present)",
-            "links": [
-              {
-                "text": "UB",
-                "type": "internal",
-                "page": "Brazil Union"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "DEM (2007–2022)\nPFL (1997–2007)\nPL (1987–1997)",
-            "links": [
-              {
-                "text": "DEM",
-                "type": "internal",
-                "page": "Democrats (Brazil)"
-              },
-              {
-                "text": "PFL",
-                "type": "internal",
-                "page": "Democrats (Brazil)"
-              },
-              {
-                "text": "PL",
-                "type": "internal",
-                "page": "Liberal Party (Brazil, 1985)"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Dalva Dornelles Lorenzoni"
-          },
-          "father": {
-            "text": "Rheno Julio Lorenzoni"
-          },
-          "education": {
-            "text": "Federal University of Santa Maria (BA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Federal University of Santa Maria"
-              },
-              {
-                "text": "BA",
-                "type": "internal",
-                "page": "Bachelor of Veterinary Science"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Onyx Lorenzoni",
+  "image": "Onyx Lorenzoni em 18 de julho de 2019.jpg",
+  "office": "Minister of Labour and Social Security",
+  "term_start": "26 July 2021",
+  "president": "Jair Bolsonaro",
+  "predecessor": "Position restablished",
+  "office1": "Secretary-General of the Presidency",
+  "term_start1": "12 February 2021",
+  "term_end1": "26 July 2021",
+  "president1": "Jair Bolsonaro",
+  "predecessor1": "Jorge Oliveira",
+  "successor1": "Luiz Eduardo Ramos",
+  "office2": "Minister of Citizenship",
+  "term_start2": "18 February 2020",
+  "term_end2": "12 February 2021",
+  "president2": "Jair Bolsonaro",
+  "predecessor2": "Osmar Terra",
+  "successor2": "João Roma",
+  "office3": "Chief of Staff of the Presidency",
+  "term_start3": "1 January 2019",
+  "term_end3": "18 February 2020",
+  "president3": "Jair Bolsonaro",
+  "predecessor3": "Eliseu Padilha",
+  "successor3": "Walter Souza Braga Netto",
+  "office4": "Federal Deputy for Rio Grande do Sul",
+  "term_start4": "1 February 2003",
+  "term_end4": "1 January 2019",
+  "office5": "State Deputy of Rio Grande do Sul",
+  "term_start5": "1 January 1995",
+  "term_end5": "1 January 2003",
+  "birth_name": "Onyx Dornelles Lorenzoni",
+  "birth_date": "October 3, 1954",
+  "birth_place": "Porto Alegre, Rio Grande do Sul, Brazil",
+  "party": "UB (2022–present)",
+  "otherparty": "DEM (2007–2022)\nPFL (1997–2007)\nPL (1987–1997)",
+  "mother": "Dalva Dornelles Lorenzoni",
+  "father": "Rheno Julio Lorenzoni",
+  "education": "Federal University of Santa Maria (BA)"
 }

@@ -1,262 +1,35 @@
 {
-  "title": "Eduardo Pazuello",
-  "pageID": 65329411,
-  "categories": [
-    "1963 births",
-    "Living people",
-    "Brazilian generals",
-    "Rio de Janeiro (state) politicians",
-    "Health ministers of Brazil",
-    "People from Rio de Janeiro (city)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Eduardo Pazuello (born in 1963) is a Brazilian Divisional general of the Brazilian Army and politician, he served as Minister of Health between 2020 and 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Divisional general"
-                },
-                {
-                  "type": "internal",
-                  "page": "Brazilian Army"
-                },
-                {
-                  "text": "Minister of Health",
-                  "type": "internal",
-                  "page": "Ministry of Health (Brazil)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Eduardo Pazuello"
-                ]
-              }
-            },
-            {
-              "text": "He was previously married to Daisy Berqvist; they divorced at the time of the birth of their twins in 2004"
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Brazilian general and politician",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1963",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "General",
-            "links": [
-              {
-                "text": "General",
-                "type": "internal",
-                "page": "Divisional general"
-              }
-            ]
-          },
-          "name": {
-            "text": "Eduardo Pazuello"
-          },
-          "image": {
-            "text": "File:Eduardo Pazuello (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Ministry of Health (Brazil)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 September 2020"
-          },
-          "term_end": {
-            "text": "23 March 2021 Acting: 2 June 2020 – 16 September 2020"
-          },
-          "president": {
-            "text": "Jair Bolsonaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jair Bolsonaro"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Nelson Teich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nelson Teich"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Marcelo Queiroga",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marcelo Queiroga"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Secretary of Strategic Affairs of the Presidency",
-            "links": [
-              {
-                "text": "Presidency",
-                "type": "internal",
-                "page": "Presidency of Jair Bolsonaro"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 June 2021"
-          },
-          "predecessor1": {
-            "text": "Established position"
-          },
-          "office2": {
-            "text": "Executive Secretary of the Ministry of Health",
-            "links": [
-              {
-                "text": "Ministry of Health",
-                "type": "internal",
-                "page": "Ministry of Health (Brazil)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "28 April 2020"
-          },
-          "term_end2": {
-            "text": "2 June 2020"
-          },
-          "minister2": {
-            "text": "Nelson Teich",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nelson Teich"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "João Gabbardo dos Reis"
-          },
-          "successor2": {
-            "text": "Antonio Elcio Franco"
-          },
-          "office3": {
-            "text": "State Secretary of Finances of Roraima",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roraima"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "10 December 2018"
-          },
-          "term_end3": {
-            "text": "14 February 2019"
-          },
-          "1blankname3": {
-            "text": "Governor"
-          },
-          "1namedata3": {
-            "text": "Antonio Denarium",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antonio Denarium"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Enoque Rosas"
-          },
-          "successor3": {
-            "text": "Marco Antônio Alves"
-          },
-          "birth_date": {
-            "text": "1963 (age 59)"
-          },
-          "birth_place": {
-            "text": "Rio de Janeiro, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rio de Janeiro"
-              },
-              {
-                "type": "internal",
-                "page": "Brazil"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Agulhas Negras Military Academy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Agulhas Negras Military Academy"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Military"
-          },
-          "allegiance": {
-            "text": "🇧🇷"
-          },
-          "branch": {
-            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brazilian Army"
-              }
-            ]
-          },
-          "rank": {
-            "text": "General de Divisão.gif Divisional general",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Divisional general"
-              }
-            ]
-          },
-          "mawards": {
-            "text": "Order of Aeronautical Merit",
-            "links": [
-              {
-                "text": "Order of Aeronautical Merit",
-                "type": "internal",
-                "page": "Order of Aeronautical Merit (Brazil)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "General",
+  "name": "Eduardo Pazuello",
+  "image": "File:Eduardo Pazuello (cropped).jpg",
+  "office": "Minister of Health",
+  "term_start": "16 September 2020",
+  "term_end": "23 March 2021 Acting: 2 June 2020 – 16 September 2020",
+  "president": "Jair Bolsonaro",
+  "predecessor": "Nelson Teich",
+  "successor": "Marcelo Queiroga",
+  "office1": "Secretary of Strategic Affairs of the Presidency",
+  "term_start1": "1 June 2021",
+  "predecessor1": "Established position",
+  "office2": "Executive Secretary of the Ministry of Health",
+  "term_start2": "28 April 2020",
+  "term_end2": "2 June 2020",
+  "minister2": "Nelson Teich",
+  "predecessor2": "João Gabbardo dos Reis",
+  "successor2": "Antonio Elcio Franco",
+  "office3": "State Secretary of Finances of Roraima",
+  "term_start3": "10 December 2018",
+  "term_end3": "14 February 2019",
+  "1blankname3": "Governor",
+  "1namedata3": "Antonio Denarium",
+  "predecessor3": "Enoque Rosas",
+  "successor3": "Marco Antônio Alves",
+  "birth_date": "1963 (age 59)",
+  "birth_place": "Rio de Janeiro, Brazil",
+  "alma_mater": "Agulhas Negras Military Academy",
+  "profession": "Military",
+  "allegiance": "🇧🇷",
+  "branch": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+  "rank": "General de Divisão.gif Divisional general",
+  "mawards": "Order of Aeronautical Merit"
 }

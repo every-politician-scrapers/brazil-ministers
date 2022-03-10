@@ -1,245 +1,27 @@
 {
-  "title": "Renan Filho",
-  "pageID": 51558397,
-  "categories": [
-    "Living people",
-    "1979 births",
-    "Governors of Alagoas",
-    "Brazilian economists",
-    "Members of the Chamber of Deputies (Brazil) from Alagoas",
-    "Brazilian Democratic Movement politicians",
-    "Mayors of places in Brazil"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "José Renan Vasconcelos Calheiros Filho (born December 8, 1979) is a Brazilian economist and politician.",
-              "formatting": {
-                "bold": [
-                  "José Renan Vasconcelos Calheiros Filho"
-                ]
-              }
-            },
-            {
-              "text": "He is currently governor of Alagoas since January 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Alagoas"
-                }
-              ]
-            },
-            {
-              "text": "He is affiliated with the Brazilian Democratic Movement Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Brazilian Democratic Movement Party"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He was elected mayor of the municipality of Murici, Alagoas, in the 2004 election, and was re-elected in 2008.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Murici"
-                }
-              ]
-            },
-            {
-              "text": "In early April 2010, he resigned to possibly play a state office of Member of the Legislative Assembly, replaced by Remi Calheiros, former mayor and who was his deputy."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In the elections of October 2010 he was elected Congressman, and that election the most voted candidate of Alagoas."
-            },
-            {
-              "text": "was the one who received the most votes in 22 of the 104 Alagoas state municipalities."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is the son of the previous president of the Senate, Renan Calheiros, and Maria Veronica Rodrigues Calheiros.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Renan Calheiros"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In October 2014, he was elected in the first round governor of Alagoas with 52.16% of the votes."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Brazilian economist and politician",
-          "template": "short description"
-        },
-        {
-          "suffix": "Filho",
-          "template": "portuguese name"
-        },
-        {
-          "year": "1979",
-          "month": "12",
-          "day": "08",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Renan Filho"
-          },
-          "image": {
-            "text": "Recebe em audiência o governador de Alagoas, Renan Filho. (16551164323) - cropped.jpg"
-          },
-          "office": {
-            "text": "Governor of Alagoas"
-          },
-          "term_start": {
-            "text": "January 1, 2015"
-          },
-          "1blankname": {
-            "text": "Lieutenant"
-          },
-          "1namedata": {
-            "text": "Luciano Barbosa (2015–20)\nNone (2021–present)"
-          },
-          "predecessor": {
-            "text": "Teotônio Vilela Filho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teotônio Vilela Filho"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Federal Deputy for Alagoas",
-            "links": [
-              {
-                "text": "Federal Deputy",
-                "type": "internal",
-                "page": "Chamber of Deputies (Brazil)"
-              },
-              {
-                "type": "internal",
-                "page": "Alagoas"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "February 1, 2011"
-          },
-          "term_end1": {
-            "text": "January 1, 2015"
-          },
-          "office2": {
-            "text": "Mayor of Murici",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Murici"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "January 1, 2005"
-          },
-          "term_end2": {
-            "text": "April 6, 2010"
-          },
-          "deputy2": {
-            "text": "Rita Tenorio (2005–08)\nRemi Calheiros (2009–10)"
-          },
-          "predecessor2": {
-            "text": "Remi Calheiros"
-          },
-          "successor2": {
-            "text": "Remi Calheiros"
-          },
-          "birth_date": {
-            "text": "December 8, 1979"
-          },
-          "birth_place": {
-            "text": "Murici, Alagoas, Brazil",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Murici"
-              },
-              {
-                "type": "internal",
-                "page": "Alagoas"
-              }
-            ]
-          },
-          "father": {
-            "text": "Renan Calheiros",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Renan Calheiros"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Maria Verônica Rodrigues"
-          },
-          "party": {
-            "text": "MDB",
-            "links": [
-              {
-                "text": "MDB",
-                "type": "internal",
-                "page": "Brazilian Democratic Movement"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Renata Pires"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "University of Brasília",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Brasília"
-              }
-            ]
-          },
-          "profession": {
-            "text": "Economist"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Renan Filho",
+  "image": "Recebe em audiência o governador de Alagoas, Renan Filho. (16551164323) - cropped.jpg",
+  "office": "Governor of Alagoas",
+  "term_start": "January 1, 2015",
+  "1blankname": "Lieutenant",
+  "1namedata": "Luciano Barbosa (2015–20)\nNone (2021–present)",
+  "predecessor": "Teotônio Vilela Filho",
+  "office1": "Federal Deputy for Alagoas",
+  "term_start1": "February 1, 2011",
+  "term_end1": "January 1, 2015",
+  "office2": "Mayor of Murici",
+  "term_start2": "January 1, 2005",
+  "term_end2": "April 6, 2010",
+  "deputy2": "Rita Tenorio (2005–08)\nRemi Calheiros (2009–10)",
+  "predecessor2": "Remi Calheiros",
+  "successor2": "Remi Calheiros",
+  "birth_date": "December 8, 1979",
+  "birth_place": "Murici, Alagoas, Brazil",
+  "father": "Renan Calheiros",
+  "mother": "Maria Verônica Rodrigues",
+  "party": "MDB",
+  "spouse": "Renata Pires",
+  "children": "2",
+  "alma_mater": "University of Brasília",
+  "profession": "Economist"
 }
