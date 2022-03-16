@@ -11,10 +11,6 @@
   })(window,document,'script','dataLayer','GTM-NHZSKTD');</script>
   <!-- End Google Tag Manager -->
 
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -199,9 +195,14 @@
             content: "Adicionar Arquivos" !important;
         }
     </style>
-<link href="/planalto/++theme++padrao_govbr/govbrtheme-a1e640f.css" rel="stylesheet" /></head>
+    <script type="module" src="/cdn/sso-status-bar/src/js/sso-status-bar.js"></script>
+<link href="/planalto/++theme++padrao_govbr/govbrtheme-03258a7.css" rel="stylesheet" /></head>
 
 <body id="" class="default-header-template portal-institucional cover-layout-layout-vazio template-view portaltype-collective-cover-content site-pt-br section-conheca-a-presidencia subsection-ministros subsection-ministros-ministros userrole-anonymous" data-base-url="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/ministros/ministros" data-portal-url="https://www.gov.br/planalto" dir="ltr">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHZSKTD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
   <nav class="govbr-skip-menu" aria-label="Acesso rápido">
     <a href="#wrapper" accesskey="1">
       <span class="sr-only">Ir para o</span>
@@ -294,10 +295,16 @@
             </li>
           </ul>
 
-          <a href="https://acesso.gov.br" class="link-acesso">
-            <span class="fas fa-user"></span>
-            Entrar
-          </a>
+          <sso-status-bar id="barra" authorization-src="/cdn/oauth2-authorization-client-resources/src/html/oauth2-authorization-url.html" sign-in-href="/cdn/govbrportal/src/html/oauth2-authorization-url.html" style="display: none" onready="document.getElementById('barra').removeAttribute('style')" sign-out-href="https://sso.acesso.gov.br/logout?post_logout_redirect_uri=https://www.gov.br/planalto/pt-br" cookie-monitor-src="https://sso.acesso.gov.br/session-management/html/cookie-monitor-server.html">
+            <sso-status-bar-section title="Minha conta">
+              <sso-status-bar-item title="Dados Pessoais" href="https://contas.acesso.gov.br/alteracao_cadastro">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Segurança da Conta" href="https://contas.acesso.gov.br/seguranca">
+              </sso-status-bar-item>
+              <sso-status-bar-item title="Privacidade" href="https://contas.acesso.gov.br/privacidade">
+              </sso-status-bar-item>
+            </sso-status-bar-section>
+          </sso-status-bar>
 
         </div>
       
@@ -346,16 +353,38 @@
     
 </li>
 
-<li>
+<li class="dropdown-submenu">
 
     
 
-        <a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos" class="state-published">
+        <a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos" class="state-published hasDropDown">
             
             Discursos
         </a>
 
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos/discurso-do-presidente-da-republica-jair-bolsonaro-na-cerimonia-de-lancamento-do-novo-marco-de-securitizacao-e-fortalecimento-de-garantias-agro-palacio-do-planalto" class="state-published">
+            
+            Discurso do Presidente da República, Jair Bolsonaro, na cerimônia de Lançamento do Novo Marco de Securitização e Fortalecimento de Garantias Agro - Palácio do Planalto
+        </a>
+
         
+    
+</li>
+
+
+
+
+        </ul>
     
 </li>
 
@@ -5008,16 +5037,38 @@
     
 </li>
 
-<li>
+<li class="dropdown-submenu">
 
     
 
-        <a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos" class="state-published">
+        <a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos" class="state-published hasDropDown">
             
             Discursos
         </a>
 
+        <ul class="submenu navTree navTreeLevel1">
+            
+
+
+
+
+<li>
+
+    
+
+        <a href="https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/discursos/discurso-do-presidente-da-republica-jair-bolsonaro-na-cerimonia-de-lancamento-do-novo-marco-de-securitizacao-e-fortalecimento-de-garantias-agro-palacio-do-planalto" class="state-published">
+            
+            Discurso do Presidente da República, Jair Bolsonaro, na cerimônia de Lançamento do Novo Marco de Securitização e Fortalecimento de Garantias Agro - Palácio do Planalto
+        </a>
+
         
+    
+</li>
+
+
+
+
+        </ul>
     
 </li>
 
@@ -7401,7 +7452,7 @@
                 <span class="sr-only">Voltar ao topo da página</span>
             </a>
         </nav>
-    <div id="govbr-busca-input-data" style="display: none" data-autocomplete-api="https://portalunico.estaleiro.serpro.gov.br/api/" data-autocomplete-index="//www.gov.br/planalto" data-autocomplete-orgao="presidencia-da-republica" data-autocomplete-search="https://www.gov.br/planalto/pt-br" data-autocomplete-portal="https://www.gov.br" data-historico-title="Histórico de buscas" data-servicos-title="Serviços e Apps" data-sugestoes-title="Você quis dizer?" data-input-placeholder="O que você procura?"></div></div><div id="main-navigation-overlay"></div><script type="text/javascript" src="/planalto/++theme++padrao_govbr/govbrtheme-a1e640f.js"></script><div id="plone-analytics"></div>
+    <div id="govbr-busca-input-data" style="display: none" data-autocomplete-api="https://portalunico.estaleiro.serpro.gov.br/api/" data-autocomplete-index="//www.gov.br/planalto" data-autocomplete-orgao="presidencia-da-republica" data-autocomplete-search="https://www.gov.br/planalto/pt-br" data-autocomplete-portal="https://www.gov.br" data-historico-title="Histórico de buscas" data-servicos-title="Serviços e Apps" data-sugestoes-title="Você quis dizer?" data-input-placeholder="O que você procura?"></div></div><div id="main-navigation-overlay"></div><script type="text/javascript" src="/planalto/++theme++padrao_govbr/govbrtheme-03258a7.js"></script><div id="plone-analytics"></div>
     
     
       <script async="" src="//barra.brasil.gov.br/barra_2.0.js"></script>
