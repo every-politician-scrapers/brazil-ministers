@@ -1210,7 +1210,13 @@
               ]
             },
             "col3": {
-              "text": "Bruno Bianco"
+              "text": "Bruno Bianco",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bruno Bianco"
+                }
+              ]
             },
             "Partido": {
               "text": ""
