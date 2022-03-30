@@ -84,7 +84,7 @@
         },
         {
           "list": [
-            "Social Liberal Party (Brazil)"
+            "Liberal Party (Brazil, 2006)"
           ],
           "template": "party color"
         },
@@ -97,7 +97,7 @@
         },
         {
           "list": [
-            "Liberal Party (Brazil, 2006)"
+            "Brazil Union"
           ],
           "template": "party color"
         },
@@ -150,19 +150,6 @@
         {
           "list": [
             "Republicans (Brazil)"
-          ],
-          "template": "party color"
-        },
-        {
-          "list": [
-            ""
-          ],
-          "border": "darkgray",
-          "template": "color box"
-        },
-        {
-          "list": [
-            "Democrats (Brazil)"
           ],
           "template": "party color"
         },
@@ -476,21 +463,21 @@
             "text": "23 (incl. Cabinet-level members)"
           },
           "former_members_resigned": {
-            "text": "8",
-            "number": 8
+            "text": "9",
+            "number": 9
           },
           "political_parties": {
-            "text": "PSL\n\n PL\n\n PP\n\n PSD\n\n MDB\n\n Republicanos\n\n DEM\n\n PSC\n\n PODE\n\n PTB\n\n Avante\n\n Patriota",
+            "text": "PL\n\n UNIÃO\n\n PP\n\n PSD\n\n MDB\n\n Republicanos\n\n PSC\n\n PODE\n\n PTB\n\n Avante\n\n Patriota",
             "links": [
-              {
-                "text": "PSL",
-                "type": "internal",
-                "page": "Social Liberal Party (Brazil)"
-              },
               {
                 "text": "PL",
                 "type": "internal",
                 "page": "Liberal Party (Brazil, 2006)"
+              },
+              {
+                "text": "UNIÃO",
+                "type": "internal",
+                "page": "Brazil Union"
               },
               {
                 "text": "PP",
@@ -511,11 +498,6 @@
                 "text": "Republicanos",
                 "type": "internal",
                 "page": "Republicans (Brazil)"
-              },
-              {
-                "text": "DEM",
-                "type": "internal",
-                "page": "Democrats (Brazil)"
               },
               {
                 "text": "PSC",
@@ -1416,12 +1398,8 @@
           },
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "3",
+              "number": 3
             },
             "Incumbent": {
               "text": "90px]]"
@@ -3401,13 +3379,19 @@
               ]
             },
             "Name": {
-              "text": "Roberto Castello Branco"
+              "text": "Joaquim Silva e Luna",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joaquim Silva e Luna"
+                }
+              ]
             },
             "Party": {
               "text": "-"
             },
             "Announcement": {
-              "text": "19 November 2018"
+              "text": "19 February 2021"
             },
             "Notes": {
               "text": ""
@@ -3447,13 +3431,13 @@
               ]
             },
             "Name": {
-              "text": "Rubem Novaes"
+              "text": "Fausto de Andrade Ribeiro"
             },
             "Party": {
               "text": "-"
             },
             "Announcement": {
-              "text": "22 November 2018"
+              "text": "19 March 2021"
             },
             "Notes": {
               "text": ""
@@ -3786,21 +3770,24 @@
           "type": "news"
         },
         {
-          "url": "https://www1.folha.uol.com.br/mercado/2018/11/levy-e-confirmado-no-bndes.shtml",
-          "title": "Ex-ministro da Fazenda, Joaquim Levy é confirmado no BNDES",
-          "date": "12 November 2018",
-          "work": "Folha de S.Paulo",
-          "access-date": "23 November 2018",
-          "language": "pt-BR",
+          "url": "https://g1.globo.com/economia/noticia/2019/06/17/gustavo-montezano-e-o-novo-presidente-do-bndes.ghtml",
+          "title": "Gustavo Montezano é escolhido para substituir Joaquim Levy na presidência do BNDES",
+          "work": "G1",
+          "language": "pt",
+          "first": "Delis",
+          "last": "Ortiz",
+          "date": "17 June 2019",
+          "accessdate": "28 March 2022",
           "template": "citation",
           "type": "news"
         },
         {
-          "url": "https://g1.globo.com/economia/noticia/2018/11/19/roberto-castello-branco-aceita-convite-para-presidir-petrobras.ghtml",
-          "title": "Roberto Castello Branco aceita convite para presidir a Petrobras",
-          "work": "G1",
-          "access-date": "23 November 2018",
-          "language": "pt-BR",
+          "url": "https://exame.com/negocios/quem-e-joaquim-silva-e-luna-indicado-para-novo-ceo-da-petrobras/",
+          "title": "Quem é Joaquim Silva e Luna, indicado para novo CEO da Petrobras?",
+          "work": "Exame",
+          "language": "pt",
+          "date": "20 February 2021",
+          "accessdate": "28 March 2022",
           "template": "citation",
           "type": "news"
         },
@@ -3814,11 +3801,12 @@
           "type": "news"
         },
         {
-          "url": "https://g1.globo.com/economia/noticia/2018/11/22/conheca-rubem-novaes-indicado-para-presidir-o-banco-do-brasil.ghtml",
-          "title": "Conheça Rubem Novaes, indicado para presidir o Banco do Brasil",
+          "url": "https://g1.globo.com/economia/noticia/2021/03/19/novo-presidente-do-banco-do-brasil-quem-e-fausto-de-andrade-ribeiro.ghtml",
+          "title": "Novo presidente do Banco do Brasil",
           "work": "G1",
-          "access-date": "23 November 2018",
-          "language": "pt-BR",
+          "language": "pt",
+          "date": "19 March 2021",
+          "accessdate": "28 March 2022",
           "template": "citation",
           "type": "news"
         },
