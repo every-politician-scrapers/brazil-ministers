@@ -1,25 +1,7 @@
 @@,itemlabel,item,startdate,enddate
 ---,Clemente Mariani,Q9774968,,
-+++,Jorge Bornhausen,Q365981,1986-02-14,1987-10-05
-+++,Aloísio Guimarães Sotero,Q16488916,1987-10-06,1987-10-30
-+++,Carlos Corrêa de Menezes Sant'anna,Q9696969,1989-01-16,1990-03-14
-+++,Carlos Chiarelli,Q9696956,1990-03-15,1991-08-21
-+++,José Goldemberg,Q1791336,1991-08-22,1992-08-04
-+++,Eraldo Tinoco,Q10273514,1992-08-04,1992-10-01
-+++,Murílio de Avellar Hingel,Q10333356,1992-10-01,1995-01-01
-+++,Paulo Renato Souza,Q7155285,1995-01-01,2003-01-01
-+++,Cristovam Buarque,Q1789919,2003-01-01,2004-01-27
-+++,Tarso Genro,Q3515818,2004-01-27,2005-07-29
-+++,Fernando Haddad,Q3069485,2005-07-29,2011-01-01
-+++,Fernando Haddad,Q3069485,2011-01-01,2012-01-23
-+++,Aloizio Mercadante,Q3820720,2012-01-24,2014-02-02
-+++,José Henrique Paim,Q16337689,2014-02-03,2015-01-01
-+++,Luiz Cláudio Costa,Q10320688,2015-03-18,2015-04-06
-+++,Renato Janine Ribeiro,Q7312649,2015-04-06,2015-10-01
-+++,Aloizio Mercadante,Q3820720,2015-10-02,2016-05-12
-+++,Mendonça Filho,Q9031519,2016-05-12,2018-04-06
-+++,Rossieli Soares,Q51882584,2018-04-06,2018-12-31
-+++,Ricardo Vélez Rodríguez,Q59123716,2019-01-01,2019-04-08
+->,Eraldo Tinoco Melo->Eraldo Tinoco,Q10273514,1992-08-04,1992-10-01
+->,José Mendonça Bezerra Filho->Mendonça Filho,Q9031519,2016-05-12,2018-04-06
 ->,Abraham Weintraub,Q63039824,2019-04-09,2020-06-20->2020-06-19
 ->,Hugo Napoleão do Rego Neto,Q10298780,NULL->1987-11-03,NULL->1989-01-16
 ->,Cid Gomes,Q5119489,NULL->2015-01-01,NULL->2015-03-18
