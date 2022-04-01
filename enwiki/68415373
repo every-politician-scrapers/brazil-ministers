@@ -1,10 +1,17 @@
 {
   "name": "João Roma",
-  "image": "João Roma 2.jpg",
+  "image": "João Roma.jpg",
   "office": "Minister of Citizenship",
   "term_start": "12 February 2021",
+  "term_end": "31 March 2022",
   "president": "Jair Bolsonaro",
   "predecessor": "Onyx Lorenzoni",
+  "successor": "Ronaldo Bento",
+  "office1": "Federal Deputy from Pernambuco",
+  "term_start1": "1 February 2019",
+  "birth_name": "João Inácio Ribeiro Roma Neto",
   "birth_date": "November 17, 1972",
-  "birth_place": "Recife, Pernambuco, Brazil"
+  "birth_place": "Recife, Pernambuco, Brazil",
+  "party": "PL (2022–present)",
+  "otherparty": "DEM (1993–2016)\n\nRepublicanos (2016–22)"
 }
