@@ -1,0 +1,139 @@
+{
+  "title": "Template:Bolsonaro cabinet",
+  "pageID": 59488157,
+  "categories": [
+    "Brazil politics and government templates",
+    "Presidents of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "}"
+          ],
+          "template": "{david cameron cabinet 1 vertical"
+        },
+        {
+          "list": [
+            "Cabinet and cabinet-level",
+            "Cabinet of President Jair Bolsonaro (2019–)"
+          ],
+          "template": "#if:"
+        },
+        {
+          "list": [
+            "}"
+          ],
+          "template": "{removeborder"
+        },
+        {
+          "list": [
+            "none"
+          ],
+          "template": "#if:"
+        },
+        {
+          "list": [
+            "collapsed }"
+          ],
+          "template": "{state"
+        },
+        {
+          "list": [
+            "expanded}"
+          ],
+          "template": "{state"
+        },
+        {
+          "list": [
+            "child"
+          ],
+          "title": "Cabinet",
+          "image": "Jair Bolsonaro em 24 de abril de 2019 (1) (cropped).jpg",
+          "group1": "Minister of Agriculture, Livestock and Supply",
+          "list1": "* Tereza Cristina (2019–2022)\n* Mauro Montes (2022–)",
+          "group2": "Minister of Citizenship",
+          "list2": "* Osmar Terra (2019–2020)\n* Onyx Lorenzoni (2020–2021)\n* João Roma (2021–2022)\n* Ronaldo Bento (2022–)",
+          "group3": "Minister of Communications",
+          "list3": "* Fábio Faria (2020–)",
+          "group4": "Minister of Defence",
+          "list4": "* Fernando Azevedo e Silva (2019–2021)\n* Walter Souza Braga Netto (2021–2022)\n* Paulo Sérgio Nogueira de Oliveira (2022–)",
+          "group5": "Minister of the Economy",
+          "list5": "* Paulo Guedes (2019–)",
+          "group6": "Minister of Education",
+          "list6": "* Ricardo Vélez Rodríguez (2019)\n* Abraham Weintraub (2019–2020)\n* Milton Ribeiro (2020–2022)",
+          "group7": "Minister of the Environment",
+          "list7": "* Ricardo Salles (2019–2021)\n* Joaquim Alvaro Pereira Leite (2021–)",
+          "group8": "Minister of Foreign Affairs",
+          "list8": "* Ernesto Araújo (2019–2021)\n* Carlos Alberto França (2021–)",
+          "group9": "Minister of Health",
+          "list9": "* Luiz Henrique Mandetta (2019–2020)\n* Nelson Teich (2020)\n* Eduardo Pazuello (2020–2021)\n* Marcelo Queiroga (2021–)",
+          "group10": "Minister of Infrastructure",
+          "list10": "* Tarcísio Gomes de Freitas (2019–2022)\n* Marcelo Sampaio (2022–)",
+          "group11": "Minister of Justice and Public Security",
+          "list11": "* Sérgio Moro (2019–2020)\n* André Mendonça (2020–2021)\n* Anderson Torres (2021–)",
+          "group12": "Minister of Labour and Social Security",
+          "list12": "* Onyx Lorenzoni (2021–2022)\n* José Carlos Oliveira (2022–)",
+          "group13": "Minister of Mines and Energy",
+          "list13": "* Bento Costa Lima (2019–)",
+          "group14": "Minister of Regional Development",
+          "list14": "* Gustavo Canuto (2019–2020)\n* Rogério Marinho (2020–2022)\n* Daniel de Oliveira (2022–)",
+          "group15": "Minister of Science, Technology and Innovation",
+          "list15": "* Marcos Pontes (2019–2022)\n* Paulo Alvim (2022–)",
+          "group16": "Minister of Tourism",
+          "list16": "* Marcelo Álvaro Antônio (2019–20)\n* Gilson Machado (2020–2022)\n* Carlos Brito (2022–)",
+          "group17": "Minister of Women, Family and Human Rights",
+          "list17": "* Damares Alves (2019–2022)\n* Cristiane Britto (2022–)",
+          "template": "navbox"
+        },
+        {
+          "list": [
+            "expanded}"
+          ],
+          "template": "{state"
+        },
+        {
+          "list": [
+            "child"
+          ],
+          "title": "Cabinet-level",
+          "group1": "Vice President",
+          "list1": "* Hamilton Mourão (2019–)",
+          "group2": "Chief of Staff",
+          "list2": "* Onyx Lorenzoni (2019–2020)\n* Walter Souza Braga Netto (2020–2021)\n* Luiz Eduardo Ramos (2021)\n* Ciro Nogueira Lima Filho (2021–)",
+          "group3": "Attorney General",
+          "list3": "* André Mendonça (2019–2020)\n* José Levi do Amaral (2020–2021)\n* André Mendonça (2021–21)\n* Bruno Bianco (2021–)",
+          "group4": "Comptroller General",
+          "list4": "* Wagner de Campos Rosário (2019–)",
+          "group5": "Secretary of Government",
+          "list5": "* Santos Cruz (2019)\n* Luiz Eduardo Ramos (2019–2021)\n* Flávia Arruda (2021–2022)\n* Célio Faria Júnior (2022–)",
+          "group6": "Secretary of Institutional Security",
+          "list6": "* Augusto Heleno (2019–)",
+          "group7": "Secretary-General of the Presidency",
+          "list7": "* Gustavo Bebianno (2019)\n* Floriano Peixoto Vieira Neto (2019)\n* Jorge Oliveira (2019–2020)\n* Onyx Lorenzoni (2021)\n* Luiz Eduardo Ramos (2021–)",
+          "template": "navbox"
+        },
+        {
+          "name": "Bolsonaro cabinet",
+          "bodyclass": "hlist",
+          "nowrapitems": "yes",
+          "template": "navbox"
+        },
+        {
+          "list": [
+            "Cabinet of Brazil",
+            "Presidency of Jair Bolsonaro",
+            "Bolsonaro administration cabinet members"
+          ],
+          "template": "see also"
+        },
+        {
+          "template": "collapsible option"
+        }
+      ]
+    }
+  ]
+}
