@@ -1885,7 +1885,13 @@
               "text": ""
             },
             "col3": {
-              "text": "Victor Godoy Veiga"
+              "text": "Victor Godoy Veiga",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Victor Godoy Veiga"
+                }
+              ]
             },
             "Partido": {
               "text": "—"
@@ -2126,7 +2132,7 @@
               ]
             },
             "Incumbente": {
-              "text": ""
+              "text": "semmoldura|143x143px]]"
             },
             "col3": {
               "text": "Marcelo Sampaio",
