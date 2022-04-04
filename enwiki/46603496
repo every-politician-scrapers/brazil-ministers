@@ -1,8 +1,6 @@
 {
   "name": "Jair Bolsonaro",
-  "honorific-prefix": "His Excellency",
   "image": "2020-03-24 Pronunciamento do Presidente da República, Jair Bolsonaro em Rede Nacional de Rádio e Televisão - 49695919452 (cropped 2).jpg",
-  "caption": "Bolsonaro in 2020",
   "office": "President of Brazil",
   "vicepresident": "Hamilton Mourão",
   "term_start": "1 January 2019",
@@ -13,14 +11,14 @@
   "office3": "City Councillor of Rio de Janeiro",
   "term_start3": "1 January 1989",
   "term_end3": "1 February 1991",
+  "birth_name": "Jair Messias Bolsonaro",
+  "birth_date": "March 21, 1955",
+  "birth_place": "Glicério, Brazil",
   "party": "PL (2021–present)",
   "otherparty": "Independent (2019–2021)\n\nSocial Liberal (2018–2019)\n\nSocial Christian (2016–2018)\n\nProgressistas (2005–2016)\n\nLiberal Front (2005)\n\nLabour (2003–2005)\n\nProgressistas (1995–2003)\n\nReform Progressives (1993–1995)\n\nProgressives (1993)",
   "spouse": "Rogéria Nantes Braga (m. 1978-1997)\n\nAna Cristina Valle (m. 1997-2007)\n\nMichelle de Paula (m. 2007)",
-  "children": "Flávio · Carlos · Eduardo · Jair Renan · Laura",
-  "residence": "Palácio da Alvorada (presidential)\n\nCondomínio Vivendas da Barra (personal)",
-  "birth_name": "Jair Messias Bolsonaro",
-  "birth_date": "March 21, 1955",
-  "birth_place": "Glicério, São Paulo, Brazil",
+  "children": "5, including Flávio, Carlos, Eduardo",
+  "residence": "Palácio da Alvorada",
   "education": "Agulhas Negras Military Academy",
   "signature": "Signature of Jair Bolsonaro.svg",
   "website": "Official website",
@@ -28,5 +26,5 @@
   "branch": "🇧🇷 Brazilian Army",
   "serviceyears": "1973–1988",
   "rank": "Barzil-Army-OF-2 (horizontal).svg Captain",
-  "commands": "21st Field Artillery Group\n9th Field Artillery Group\n8th Parachutist Field Artillery Group"
+  "commands": "21st Field Artillery Group 9th Field Artillery Group 8th Parachutist Field Artillery Group"
 }
