@@ -2263,7 +2263,13 @@
               "text": ""
             },
             "col3": {
-              "text": "Daniel de Oliveira Duarte Ferreira"
+              "text": "Daniel de Oliveira Duarte Ferreira",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daniel de Oliveira Duarte Ferreira"
+                }
+              ]
             },
             "Partido": {
               "text": "—"
@@ -2695,7 +2701,13 @@
               "text": ""
             },
             "col3": {
-              "text": "Cristiane Britto"
+              "text": "Cristiane Britto",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cristiane Britto"
+                }
+              ]
             },
             "Partido": {
               "text": "—"
