@@ -35,7 +35,7 @@ module.exports = function () {
           OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "en") }
           BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
 
-          SERVICE wikibase:label { bd:serviceParam wikibase:language "es,en" }
+          SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en" }
         }
         # ${new Date().toISOString()}
         ORDER BY STR(?name) STR(?position) ?began ?wdid ?sourceDate`

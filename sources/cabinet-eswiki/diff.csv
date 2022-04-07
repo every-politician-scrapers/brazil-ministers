@@ -1,32 +1,16 @@
 @@,item,name,ministrylabel
-->,Q9637698,Augusto Heleno,Gabinete de Seguridad Institucional de la Presidencia de la República->Gabinete de Segurança Institucional
-->,Q64682549,Luiz Eduardo Ramos,Secretaría General de la Presidencia de la República->Secretaria-Geral da Presidência da República
-->,Q59308525,Bento Albuquerque,Ministerio de Minas y Energía de Brasil->Ministério de Minas e Energia
-->,Q56347746,Paulo Roberto Nunes Guedes->Paulo Guedes,Ministry of Economy->Ministério da Economia
-->,Q30936068,Wagner Rosário,Office of the Comptroller General->Controladoria-Geral da União
-->,Q15985219,Ciro Nogueira Lima Filho->Ciro Nogueira,Staff of Brazil->Casa Civil
-->,Q111446919,Ronaldo Bento->Ronaldo Vieira Bento,NULL->Ministério da Cidadania
-->,Q111446916,Célio Faria Júnior,NULL->Secretaria de Governo
-->,Q111446664,Marcelo Sampaio,Ministry of Infrastructure->Ministério da Infraestrutura
-->,Q111446648,José Carlos Oliveira,Ministerio de Trabajo de Brasil->Ministério do Trabalho e Previdência Social
-->,Q111444580,Paulo Alvim,"Ministerio de Ciencia, Tecnología e Innovación de Brasil->Ministério da Ciência, Tecnologia e Inovações"
-->,Q107972708,Bruno Bianco,Procuradoría General->Advocacia-Geral da União
-->,Q107348193,Joaquim Alvaro Pereira Leite,Ministerio de Medio Ambiente de Brasil->Ministério do Meio Ambiente
-->,Q106307801,Paulo Sérgio Nogueira de Oliveira,Ministerio de Defensa de Brasil->Ministério da Defesa
-->,Q106290142,Anderson Torres->Anderson Gustavo Torres,Ministerio de Justicia de Brasil->Ministério da Justiça e Segurança Pública
-->,Q106271551,Carlos Alberto Franco França,Ministerio de Relaciones Exteriores de Brasil->Ministério das Relações Exteriores
-->,Q105969706,Marcelo Queiroga,Ministerio de Salud de Brasil->Ministério da Saúde
-->,Q10325465,Marcos Montes Cordeiro,"Ministerio de Agricultura de Brasil->Ministério da Agricultura, Pecuária e Abastecimento"
-->,Q10279146,Fabio Faria->Fábio Faria,Ministry of Communications of Brazil->Ministério das Comunicações
----,Q94787924,Eduardo Pazuello,Secretariat for Strategic Affairs of Brazil
----,Q52871852,Hamilton Mourão,Q106089893
----,Q111446676,Daniel de Oliveira,Ministry of Regional Development
----,Q111446662,Cristiane Rodrigues Britto,Ministerio de Derechos Humanos de Brasil
----,Q106621007,Carlos Brito,Ministerio de Turismo de Brasil
+->,Q9637698,Augusto Heleno,Gabinete de Segurança Institucional da Presidência da República->Gabinete de Segurança Institucional
+->,Q56347746,Paulo Roberto Nunes Guedes->Paulo Guedes,Ministério da Economia
+->,Q15985219,Ciro Nogueira Lima Filho->Ciro Nogueira,Casa Civil
+->,Q111446919,Ronaldo Bento->Ronaldo Vieira Bento,Ministério da Cidadania
+->,Q111446676,Daniel de Oliveira->Daniel de Oliveira Duarte Ferreira,Ministério do Desenvolvimento Regional
+->,Q111446664,Marcelo Sampaio,Ministério da Infra-Estrutura->Ministério da Infraestrutura
+->,Q111446662,Cristiane Rodrigues Britto->Cristiane Britto,"Ministério dos Direitos Humanos->Ministério da Mulher, da Família e dos Direitos Humanos"
+->,Q111446648,José Carlos Oliveira,Ministério do Trabalho->Ministério do Trabalho e Previdência Social
+->,Q106621007,Carlos Brito->Carlos Alberto Gomes de Brito,Ministério do Turismo
+->,Q106307801,Paulo Sérgio Nogueira de Oliveira,Ministério da Defesa do Brasil->Ministério da Defesa
+->,Q106290142,Anderson Torres->Anderson Gustavo Torres,Ministério da Justiça e Segurança Pública
+->,Q10279146,Fabio Faria->Fábio Faria,Ministério das Comunicações do Brasil->Ministério das Comunicações
+---,Q94787924,Eduardo Pazuello,Secretaria de Assuntos Estratégicos do Brasil
+---,Q52871852,Hamilton Mourão,Vice-Presidência da República Federativa do Brasil
 ---,Q10304982,Jair Bolsonaro,
-+++,Q97161166,Milton Ribeiro,Ministério da Educação
-+++,Q58812288,Roberto Campos Neto,Banco Central do Brasil
-+++,Q111433242,Victor Godoy Veiga,ministério da educação
-+++,,Daniel de Oliveira Duarte Ferreira,Ministério do Desenvolvimento Regional
-+++,,Carlos Alberto Gomes de Brito,Ministério do Turismo
-+++,,Cristiane Britto,"Ministério da Mulher, da Família e dos Direitos Humanos"
