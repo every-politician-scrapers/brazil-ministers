@@ -1,0 +1,12 @@
+{
+    "jurisdiction": {
+      "name": "Brazil",
+      "id": "Q155"
+    },
+    "cabinet": {
+      "id": "Q100711810",
+      "start": "2019-01-01",
+      "parent": "Q5015503"
+    },
+    "source": "https://pt.wikipedia.org/wiki/Lista_de_membros_do_gabinete_de_Jair_Bolsonaro"
+}
