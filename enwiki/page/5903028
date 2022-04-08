@@ -1879,7 +1879,14 @@
           },
           {
             "Cargo": {
-              "text": "ministério da educação"
+              "text": "Ministério da Educação",
+              "links": [
+                {
+                  "text": "Ministério da Educação",
+                  "type": "internal",
+                  "page": "Ministério da Educação (Brasil)"
+                }
+              ]
             },
             "Incumbente": {
               "text": ""
