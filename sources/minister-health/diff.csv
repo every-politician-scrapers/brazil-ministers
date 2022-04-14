@@ -1,25 +1,6 @@
 @@,itemlabel,item,startdate,enddate
-+++,Alceni Guerra,Q16336274,1990-03-15,1992-01-23
-+++,José Goldemberg,Q1791336,1992-01-24,1992-02-12
-+++,Adib Jatene,Q199640,1992-02-12,1992-10-02
-+++,Jamil Haddad,Q1675988,1992-10-08,1992-12-29
-+++,Jamil Haddad,Q1675988,1992-12-29,1993-08-18
-+++,Saulo Moreira,Q10368647,1993-08-19,1993-08-30
-+++,Henrique Santillo,Q10294836,1993-08-30,1995-01-01
-+++,Adib Jatene,Q199640,1995-01-01,1996-11-06
-+++,José Carlos Seixas,Q10309124,1996-11-06,1996-12-13
-+++,Carlos Albuquerque,Q9696842,1996-12-13,1998-03-31
-+++,Barjas Negri,Q16496845,2002-02-21,2003-01-01
-+++,Humberto Costa,Q10298868,2003-01-01,2005-07-08
-+++,José Saraiva Felipe,Q10310500,2005-07-08,2006-03-31
-+++,Agenor Álvares,Q9587826,2006-03-31,2007-03-16
-+++,José Gomes Temporão,Q10309519,2007-03-16,2010-12-31
-+++,Alexandre Padilha,Q4163528,2011-01-01,2014-02-02
-+++,Arthur Chioro,Q16494211,2014-02-03,2015-10-02
-+++,Marcelo Castro,Q16337847,2015-10-02,2016-04-27
-+++,Ricardo Barros,Q10361085,2016-05-12,2018-04-01
+->,Alceni Ângelo Guerra->Alceni Guerra,Q16336274,1990-03-15,1992-01-23
 ->,Gilberto Occhi,Q16337518,2018-04-02,2019-01-01->2018-12-31
-+++,Luiz Henrique Mandetta,Q18472576,2019-01-01,2020-04-16
 ->,Nelson Luiz Sperle Teich->Nelson Teich,Q90844310,2020-04-17,2020-05-15
 ->,Eduardo Pazuello,Q94787924,2020-06-02,2020-09-16->2021-03-23
 ---,Eduardo Pazuello,Q94787924,2020-09-16,2021-03-23
