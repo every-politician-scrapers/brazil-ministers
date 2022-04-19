@@ -731,12 +731,12 @@
               ]
             },
             "Party": {
-              "text": "PRTB",
+              "text": "Republicanos",
               "links": [
                 {
-                  "text": "PRTB",
+                  "text": "Republicanos",
                   "type": "internal",
-                  "page": "Brazilian Labour Renewal Party"
+                  "page": "Republicans (Brazil)"
                 }
               ]
             },
@@ -783,12 +783,12 @@
               ]
             },
             "Party": {
-              "text": "DEM",
+              "text": "PL",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Liberal Party (Brazil, 2006)"
                 }
               ]
             },
@@ -817,7 +817,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PL",
+              "links": [
+                {
+                  "text": "PL",
+                  "type": "internal",
+                  "page": "Liberal Party (Brazil, 2006)"
+                }
+              ]
             },
             "Announced on": {
               "text": "12 February 2020"
@@ -965,12 +972,8 @@
           },
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "2",
+              "number": 2
             },
             "Incumbent": {
               "text": "Foto Oficial do Sr Ministro da Defesa Walter Braga Netto.jpg"
@@ -985,10 +988,48 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PL",
+              "links": [
+                {
+                  "text": "PL",
+                  "type": "internal",
+                  "page": "Liberal Party (Brazil, 2006)"
+                }
+              ]
             },
             "Announced on": {
               "text": "29 March 2021"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": "90px]]"
+            },
+            "col3": {
+              "text": "Paulo Sérgio Nogueira de Oliveira",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Paulo Sérgio Nogueira de Oliveira"
+                }
+              ]
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "31 March 2022"
             },
             "Notes": {
               "text": ""
@@ -1002,6 +1043,21 @@
           "title": "Bolsonaro anuncia general Fernando Azevedo e Silva para ministro da Defesa, G1, accessed 13 November 2018",
           "publisher": "G1.globo.com",
           "accessdate": "2 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://politica.estadao.com.br/noticias/geral,braga-netto-e-exonerado-da-defesa-e-ganha-cargo-no-planalto-general-paulo-sergio-e-novo-ministro,70004025500",
+          "title": "Braga Netto é exonerado da Defesa e ganha cargo no Planalto; general Paulo Sérgio é novo ministro",
+          "website": "Estadão",
+          "language": "pt",
+          "first1": "Luci",
+          "last1": "Ribeiro",
+          "first2": "Eduardo",
+          "last2": "Gayer",
+          "date": "31 March 2022",
+          "accessdate": "18 April 2022",
+          "url-access": "subscription",
           "template": "citation",
           "type": "web"
         }
@@ -1123,18 +1179,14 @@
       ]
     },
     {
-      "title": "Minister of Labor and Social Security",
+      "title": "Minister of Labour and Social Security",
       "depth": 1,
       "tables": [
         [
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "1",
+              "number": 1
             },
             "Incumbent": {
               "text": "Onyx Lorenzoni em 18 de julho de 2019.jpg"
@@ -1149,12 +1201,12 @@
               ]
             },
             "Party": {
-              "text": "DEM",
+              "text": "PL",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Liberal Party (Brazil, 2006)"
                 }
               ]
             },
@@ -1164,8 +1216,45 @@
             "Notes": {
               "text": ""
             }
+          },
+          {
+            "No.": {
+              "text": "Incumbent|",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": ""
+            },
+            "col3": {
+              "text": "José Carlos Oliveira"
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "31 March 2022"
+            },
+            "Notes": {
+              "text": ""
+            }
           }
         ]
+      ],
+      "references": [
+        {
+          "url": "https://www.opovo.com.br/noticias/economia/2022/03/31/jose-carlos-oliveira-e-o-novo-ministro-do-trabalho-e-previdencia.html",
+          "title": "José Carlos Oliveira é o novo ministro do Trabalho e Previdência",
+          "website": "O Povo",
+          "language": "pt",
+          "date": "31 March 2022",
+          "accessdate": "18 April 2022",
+          "template": "citation",
+          "type": "web"
+        }
       ]
     },
     {
@@ -1191,12 +1280,12 @@
               ]
             },
             "Party": {
-              "text": "DEM",
+              "text": "UNIÃO",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "UNIÃO",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Brazil Union"
                 }
               ]
             },
@@ -1252,7 +1341,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PP",
+              "links": [
+                {
+                  "text": "PP",
+                  "type": "internal",
+                  "page": "Progressistas"
+                }
+              ]
             },
             "Announced on": {
               "text": "16 September 2020"
@@ -1387,7 +1483,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PMB",
+              "links": [
+                {
+                  "text": "PMB",
+                  "type": "internal",
+                  "page": "Party of the Brazilian Women"
+                }
+              ]
             },
             "Announced on": {
               "text": "8 April 2019"
@@ -1418,6 +1521,31 @@
             },
             "Announced on": {
               "text": "10 July 2020"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Victor Godoy"
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "18 April 2022"
             },
             "Notes": {
               "text": ""
@@ -1456,6 +1584,18 @@
           "accessdate": "16 July 2020",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://educacao.uol.com.br/noticias/2022/04/18/ameaca-a-servidores-e-escola-de-guerra-quem-e-o-novo-ministro-da-educacao.htm",
+          "title": "Ameaça a servidores e Escola de Guerra: quem é o novo ministro da Educação?",
+          "website": "UOL Educação",
+          "language": "pt",
+          "first": "Ana Paula",
+          "last": "Bimbati",
+          "date": "18 April 2022",
+          "accessdate": "18 April 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1466,12 +1606,8 @@
         [
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "1",
+              "number": 1
             },
             "Incumbent": {
               "text": "Ministro_Marcos_Pontes_(cropped).jpg"
@@ -1486,17 +1622,42 @@
               ]
             },
             "Party": {
-              "text": "PSL",
+              "text": "PL",
               "links": [
                 {
-                  "text": "PSL",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Social Liberal Party (Brazil)"
+                  "page": "Liberal Party (Brazil, 2006)"
                 }
               ]
             },
             "Announced on": {
               "text": "30 October 2018"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": "Ministro Paulo Alvim.jpg"
+            },
+            "col3": {
+              "text": "Paulo Alvim"
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "31 March 2022"
             },
             "Notes": {
               "text": ""
@@ -1514,6 +1675,19 @@
           "archive-url": "https://web.archive.org/web/20181105062327/https://www.correiodopovo.com.br/Noticias/Pol%C3%ADtica/2018/10/665083/Marcos-Pontes-aceita-convite-de-Bolsonaro-para-ser-ministro-da-Ciencia",
           "archive-date": "5 November 2018",
           "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/ciencia/2022/03/paulo-alvim-assume-como-novo-ministro-da-ciencia-e-defende-orcamento-maior.shtml",
+          "title": "Paulo Alvim assume como novo ministro da Ciência e defende orçamento maior",
+          "website": "Folha de S. Paulo",
+          "language": "pt",
+          "first": "Samuel",
+          "last": "Fernandes",
+          "date": "31 March 2022",
+          "accessdate": "18 April 2022",
+          "url-access": "subscription",
           "template": "citation",
           "type": "web"
         }
@@ -1547,12 +1721,12 @@
               ]
             },
             "Party": {
-              "text": "PSD",
+              "text": "PP",
               "links": [
                 {
-                  "text": "PSD",
+                  "text": "PP",
                   "type": "internal",
-                  "page": "Social Democratic Party (Brazil, 2011)"
+                  "page": "Progressistas"
                 }
               ]
             },
@@ -1603,7 +1777,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "UNIÃO",
+              "links": [
+                {
+                  "text": "UNIÃO",
+                  "type": "internal",
+                  "page": "Brazil Union"
+                }
+              ]
             },
             "Announced on": {
               "text": "1 November 2018"
@@ -1661,7 +1842,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "UNIÃO",
+              "links": [
+                {
+                  "text": "UNIÃO",
+                  "type": "internal",
+                  "page": "Brazil Union"
+                }
+              ]
             },
             "Announced on": {
               "text": "29 March 2021"
@@ -1710,12 +1898,8 @@
         [
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "1",
+              "number": 1
             },
             "Incumbent": {
               "text": "Tarcísio Gomes de Freitas em 18 de julho de 2019.jpg"
@@ -1730,10 +1914,42 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "Republicanos",
+              "links": [
+                {
+                  "text": "Republicanos",
+                  "type": "internal",
+                  "page": "Republicans (Brazil)"
+                }
+              ]
             },
             "Announced on": {
               "text": "27 November 2018"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Marcelo Sampaio"
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "30 March 2022"
             },
             "Notes": {
               "text": ""
@@ -1750,6 +1966,18 @@
           "language": "pt-BR",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.cnnbrasil.com.br/business/marcelo-sampaio-assumira-ministerio-da-infraestutura-nesta-quinta-diz-tarcisio-a-cnn/",
+          "title": "Marcelo Sampaio assumirá Ministério da Infraestrutura nesta quinta, diz Tarcísio à CNN",
+          "website": "CNN Brasil",
+          "language": "pt",
+          "first": "Ligia",
+          "last": "Tuon",
+          "date": "30 March 2022",
+          "accessdate": "18 April 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1776,7 +2004,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PL",
+              "links": [
+                {
+                  "text": "PL",
+                  "type": "internal",
+                  "page": "Liberal Party (Brazil, 2006)"
+                }
+              ]
             },
             "Announced on": {
               "text": "9 December 2018"
@@ -1846,12 +2081,8 @@
         [
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "1",
+              "number": 1
             },
             "Incumbent": {
               "text": "Tereza Cristina em 18 de julho de 2019.jpg"
@@ -1866,17 +2097,49 @@
               ]
             },
             "Party": {
-              "text": "DEM",
+              "text": "PP",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PP",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Progressistas"
                 }
               ]
             },
             "Announced on": {
               "text": "7 November 2018"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": "Marcos Montes cropped.png"
+            },
+            "col3": {
+              "text": "Marcos Montes"
+            },
+            "Party": {
+              "text": "PSD",
+              "links": [
+                {
+                  "text": "PSD",
+                  "type": "internal",
+                  "page": "Social Democratic Party (Brazil, 2011)"
+                }
+              ]
+            },
+            "Announced on": {
+              "text": "30 March 2022"
             },
             "Notes": {
               "text": ""
@@ -1890,6 +2153,16 @@
           "title": "Bolsonaro escolhe deputada Tereza Cristina para chefiar Ministério da Agricultura",
           "publisher": "Politica.estadao.com.br",
           "accessdate": "2 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2022/03/30/ex-prefeito-de-uberaba-marcos-montes-sera-o-novo-ministro-da-agricultura.ghtml",
+          "title": "Ex-prefeito de Uberaba, Marcos Montes será o novo ministro da Agricultura",
+          "website": "G1",
+          "language": "pt",
+          "date": "30 March 2022",
+          "accessdate": "18 April 2022",
           "template": "citation",
           "type": "web"
         }
@@ -1946,18 +2219,14 @@
       ]
     },
     {
-      "title": "Minister of Human Rights, Family and Women",
+      "title": "Minister of Woman, Family and Human Rights",
       "depth": 1,
       "tables": [
         [
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "1",
+              "number": 1
             },
             "Incumbent": {
               "text": "Damares_Alves_em_fevereiro_de_2019_(2).jpg"
@@ -1972,10 +2241,42 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "Republicanos",
+              "links": [
+                {
+                  "text": "Republicanos",
+                  "type": "internal",
+                  "page": "Republicans (Brazil)"
+                }
+              ]
             },
             "Announced on": {
               "text": "30 November 2018"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Cristiane Britto"
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "28 March 2022"
             },
             "Notes": {
               "text": ""
@@ -1992,6 +2293,16 @@
           "language": "pt-BR",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.poder360.com.br/governo/damares-indica-cristiane-britto-para-substitui-la-no-ministerio/",
+          "title": "Damares indica Cristiane Britto para substituí-la no ministério",
+          "website": "Poder360",
+          "language": "pt",
+          "date": "29 March 2022",
+          "accessdate": "18 April 2022",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -2052,17 +2363,51 @@
               ]
             },
             "Party": {
-              "text": "DEM",
+              "text": "PL",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Liberal Party (Brazil, 2006)"
                 }
               ]
             },
             "Announced on": {
               "text": "12 February 2020"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "No.": {
+              "text": "3",
+              "number": 3
+            },
+            "Incumbent": {
+              "text": "João Roma 2.jpg"
+            },
+            "col3": {
+              "text": "João Roma",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "João Roma"
+                }
+              ]
+            },
+            "Party": {
+              "text": "PL",
+              "links": [
+                {
+                  "text": "PL",
+                  "type": "internal",
+                  "page": "Liberal Party (Brazil, 2006)"
+                }
+              ]
+            },
+            "Announced on": {
+              "text": "12 February 2021"
             },
             "Notes": {
               "text": ""
@@ -2078,29 +2423,22 @@
               }
             },
             "Incumbent": {
-              "text": "João Roma 2.jpg"
+              "text": "90px]]"
             },
             "col3": {
-              "text": "João Roma",
+              "text": "Ronaldo Vieira Bento",
               "links": [
                 {
                   "type": "internal",
-                  "page": "João Roma"
+                  "page": "Ronaldo Vieira Bento"
                 }
               ]
             },
             "Party": {
-              "text": "Republicans",
-              "links": [
-                {
-                  "text": "Republicans",
-                  "type": "internal",
-                  "page": "Republicans (Brazil)"
-                }
-              ]
+              "text": "–"
             },
             "Announced on": {
-              "text": "12 February 2021"
+              "text": "30 March 2022"
             },
             "Notes": {
               "text": ""
@@ -2125,6 +2463,15 @@
           "language": "pt",
           "date": "12 February 2020",
           "accessdate": "18 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://in.gov.br/web/dou/-/decretos-de-30-de-marco-de-2022-389780613",
+          "title": "DECRETOS DE 30 DE MARÇO DE 2022",
+          "language": "pt",
+          "date": "30 March 2022",
+          "accessdate": "16 April 2022",
           "template": "citation",
           "type": "web"
         },
@@ -2163,7 +2510,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PODE",
+              "links": [
+                {
+                  "text": "PODE",
+                  "type": "internal",
+                  "page": "Podemos (Brazil)"
+                }
+              ]
             },
             "Announced on": {
               "text": "26 November 2018"
@@ -2201,12 +2555,8 @@
           },
           {
             "No.": {
-              "text": "Incumbent",
-              "formatting": {
-                "italic": [
-                  "Incumbent"
-                ]
-              }
+              "text": "3",
+              "number": 3
             },
             "Incumbent": {
               "text": "Deputada-federal-flavia-arruda.jpg"
@@ -2236,6 +2586,31 @@
             "Notes": {
               "text": ""
             }
+          },
+          {
+            "No.": {
+              "text": "Incumbent",
+              "formatting": {
+                "italic": [
+                  "Incumbent"
+                ]
+              }
+            },
+            "Incumbent": {
+              "text": ""
+            },
+            "col3": {
+              "text": "Célio Faria Júnior"
+            },
+            "Party": {
+              "text": "–"
+            },
+            "Announced on": {
+              "text": "31 March 2022"
+            },
+            "Notes": {
+              "text": ""
+            }
           }
         ]
       ],
@@ -2259,6 +2634,20 @@
           "author-link": "Cristiana Lôbo",
           "date": "13 June 2019",
           "accessdate": "18 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://veja.abril.com.br/coluna/radar/quem-sao-os-ministros-de-bolsonaro-que-assumem-nesta-quinta/",
+          "title": "Quem são os ministros de Bolsonaro que assumem nesta quinta",
+          "website": "Veja",
+          "language": "pt",
+          "first1": "Gustavo",
+          "last1": "Maia",
+          "first2": "Laísa",
+          "last2": "Dall'Agnol",
+          "date": "31 March 2022",
+          "accessdate": "18 April 2022",
           "template": "citation",
           "type": "web"
         }
@@ -2376,12 +2765,12 @@
               ]
             },
             "Party": {
-              "text": "DEM",
+              "text": "PL",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Democrats (Brazil)"
+                  "page": "Liberal Party (Brazil, 2006)"
                 }
               ]
             },
@@ -2485,7 +2874,14 @@
               ]
             },
             "Party": {
-              "text": "–"
+              "text": "PP",
+              "links": [
+                {
+                  "text": "PP",
+                  "type": "internal",
+                  "page": "Progressistas"
+                }
+              ]
             },
             "Announced on": {
               "text": "1 June 2021"
