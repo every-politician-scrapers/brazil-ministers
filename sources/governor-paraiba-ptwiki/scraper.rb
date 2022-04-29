@@ -22,7 +22,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      (tds[0].text.tidy == 'Nº') || (tds.first.text == tds.last.text) || itemLabel.to_s.empty?
+      (tds[0].text.tidy == 'Nº') || (tds.first.text == tds.last.text) || itemLabel.to_s.empty? || tds.text.include?('Renunciou')
     end
   end
 end
