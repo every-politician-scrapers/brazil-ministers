@@ -20,8 +20,8 @@ class OfficeholderList < OfficeholderListBase
       %w[name dates].freeze
     end
 
-    def tds
-      noko.css('td,th')
+    def ignore_before
+      1999
     end
   end
 end
