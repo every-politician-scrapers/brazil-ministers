@@ -327,7 +327,14 @@
               "text": ""
             },
             "col3": {
-              "text": "José Carlos Oliveira"
+              "text": "José Carlos Oliveira",
+              "links": [
+                {
+                  "text": "José Carlos Oliveira",
+                  "type": "internal",
+                  "page": "José Carlos Oliveira (político)"
+                }
+              ]
             },
             "Partido": {
               "text": "—"
@@ -2654,6 +2661,48 @@
           },
           {
             "Cargo": {
+              "text": "Ministério de Minas e Energia",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministério de Minas e Energia"
+                }
+              ]
+            },
+            "Incumbente": {
+              "text": "125x125px",
+              "links": [
+                {
+                  "text": "semmoldura|125x125px",
+                  "type": "internal",
+                  "page": "Ficheiro:Adolfo Sachsida em 24 de julho de 2019 (3).jpg|semmoldura"
+                }
+              ]
+            },
+            "col3": {
+              "text": "Adolfo Sachsida",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Adolfo Sachsida"
+                }
+              ]
+            },
+            "Partido": {
+              "text": "—"
+            },
+            "Anunciado no dia": {
+              "text": "11 de maio de 2022"
+            },
+            "Posse no dia": {
+              "text": ""
+            },
+            "Ref": {
+              "text": ""
+            }
+          },
+          {
+            "Cargo": {
               "text": "Ministério da Mulher, da Família e dos Direitos Humanos",
               "links": [
                 {
@@ -2871,6 +2920,12 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
