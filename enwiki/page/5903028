@@ -71,12 +71,12 @@
               ]
             },
             "Partido": {
-              "text": "DEM",
+              "text": "PL",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Democratas (Brasil)"
+                  "page": "Partido Liberal (2006)"
                 }
               ]
             },
@@ -293,12 +293,12 @@
               ]
             },
             "Partido": {
-              "text": "DEM",
+              "text": "PL",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PL",
                   "type": "internal",
-                  "page": "Democratas (Brasil)"
+                  "page": "Partido Liberal (2006)"
                 }
               ]
             },
@@ -652,12 +652,12 @@
               ]
             },
             "Partido": {
-              "text": "DEM",
+              "text": "PP",
               "links": [
                 {
-                  "text": "DEM",
+                  "text": "PP",
                   "type": "internal",
-                  "page": "Democratas (Brasil)"
+                  "page": "Progressistas"
                 }
               ]
             },
