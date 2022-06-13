@@ -1896,7 +1896,14 @@
               ]
             },
             "Incumbente": {
-              "text": ""
+              "text": "100px",
+              "links": [
+                {
+                  "text": "100px",
+                  "type": "internal",
+                  "page": "Ficheiro:Victor Godoy em 12-04-2022.jpg"
+                }
+              ]
             },
             "col3": {
               "text": "Victor Godoy Veiga",
@@ -2761,7 +2768,14 @@
               ]
             },
             "Incumbente": {
-              "text": ""
+              "text": "100px",
+              "links": [
+                {
+                  "text": "100px",
+                  "type": "internal",
+                  "page": "Ficheiro:Cristiane Britto (cropped).png"
+                }
+              ]
             },
             "col3": {
               "text": "Cristiane Britto",
