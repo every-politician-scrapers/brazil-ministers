@@ -1,14 +1,13 @@
-@@,itemlabel,item,startdate,enddate
-->,Gilmar Mendes->Gilmar Ferreira Mendes,Q2362405,2000-01,2002-06
-+++,Walter do Carmo Barletta,,2000-01,
-+++,José Bonifácio Borges de Andrada,,2002-06,2002-12
-+++,Álvaro Augusto Ribeiro Costa,,2003-01,2007-03
-->,Dias Toffoli->José Antônio Dias Toffoli,Q10266077,2007-03,2009-10
-->,Luís Inácio Adams->Luis Inácio Lucena Adams,Q3624445,2009-10-23->2009-10,2016-03-03->2016-03
-->,Grace Mendonça->Grace Maria Mendonça,Q26884925,2016-09,2019-01
-+++,André Luiz de Almeida Mendonça,Q60396070,2019-01,2020-04
----,André Mendonça,Q60396070,2019-01-01,2020-04-28
-->,José Levi Mello do Amaral Júnior,Q28920415,2020-04-29->2020-04,2021-03-29->2021-03
-+++,André Luiz de Almeida Mendonça,Q60396070,2021-03,2021-08
----,André Mendonça,Q60396070,2021-03-29,2021-08-06
-->,Bruno Bianco->Bruno Bianco Leal,Q107972708,2021-08-06->2021-08,
+@@,item,itemlabel,startdate,enddate
+->,Q2362405,Gilmar Mendes->Gilmar Ferreira Mendes,2000-01,2002-06
++++,,Walter do Carmo Barletta,2000-01,
++++,,José Bonifácio Borges de Andrada,2002-06,2002-12
++++,,Álvaro Augusto Ribeiro Costa,2003-01,2007-03
+->,Q10266077,Dias Toffoli->José Antônio Dias Toffoli,2007-03,2009-10
+->,Q3624445,Luís Inácio Adams->Luis Inácio Lucena Adams,2009-10-23,2016-03-03
+->,Q26884925,Grace Mendonça->Grace Maria Mendonça,2016-09,2019-01
++++,Q60396070,André Luiz de Almeida Mendonça,2019-01,2020-04
+---,Q60396070,André Mendonça,2019-01-01,2020-04-28
++++,Q60396070,André Luiz de Almeida Mendonça,2021-03,2021-08
+---,Q60396070,André Mendonça,2021-03-29,2021-08-06
+->,Q107972708,Bruno Bianco->Bruno Bianco Leal,2021-08-06,
