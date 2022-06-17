@@ -1,6 +1,2 @@
-@@,itemlabel,item,startdate,enddate
-->,Jorge Teixeira de Oliveira->Jorge Teixeira,Q10308250,1982-01-04,1985-05-10
-->,Ângelo Angelim->Ângelo Angelin,Q10396131,1985-05-10,1987-03-15
-->,Jerônimo Garcia de Santana->Jerônimo Santana,Q10306773,1987-03-15,1991-03-15
-->,Osvaldo Piana Filho->Osvaldo Piana,Q10342360,1991-03-15,1995-01-01
-->,João Aparecido Cahulla->João Cahulla,Q10311084,2010-03-31,2011-01-01
+@@,item,itemlabel,startdate,enddate
+->,Q10311084,João Aparecido Cahulla->João Cahulla,2010-03-31,2011-01-01
