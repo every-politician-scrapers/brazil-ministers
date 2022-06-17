@@ -1,8 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,José Bernardo Cabral->Bernardo Cabral,Q10308983,1990-03-15,1990-10-13
-->,Maurício José Corrêa->Maurício Corrêa,Q1395579,1992-10-05->1992-10-02,1994-03-30->1994-04-05
-->,Alexandre de Paula Dupeyrat Martins->Alexandre Dupeyrat,Q16488184,1994-04-05,1995-01-01
-->,Eugénio Aragão->Eugênio Aragão,Q23893552,2016-03-14,2016-05-12
-->,José Levi Mello do Amaral Júnior->José Levi,Q28920415,2017-02-07,2017-03-07
-->,Osmar Serraglio,Q10342261,2017-03-07,2017-05-28->2017-05-31
-->,Anderson Torres,Q106290142,2020-03-30->2021-03-30,
+@@,item,itemlabel,startdate,enddate
+->,Q28920415,José Levi Mello do Amaral Júnior->José Levi,2017-02-07,2017-03-07
+->,Q10342261,Osmar Serraglio,2017-03-07,2017-05-28->2017-05-31
+->,Q106290142,Anderson Torres,2020-03-30->2021-03-30,

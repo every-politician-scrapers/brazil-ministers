@@ -1,6 +1,5 @@
-@@,itemlabel,item,startdate,enddate
-->,Alceni Ângelo Guerra->Alceni Guerra,Q16336274,1990-03-15,1992-01-23
-->,Gilberto Occhi,Q16337518,2018-04-02,2019-01-01->2018-12-31
-->,Nelson Luiz Sperle Teich->Nelson Teich,Q90844310,2020-04-17,2020-05-15
-->,Eduardo Pazuello,Q94787924,2020-06-02,2020-09-16->2021-03-23
----,Eduardo Pazuello,Q94787924,2020-09-16,2021-03-23
+@@,item,itemlabel,startdate,enddate
+->,Q16337518,Gilberto Occhi,2018-04-02,2019-01-01->2018-12-31
+->,Q90844310,Nelson Luiz Sperle Teich->Nelson Teich,2020-04-17,2020-05-15
+->,Q94787924,Eduardo Pazuello,2020-06-02,2020-09-16->2021-03-23
+---,Q94787924,Eduardo Pazuello,2020-09-16,2021-03-23
