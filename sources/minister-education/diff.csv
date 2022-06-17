@@ -1,7 +1,4 @@
-@@,itemlabel,item,startdate,enddate
----,Clemente Mariani,Q9774968,,
-->,Eraldo Tinoco Melo->Eraldo Tinoco,Q10273514,1992-08-04,1992-10-01
-->,José Mendonça Bezerra Filho->Mendonça Filho,Q9031519,2016-05-12,2018-04-06
-->,Abraham Weintraub,Q63039824,2019-04-09,2020-06-20->2020-06-19
-->,Hugo Napoleão do Rego Neto,Q10298780,NULL->1987-11-03,NULL->1989-01-16
-->,Cid Gomes,Q5119489,NULL->2015-01-01,NULL->2015-03-18
+@@,item,itemlabel,startdate,enddate
++++,Q5119489,Cid Gomes,2015-01-01,2015-03-18
+->,Q9031519,José Mendonça Bezerra Filho->Mendonça Filho,2016-05-12,2018-04-06
+->,Q63039824,Abraham Weintraub,2019-04-09,2020-06-20->2020-06-19

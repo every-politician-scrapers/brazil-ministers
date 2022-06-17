@@ -23,7 +23,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      itemLabel == 'vago'
+      (itemLabel == 'vago') || too_early?
     end
   end
 end
