@@ -21,7 +21,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      itemLabel.to_s.empty? || (tds[0].text == tds[1].text)
+      itemLabel.to_s.empty? || (tds[0].text == tds[1].text) || too_early?
     end
 
     def raw_start
@@ -30,10 +30,6 @@ class OfficeholderList < OfficeholderListBase
 
     def raw_end
       super.gsub('1.º', '1').gsub('Em exercício', '').tidy
-    end
-
-    def tds
-      noko.css('td,th')
     end
   end
 end
