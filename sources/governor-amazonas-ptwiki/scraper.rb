@@ -21,7 +21,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      itemLabel.to_s.empty? || (tds[0].text == tds[1].text)
+      itemLabel.to_s.empty? || (tds[0].text == tds[1].text) || too_early?
     end
   end
 end

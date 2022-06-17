@@ -1,30 +1,3 @@
-@@,itemlabel,item,startdate,enddate
-+++,Junta Governativa Amazonense de 1889,Q10313006,1889-11-21,1890-01-04
-->,"Guilherme José Moreira, barão do Juruá->Guilherme José Moreira",Q10292793,1891-05-05,1891-05-25
-->,"Guilherme José Moreira, barão do Juruá->Guilherme José Moreira",Q10292793,1891-06-30,1891-09-01
-->,Gregório Taumaturgo de Azevedo->Gregório Taumaturgo Azevedo,Q10291528,1891-09-01,1892-02-27
-->,Silvério José Néri->Silvério José Nery,Q10371609,1900-07-23,1904-07-23
-->,Antônio Constantino Néri->Antônio Constantino Nery,Q9621407,1904-07-23,1908-07-23
-->,Antônio Clemente Ribeiro Bittencourt,Q16491387,1908-07-23,1912-12-22->1913-01-01
-->,Jónatas Pedrosa->Jônatas de Freitas Pedrosa,Q10313343,1913-01-01,1917-01-01
-->,Pedro Bacelar->Pedro de Alcântara Bacellar,Q10347330,1917-01-01,1921-01-01
-->,Ifigênio Sales->Ifigênio Ferreira de Sales,Q10299859,1926-01-01,1930-01-01
-+++,Junta Governativa Amazonense de 1930,Q10313009,1930-10-24,1930-11-01
-+++,Floriano da Silva Machado,,1930-11-01,1930-11-20
-->,Álvaro Botelho Maia->Álvaro Maia,Q10395761,1930-11-20,1933-10-10
-->,Álvaro Botelho Maia->Álvaro Maia,Q10395761,1935-02-19,1945-11-07
-+++,Júlio José da Silva Nery,,1946-02-16,1946-05-18
-+++,Raimundo Nicolau da Silva,,1946-05-18,1946-08-31
-+++,João Nogueira da Mata,,1946-08-31,1946-09-13
-->,Siseno Ramos Sarmento->Siseno Sarmento,Q54558462,1946-09-13,1947-03-01
-+++,João Nogueira da Mata,,1947-03-01,1947-05-08
-->,Leopoldo da Silva Amorim Neves->Leopoldo Neves,Q10317465,1947-05-08,1951-01-31
-->,Álvaro Botelho Maia->Álvaro Maia,Q10395761,1951-01-31,1955-03-25
-->,Plínio Ramos Coelho->Plínio Coelho,Q10350607,1955-03-25,1959-03-25
-->,Plínio Ramos Coelho->Plínio Coelho,Q10350607,1963-03-25,1964-06-29
-->,Danilo Duarte de Matos Areosa->Danilo Areosa,Q10264068,1967-01-31,1971-03-15
-->,Enoque da Silva Reis->Enoque Reis,Q10273006,1975-03-15,1979-03-15
-->,José Bernardino Lindoso->José Lindoso,Q10308980,1979-03-15,1982-05-15
-->,Paulo Pinto Nery->Paulo Nery,Q10346746,1982-05-15,1983-03-15
-->,José Melo de Oliveira->José Melo,Q10310117,2014-04-04,2015-01-01
-->,José Melo de Oliveira->José Melo,Q10310117,2015-01-01,2017-05-09
+@@,item,itemlabel,startdate,enddate
+->,Q10310117,José Melo de Oliveira->José Melo,2014-04-04,2015-01-01
+->,Q10310117,José Melo de Oliveira->José Melo,2015-01-01,2017-05-09
