@@ -1,49 +1,58 @@
 position,title
 Q18964326,Senator
 Q20058725,Federal deputy
-Q59401931,federal deputy of Acre
-Q59401932,federal deputy of Alagoas
-Q59401934,federal deputy of Amapá
-Q59401935,federal deputy of Amazonas
-Q59401936,federal deputy of Bahia
-Q59401938,federal deputy of Ceará
-Q59401940,federal deputy of Espírito Santo
-Q59401942,federal deputy of Goiás
-Q59401943,federal deputy of Maranhão
-Q59401944,federal deputy of Mato Grosso
-Q59401946,federal deputy of Mato Grosso do Sul
-Q59401947,federal deputy of Minas Gerais
-Q59401951,federal deputy of Paraná
-Q59401949,federal deputy of Paraíba
-Q59401948,federal deputy of Pará
-Q59401952,federal deputy of Pernambuco
-Q59401953,federal deputy of Piauí
-Q59401955,federal deputy of Rio Grande do Norte
-Q59401956,federal deputy of Rio Grande do Sul
-Q59401928,federal deputy of Rio de Janeiro
-Q59401957,federal deputy of Rondônia
-Q59401958,federal deputy of Roraima
-Q59401960,federal deputy of Santa Catarina
-Q59401962,federal deputy of Sergipe
-Q59401961,federal deputy of São Paulo
-Q59401963,federal deputy of Tocantins
-Q59401939,federal deputy of the Distrito Federal
+Q59401931,federal deputy representing Acre
+Q59401932,federal deputy representing Alagoas
+Q59401934,federal deputy representing Amapá
+Q59401935,federal deputy representing Amazonas
+Q59401936,federal deputy representing Bahia
+Q59401938,federal deputy representing Ceará
+Q59401940,federal deputy representing Espírito Santo
+Q59401942,federal deputy representing Goiás
+Q59401943,federal deputy representing Maranhão
+Q59401944,federal deputy representing Mato Grosso
+Q59401946,federal deputy representing Mato Grosso do Sul
+Q59401947,federal deputy representing Minas Gerais
+Q59401951,federal deputy representing Paraná
+Q59401949,federal deputy representing Paraíba
+Q59401948,federal deputy representing Pará
+Q59401952,federal deputy representing Pernambuco
+Q59401953,federal deputy representing Piauí
+Q59401955,federal deputy representing Rio Grande do Norte
+Q59401956,federal deputy representing Rio Grande do Sul
+Q59401928,federal deputy representing Rio de Janeiro
+Q59401957,federal deputy representing Rondônia
+Q59401958,federal deputy representing Roraima
+Q59401960,federal deputy representing Santa Catarina
+Q59401962,federal deputy representing Sergipe
+Q59401961,federal deputy representing São Paulo
+Q59401963,federal deputy representing Tocantins
+Q59401939,federal deputy representing the Distrito Federal
+Q59384505,federal senator representing Acre
+Q59384507,federal senator representing Alagoas
+Q59384508,federal senator representing Amapá
+Q59384510,federal senator representing Bahia
+Q59384512,federal senator representing Ceará
+Q59384522,federal senator representing Paraná
+Q59384525,federal senator representing Piauí
+Q59384526,federal senator representing Rio de Janeiro
+Q59384533,federal senator representing São Paulo
+Q53864947,state deputy of Acre
 Q53864939,state deputy of Alagoas
 Q53864948,state deputy of Amapá
 Q53864935,state deputy of Amazonas
 Q53864926,state deputy of Bahia
 Q53864930,state deputy of Ceará
+Q53864937,state deputy of Espírito Santo
 Q53864933,state deputy of Maranhão
 Q53864943,state deputy of Mato Grosso do Sul
 Q53864924,state deputy of Minas Gerais
+Q53864936,state deputy of Paraíba
 Q53864929,state deputy of Pernambuco
+Q53864941,state deputy of Piauí
 Q53864927,state deputy of Rio Grande do Sul
 Q53864925,state deputy of Rio de Janeiro
+Q53864949,state deputy of Roraima
 Q53864932,state deputy of Santa Catarina
 Q53864923,state deputy of São Paulo
 Q10265290,state deputy
-Q59384507,Alagoas senator
-Q59384508,Amapá senator
-Q59384510,Bahia senator
-Q59384512,Ceará senator
-Q59384533,São Paulo senator
