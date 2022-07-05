@@ -4953,10 +4953,33 @@
               "text": "Pedro Guimarães"
             },
             "Partido": {
-              "text": "–"
+              "text": ""
             },
             "Anunciado no dia": {
               "text": "22 de novembro de 2018"
+            },
+            "Ref": {
+              "text": ""
+            }
+          },
+          {
+            "Cargo": {
+              "text": "Caixa Econômica Federal",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Caixa Econômica Federal"
+                }
+              ]
+            },
+            "Nome": {
+              "text": "Daniella Marques"
+            },
+            "Partido": {
+              "text": "–"
+            },
+            "Anunciado no dia": {
+              "text": "29 de junho de 2022"
             },
             "Ref": {
               "text": ""
@@ -7594,9 +7617,15 @@
           "inline": {}
         },
         {
-          "title": "Jornal Nacional {{!}} Ricardo Liáo toma posse na Unidade de Inteligência Financeira, ex-Coaf {{!}} Globoplay",
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "título": "Jornal Nacional {{!}} Ricardo Liáo toma posse na Unidade de Inteligência Financeira, ex-Coaf {{!}} Globoplay",
           "url": "https://globoplay.globo.com/v/7864389/",
-          "accessdate": "2021-03-05",
+          "acessodata": "2021-03-05",
           "language": "pt-br",
           "template": "citation",
           "type": "citation"

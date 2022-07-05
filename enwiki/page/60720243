@@ -710,7 +710,47 @@
       "tables": [
         [
           {
-            "No.": {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Incumbent"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Party"
+            },
+            "col5": {
+              "text": "Announced on"
+            },
+            "col6": {
+              "text": "Notes"
+            }
+          },
+          {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Portrait"
+            },
+            "col3": {
+              "text": "Name"
+            },
+            "col4": {
+              "text": "Party"
+            },
+            "col5": {
+              "text": "Announced on"
+            },
+            "col6": {
+              "text": "Notes"
+            }
+          },
+          {
+            "col1": {
               "text": "Incumbent",
               "formatting": {
                 "italic": [
@@ -718,7 +758,7 @@
                 ]
               }
             },
-            "Incumbent": {
+            "col2": {
               "text": "Hamilton Mourão, vice-presidente do Brasil (cropped).jpg"
             },
             "col3": {
@@ -730,7 +770,7 @@
                 }
               ]
             },
-            "Party": {
+            "col4": {
               "text": "Republicanos",
               "links": [
                 {
@@ -740,10 +780,10 @@
                 }
               ]
             },
-            "Announced on": {
+            "col5": {
               "text": "5 August 2018"
             },
-            "Notes": {
+            "col6": {
               "text": ""
             }
           }
@@ -766,14 +806,14 @@
       "tables": [
         [
           {
-            "No.": {
+            "no.": {
               "text": "1",
               "number": 1
             },
-            "Incumbent": {
+            "portrait": {
               "text": "Onyx Lorenzoni em 18 de julho de 2019.jpg"
             },
-            "col3": {
+            "name": {
               "text": "Onyx Lorenzoni",
               "links": [
                 {
@@ -782,7 +822,7 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "PL",
               "links": [
                 {
@@ -792,22 +832,22 @@
                 }
               ]
             },
-            "Announced on": {
+            "announced on": {
               "text": "11 October 2018"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           },
           {
-            "No.": {
+            "no.": {
               "text": "2",
               "number": 2
             },
-            "Incumbent": {
+            "portrait": {
               "text": "Foto Oficial do Sr Ministro da Defesa Walter Braga Netto.jpg"
             },
-            "col3": {
+            "name": {
               "text": "Walter Souza Braga Netto",
               "links": [
                 {
@@ -816,7 +856,7 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "PL",
               "links": [
                 {
@@ -826,22 +866,22 @@
                 }
               ]
             },
-            "Announced on": {
+            "announced on": {
               "text": "12 February 2020"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           },
           {
-            "No.": {
+            "no.": {
               "text": "3",
               "number": 3
             },
-            "Incumbent": {
+            "portrait": {
               "text": "Luiz Eduardo Ramos em 4 de julho de 2019 (2; recorte).jpg"
             },
-            "col3": {
+            "name": {
               "text": "Luiz Eduardo Ramos",
               "links": [
                 {
@@ -850,18 +890,18 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "–"
             },
-            "Announced on": {
+            "announced on": {
               "text": "29 March 2021"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           },
           {
-            "No.": {
+            "no.": {
               "text": "Incumbent",
               "formatting": {
                 "italic": [
@@ -869,10 +909,10 @@
                 ]
               }
             },
-            "Incumbent": {
+            "portrait": {
               "text": "Senador Ciro Nogueira foto oficial 2.jpg"
             },
-            "col3": {
+            "name": {
               "text": "Ciro Nogueira",
               "links": [
                 {
@@ -881,7 +921,7 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "PP",
               "links": [
                 {
@@ -891,10 +931,10 @@
                 }
               ]
             },
-            "Announced on": {
+            "announced on": {
               "text": "26 July 2021"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           }
@@ -944,14 +984,14 @@
       "tables": [
         [
           {
-            "No.": {
+            "no.": {
               "text": "1",
               "number": 1
             },
-            "Incumbent": {
+            "portrait": {
               "text": "Fernando Azevedo e Silva em abril de 2019 (1; recorte).jpg"
             },
-            "col3": {
+            "name": {
               "text": "Fernando Azevedo e Silva",
               "links": [
                 {
@@ -960,25 +1000,25 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "–"
             },
-            "Announced on": {
+            "announced on": {
               "text": "13 November 2018"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           },
           {
-            "No.": {
+            "no.": {
               "text": "2",
               "number": 2
             },
-            "Incumbent": {
+            "portrait": {
               "text": "Foto Oficial do Sr Ministro da Defesa Walter Braga Netto.jpg"
             },
-            "col3": {
+            "name": {
               "text": "Walter Souza Braga Netto",
               "links": [
                 {
@@ -987,7 +1027,7 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "PL",
               "links": [
                 {
@@ -997,15 +1037,15 @@
                 }
               ]
             },
-            "Announced on": {
+            "announced on": {
               "text": "29 March 2021"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           },
           {
-            "No.": {
+            "no.": {
               "text": "Incumbent",
               "formatting": {
                 "italic": [
@@ -1013,10 +1053,10 @@
                 ]
               }
             },
-            "Incumbent": {
+            "portrait": {
               "text": "90px]]"
             },
-            "col3": {
+            "name": {
               "text": "Paulo Sérgio Nogueira de Oliveira",
               "links": [
                 {
@@ -1025,13 +1065,13 @@
                 }
               ]
             },
-            "Party": {
+            "party": {
               "text": "–"
             },
-            "Announced on": {
+            "announced on": {
               "text": "31 March 2022"
             },
-            "Notes": {
+            "notes": {
               "text": ""
             }
           }
@@ -1069,11 +1109,51 @@
       "tables": [
         [
           {
-            "No.": {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Incumbent"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Party"
+            },
+            "col5": {
+              "text": "Announced on"
+            },
+            "col6": {
+              "text": "Notes"
+            }
+          },
+          {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Portrait"
+            },
+            "col3": {
+              "text": "Name"
+            },
+            "col4": {
+              "text": "Party"
+            },
+            "col5": {
+              "text": "Announced on"
+            },
+            "col6": {
+              "text": "Notes"
+            }
+          },
+          {
+            "col1": {
               "text": "1",
               "number": 1
             },
-            "Incumbent": {
+            "col2": {
               "text": "Ernesto Araújo em 3 de julho de 2019.jpg"
             },
             "col3": {
@@ -1085,18 +1165,18 @@
                 }
               ]
             },
-            "Party": {
+            "col4": {
               "text": "–"
             },
-            "Announced on": {
+            "col5": {
               "text": "14 November 2018"
             },
-            "Notes": {
+            "col6": {
               "text": ""
             }
           },
           {
-            "No.": {
+            "col1": {
               "text": "Incumbent",
               "formatting": {
                 "italic": [
@@ -1104,7 +1184,7 @@
                 ]
               }
             },
-            "Incumbent": {
+            "col2": {
               "text": "Minister Carlos Alberto França.jpg"
             },
             "col3": {
@@ -1116,13 +1196,13 @@
                 }
               ]
             },
-            "Party": {
+            "col4": {
               "text": "–"
             },
-            "Announced on": {
+            "col5": {
               "text": "29 March 2021"
             },
-            "Notes": {
+            "col6": {
               "text": ""
             }
           }
@@ -1145,7 +1225,47 @@
       "tables": [
         [
           {
-            "No.": {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Incumbent"
+            },
+            "col3": {
+              "text": ""
+            },
+            "col4": {
+              "text": "Party"
+            },
+            "col5": {
+              "text": "Announced on"
+            },
+            "col6": {
+              "text": "Notes"
+            }
+          },
+          {
+            "col1": {
+              "text": "No."
+            },
+            "col2": {
+              "text": "Portrait"
+            },
+            "col3": {
+              "text": "Name"
+            },
+            "col4": {
+              "text": "Party"
+            },
+            "col5": {
+              "text": "Announced on"
+            },
+            "col6": {
+              "text": "Notes"
+            }
+          },
+          {
+            "col1": {
               "text": "Incumbent",
               "formatting": {
                 "italic": [
@@ -1153,7 +1273,7 @@
                 ]
               }
             },
-            "Incumbent": {
+            "col2": {
               "text": "Jair Bolsonaro e Paulo Guedes em solenidade (cropped 2).jpg"
             },
             "col3": {
@@ -1165,13 +1285,13 @@
                 }
               ]
             },
-            "Party": {
+            "col4": {
               "text": "–"
             },
-            "Announced on": {
+            "col5": {
               "text": "11 October 2018"
             },
-            "Notes": {
+            "col6": {
               "text": ""
             }
           }
