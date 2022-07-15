@@ -1,0 +1,18 @@
+{
+    "jurisdiction": {
+      "name": "Brazil",
+      "id": "Q155"
+    },
+    "cabinet": {
+      "id": "Q100711810",
+      "start": "2019-01-01",
+      "parent": "Q5015503"
+    },
+    "current_only": "true",
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Bolsonaro_administration_cabinet_members"
+    },
+    "person_description": {
+        "en": "Brazilian politician"
+    }
+}
