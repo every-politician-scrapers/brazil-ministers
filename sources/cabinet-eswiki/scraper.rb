@@ -1,71 +1,57 @@
 #!/bin/env ruby
 # frozen_string_literal: true
 
-require 'csv'
+require 'every_politician_scraper/scraper_data'
 require 'pry'
-require 'scraped'
-require 'table_unspanner'
-require 'wikidata_ids_decorator'
 
-class RemoveReferences < Scraped::Response::Decorator
-  def body
-    Nokogiri::HTML(super).tap do |doc|
-      doc.css('sup.reference').remove
-    end.to_s
-  end
-end
+class MemberList
+  class Members
+    decorator RemoveReferences
+    decorator UnspanAllTables
+    decorator WikidataIdsDecorator::Links
 
-class UnspanAllTables < Scraped::Response::Decorator
-  def body
-    Nokogiri::HTML(super).tap do |doc|
-      doc.css('table.wikitable').each do |table|
-        unspanned_table = TableUnspanner::UnspannedTable.new(table)
-        table.children = unspanned_table.nokogiri_node.children
-      end
-    end.to_s
-  end
-end
-
-class MinistersList < Scraped::HTML
-  decorator RemoveReferences
-  decorator UnspanAllTables
-  decorator WikidataIdsDecorator::Links
-
-  field :ministers do
-    member_entries.map { |ul| fragment(ul => Officeholder).to_h }
+    def member_container
+      noko.xpath('//table[.//th[contains(.,"Incumbent")]][last()]//tr[td]')
+    end
   end
 
-  private
+  class Member
+    field :id do
+      tds[2].css('a/@wikidata').first
+    end
 
-  def member_entries
-    noko.xpath('//table[.//th[contains(.,"Incumbent")]][last()]//tr[td]')
-  end
-end
+    field :name do
+      tds[2].text.tidy
+    end
 
-class Officeholder < Scraped::HTML
-  field :item do
-    tds[2].css('a/@wikidata').first
-  end
+    field :positionID do
+    end
 
-  field :name do
-    tds[2].text.tidy
-  end
+    field :position do
+      tds[0].text.tidy
+    end
 
-  field :ministryLabel do
-    tds[0].text.tidy
-  end
+    field :startDate do
+    end
 
-  private
+    field :endDate do
+    end
 
-  def tds
-    noko.css('th,td')
+    private
+
+    def tds
+      noko.css('td,th')
+    end
+
+    def name_node
+      tds[1]
+    end
+
+    def raw_start
+      tds[2].text.split('-').first
+    end
   end
 end
 
 url = ARGV.first
-data = MinistersList.new(response: Scraped::Request.new(url: url).response).ministers
-
-header = data.first.keys.to_csv
-rows = data.map { |row| row.values.to_csv }
-abort 'No results' if rows.count.zero?
-puts header + rows.join
+puts EveryPoliticianScraper::ScraperData.new(url).csv

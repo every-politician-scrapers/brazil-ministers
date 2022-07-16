@@ -8,5 +8,12 @@
       "start": "2019-01-01",
       "parent": "Q5015503"
     },
-    "source": "https://pt.wikipedia.org/wiki/Lista_de_membros_do_gabinete_de_Jair_Bolsonaro"
+    "lang": "pt",
+    "current_only": "true",
+    "reference": {
+        "P4656": "https://pt.wikipedia.org/wiki/Lista_de_membros_do_gabinete_de_Jair_Bolsonaro"
+    },
+    "person_description": {
+        "en": "Brazilian politician"
+    }
 }
