@@ -1,66 +1,66 @@
-item,name,ministryLabel
-Q10341050,Onyx Lorenzoni,Casa Civil
-Q49323012,Walter Souza Braga Netto,Casa Civil
-Q64682549,Luiz Eduardo Ramos,Casa Civil
-Q15985219,Ciro Nogueira,Casa Civil
-Q56347746,Paulo Guedes,Ministério da Economia
-Q10341050,Onyx Lorenzoni,Ministério do Trabalho e Previdência Social
-Q111446648,José Carlos Oliveira,Ministério do Trabalho e Previdência Social
-Q317643,Marcos Pontes,"Ministério da Ciência, Tecnologia e Inovações"
-Q111444580,Paulo Alvim,"Ministério da Ciência, Tecnologia e Inovações"
-Q10279146,Fábio Faria,Ministério das Comunicações
-Q19607958,Sergio Moro,Ministério da Justiça e Segurança Pública
-Q60396070,André Mendonça,Ministério da Justiça e Segurança Pública
-Q106290142,Anderson Gustavo Torres,Ministério da Justiça e Segurança Pública
-Q10380562,Tereza Cristina,"Ministério da Agricultura, Pecuária e Abastecimento"
-Q10325465,Marcos Montes Cordeiro,"Ministério da Agricultura, Pecuária e Abastecimento"
-Q9637698,Augusto Heleno,Gabinete de Segurança Institucional
-Q58586921,FernandoAzevedo e Silva,Ministério da Defesa
-Q49323012,Walter Braga Netto,Ministério da Defesa
-Q106307801,Paulo Sérgio Nogueira de Oliveira,Ministério da Defesa
-Q58642905,Ernesto Araújo,Ministério das Relações Exteriores
-Q106271551,Carlos Alberto Franco França,Ministério das Relações Exteriores
-Q58812288,Roberto Campos Neto,Banco Central do Brasil
-Q30936068,Wagner Rosário,Controladoria-Geral da União
-Q18472576,Luiz HenriqueMandetta,Ministério da Saúde
-Q90844310,Nelson Teich,Ministério da Saúde
-Q94787924,Eduardo Pazuello,Ministério da Saúde
-Q105969706,Marcelo Queiroga,Ministério da Saúde
-Q60396070,André Mendonça,Advocacia-Geral da União
-Q28920415,José Levi Mello,Advocacia-Geral da União
-Q60396070,André Mendonça,Advocacia-Geral da União
-Q107972708,Bruno Bianco,Advocacia-Geral da União
-Q59137777,Gustavo Bebianno,Secretaria-Geral da Presidência da República
-Q5461061,Floriano Peixoto Vieira Neto,Secretaria-Geral da Presidência da República
-Q64760330,Jorge Oliveira,Secretaria-Geral da Presidência da República
-,Pedro Cesar Sousa (interino),Secretaria-Geral da Presidência da República
-Q10341050,Onyx Lorenzoni,Secretaria-Geral da Presidência da República
-Q64682549,Luiz Eduardo Ramos,Secretaria-Geral da Presidência da República
-Q59123716,Ricardo Vélez Rodríguez,Ministério da Educação
-Q63039824,Abraham Weintraub,Ministério da Educação
-Q96643922,Carlos Decotelli,Ministério da Educação
-Q96474860,Antonio Paulo Vogel(interino),Ministério da Educação
-Q97161166,Milton Ribeiro,Ministério da Educação
-Q111433242,Victor Godoy Veiga,Ministério da Educação
-Q13416899,Carlos Alberto dos Santos Cruz,Secretaria de Governo
-Q64682549,Luiz Eduardo Ramos,Secretaria de Governo
-Q60961728,Flávia Arruda,Secretaria de Governo
-,Célio Faria Júnior,Secretaria de Governo
-Q60392579,Tarcísio Gomes de Freitas,Ministério da Infraestrutura
-Q111446664,Marcelo Sampaio,Ministério da Infraestrutura
-Q60395001,Gustavo Canuto,Ministério do Desenvolvimento Regional
-Q10364098,Rogério Marinho,Ministério do Desenvolvimento Regional
-Q111446676,Daniel de Oliveira Duarte Ferreira,Ministério do Desenvolvimento Regional
-Q10342262,Osmar Terra,Ministério da Cidadania
-Q10341050,Onyx Lorenzoni,Ministério da Cidadania
-Q59204311,João Roma,Ministério da Cidadania
-Q111446919,Ronaldo Vieira Bento,Ministério da Cidadania
-Q48868228,Marcelo Álvaro Antônio,Ministério do Turismo
-Q104605629,Gilson Machado Neto,Ministério do Turismo
-,Carlos Alberto Gomes de Brito,Ministério do Turismo
-Q59308525,Bento Albuquerque,Ministério de Minas e Energia
-Q65936522,Adolfo Sachsida,Ministério de Minas e Energia
-Q59577903,Damares Alves,"Ministério da Mulher, da Família e dos Direitos Humanos"
-Q111446662,Cristiane Britto,"Ministério da Mulher, da Família e dos Direitos Humanos"
-Q15123609,Ricardo de Aquino Salles,Ministério do Meio Ambiente
-Q107348193,Joaquim Alvaro Pereira Leite,Ministério do Meio Ambiente
+name,id,positionID,startDate,endDate,position
+Onyx Lorenzoni,Q10341050,,,,Casa Civil
+Walter Souza Braga Netto,Q49323012,,,,Casa Civil
+Luiz Eduardo Ramos,Q64682549,,,,Casa Civil
+Ciro Nogueira,Q15985219,,,,Casa Civil
+Paulo Guedes,Q56347746,,,,Ministério da Economia
+Onyx Lorenzoni,Q10341050,,,,Ministério do Trabalho e Previdência Social
+José Carlos Oliveira,Q111446648,,,,Ministério do Trabalho e Previdência Social
+Marcos Pontes,Q317643,,,,"Ministério da Ciência, Tecnologia e Inovações"
+Paulo Alvim,Q111444580,,,,"Ministério da Ciência, Tecnologia e Inovações"
+Fábio Faria,Q10279146,,,,Ministério das Comunicações
+Sergio Moro,Q19607958,,,,Ministério da Justiça e Segurança Pública
+André Mendonça,Q60396070,,,,Ministério da Justiça e Segurança Pública
+Anderson Gustavo Torres,Q106290142,,,,Ministério da Justiça e Segurança Pública
+Tereza Cristina,Q10380562,,,,"Ministério da Agricultura, Pecuária e Abastecimento"
+Marcos Montes Cordeiro,Q10325465,,,,"Ministério da Agricultura, Pecuária e Abastecimento"
+Augusto Heleno,Q9637698,,,,Gabinete de Segurança Institucional
+FernandoAzevedo e Silva,Q58586921,,,,Ministério da Defesa
+Walter Braga Netto,Q49323012,,,,Ministério da Defesa
+Paulo Sérgio Nogueira de Oliveira,Q106307801,,,,Ministério da Defesa
+Ernesto Araújo,Q58642905,,,,Ministério das Relações Exteriores
+Carlos Alberto Franco França,Q106271551,,,,Ministério das Relações Exteriores
+Roberto Campos Neto,Q58812288,,,,Banco Central do Brasil
+Wagner Rosário,Q30936068,,,,Controladoria-Geral da União
+Luiz HenriqueMandetta,Q18472576,,,,Ministério da Saúde
+Nelson Teich,Q90844310,,,,Ministério da Saúde
+Eduardo Pazuello,Q94787924,,,,Ministério da Saúde
+Marcelo Queiroga,Q105969706,,,,Ministério da Saúde
+André Mendonça,Q60396070,,,,Advocacia-Geral da União
+José Levi Mello,Q28920415,,,,Advocacia-Geral da União
+André Mendonça,Q60396070,,,,Advocacia-Geral da União
+Bruno Bianco,Q107972708,,,,Advocacia-Geral da União
+Gustavo Bebianno,Q59137777,,,,Secretaria-Geral da Presidência da República
+Floriano Peixoto Vieira Neto,Q5461061,,,,Secretaria-Geral da Presidência da República
+Jorge Oliveira,Q64760330,,,,Secretaria-Geral da Presidência da República
+Pedro Cesar Sousa (interino),,,,,Secretaria-Geral da Presidência da República
+Onyx Lorenzoni,Q10341050,,,,Secretaria-Geral da Presidência da República
+Luiz Eduardo Ramos,Q64682549,,,,Secretaria-Geral da Presidência da República
+Ricardo Vélez Rodríguez,Q59123716,,,,Ministério da Educação
+Abraham Weintraub,Q63039824,,,,Ministério da Educação
+Carlos Decotelli,Q96643922,,,,Ministério da Educação
+Antonio Paulo Vogel(interino),Q96474860,,,,Ministério da Educação
+Milton Ribeiro,Q97161166,,,,Ministério da Educação
+Victor Godoy Veiga,Q111433242,,,,Ministério da Educação
+Carlos Alberto dos Santos Cruz,Q13416899,,,,Secretaria de Governo
+Luiz Eduardo Ramos,Q64682549,,,,Secretaria de Governo
+Flávia Arruda,Q60961728,,,,Secretaria de Governo
+Célio Faria Júnior,,,,,Secretaria de Governo
+Tarcísio Gomes de Freitas,Q60392579,,,,Ministério da Infraestrutura
+Marcelo Sampaio,Q111446664,,,,Ministério da Infraestrutura
+Gustavo Canuto,Q60395001,,,,Ministério do Desenvolvimento Regional
+Rogério Marinho,Q10364098,,,,Ministério do Desenvolvimento Regional
+Daniel de Oliveira Duarte Ferreira,Q111446676,,,,Ministério do Desenvolvimento Regional
+Osmar Terra,Q10342262,,,,Ministério da Cidadania
+Onyx Lorenzoni,Q10341050,,,,Ministério da Cidadania
+João Roma,Q59204311,,,,Ministério da Cidadania
+Ronaldo Vieira Bento,Q111446919,,,,Ministério da Cidadania
+Marcelo Álvaro Antônio,Q48868228,,,,Ministério do Turismo
+Gilson Machado Neto,Q104605629,,,,Ministério do Turismo
+Carlos Alberto Gomes de Brito,,,,,Ministério do Turismo
+Bento Albuquerque,Q59308525,,,,Ministério de Minas e Energia
+Adolfo Sachsida,Q65936522,,,,Ministério de Minas e Energia
+Damares Alves,Q59577903,,,,"Ministério da Mulher, da Família e dos Direitos Humanos"
+Cristiane Britto,Q111446662,,,,"Ministério da Mulher, da Família e dos Direitos Humanos"
+Ricardo de Aquino Salles,Q15123609,,,,Ministério do Meio Ambiente
+Joaquim Alvaro Pereira Leite,Q107348193,,,,Ministério do Meio Ambiente

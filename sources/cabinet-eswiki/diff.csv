@@ -1,16 +1,29 @@
-@@,item,name,ministrylabel
-->,Q9637698,Augusto Heleno,Gabinete de Segurança Institucional da Presidência da República->Gabinete de Segurança Institucional
-->,Q56347746,Paulo Roberto Nunes Guedes->Paulo Guedes,Ministério da Economia
-->,Q15985219,Ciro Nogueira Lima Filho->Ciro Nogueira,Casa Civil
-->,Q111446919,Ronaldo Bento->Ronaldo Vieira Bento,Ministério da Cidadania
-->,Q111446676,Daniel de Oliveira->Daniel de Oliveira Duarte Ferreira,Ministério do Desenvolvimento Regional
-->,Q111446664,Marcelo Sampaio,Ministério da Infra-Estrutura->Ministério da Infraestrutura
-->,Q111446662,Cristiane Rodrigues Britto->Cristiane Britto,"Ministério dos Direitos Humanos->Ministério da Mulher, da Família e dos Direitos Humanos"
-->,Q111446648,José Carlos Oliveira,Ministério do Trabalho->Ministério do Trabalho e Previdência Social
-->,Q106621007,Carlos Brito->Carlos Alberto Gomes de Brito,Ministério do Turismo
-->,Q106307801,Paulo Sérgio Nogueira de Oliveira,Ministério da Defesa do Brasil->Ministério da Defesa
-->,Q106290142,Anderson Torres->Anderson Gustavo Torres,Ministério da Justiça e Segurança Pública
-->,Q10279146,Fabio Faria->Fábio Faria,Ministério das Comunicações do Brasil->Ministério das Comunicações
----,Q94787924,Eduardo Pazuello,Secretaria de Assuntos Estratégicos do Brasil
----,Q52871852,Hamilton Mourão,Vice-Presidência da República Federativa do Brasil
----,Q10304982,Jair Bolsonaro,
+@@,item,itemlabel,position,positionlabel,startdate,enddate
+->,Q65936522,Adolfo Sachsida,Q59346269,ministro de Minas e Energia->Ministério de Minas e Energia,2022-05-11,
+->,Q106290142,Anderson Torres->Anderson Gustavo Torres,Q18176440,ministro da Justiça do Brasil->Ministério da Justiça e Segurança Pública,2020-03-30,
+->,Q9637698,Augusto Heleno Ribeiro Pereira->Augusto Heleno,Q99236096,ministro-chefe do Gabinete de Segurança Institucional da Presidência da República->Gabinete de Segurança Institucional,2019-01-01,
+->,Q107972708,Bruno Bianco,Q12276986,Advogado-Geral da União->Advocacia-Geral da União,2021-08-06,
+->,Q106271551,Carlos Alberto Franco França,Q18176431,Ministro das Relações Exteriores->Ministério das Relações Exteriores,2021-03-29,
++++,,Carlos Alberto Gomes de Brito,,Ministério do Turismo,,
+---,Q106621007,Carlos Brito,Q59346275,ministro do Turismo do Brasil,2022-03-31,
+->,Q15985219,Ciro Nogueira,Q5097042,ministro da Casa Civil->Casa Civil,2021-07-26,
+->,Q111446662,Cristiane Britto,Q96239851,"NULL->Ministério da Mulher, da Família e dos Direitos Humanos",2022-03-31,
+->,Q111446916,Célio Faria Júnior,Q63644927,ministro-chefe da Secretaria de Governo->Secretaria de Governo,2021-03-31,
+->,Q111446676,Daniel de Oliveira->Daniel de Oliveira Duarte Ferreira,Q109922293,NULL->Ministério do Desenvolvimento Regional,2022-03-31,
+---,Q94787924,Eduardo Pazuello,Q109920210,,2021-06-01,
+->,Q10279146,Fabio Faria->Fábio Faria,Q96240294,ministro das comunicações do Brasil->Ministério das Comunicações,2020-06-17,
+---,Q52871852,Hamilton Mourão,Q2978540,vice-presidente da Repúblicaepública Federativa do Brasil,2019-01-01,
+---,Q10304982,Jair Bolsonaro,Q5176750,Presidente do Brasil,2019-01-01,
+->,Q107348193,Joaquim Alvaro Pereira Leite,Q16141555,Ministro do Meio Ambiente do Brasil->Ministério do Meio Ambiente,2021-06-23,
+->,Q111446648,José Carlos Oliveira,Q52334511,ministro do Trabalho do Brasil->Ministério do Trabalho e Previdência Social,2022-03-31,
+->,Q64682549,Luiz Eduardo Ramos,Q98609740,ministro-chefe da Secretaria-Geral da Presidência do  Brasil->Secretaria-Geral da Presidência da República,2021-07-26,
+->,Q105969706,Marcelo Queiroga,Q59346265,ministro da saúde do Brasil->Ministério da Saúde,2021-03-23,
+->,Q111446664,Marcelo Sampaio,Q109920325,NULL->Ministério da Infraestrutura,2022-03-31,
+->,Q10325465,Marcos Montes Cordeiro,Q18176428,"ministro da Agricultura do Brasil->Ministério da Agricultura, Pecuária e Abastecimento",2022-03-31,
+->,Q111444580,Paulo Alvim,Q59346256,"ministro da Ciência, Tecnologia, Inovações e Comunicações->Ministério da Ciência, Tecnologia e Inovações",2022-03-31,
+->,Q56347746,Paulo Roberto Nunes Guedes->Paulo Guedes,Q105527854,ministro da Economia do Brasil->Ministério da Economia,2019-01-01,
+->,Q106307801,Paulo Sérgio Nogueira de Oliveira,Q59346258,ministro da Defesa do Brasil->Ministério da Defesa,2022-03-31,
+->,Q58812288,Roberto Campos Neto,Q109920163,NULL->Banco Central do Brasil,2019-02-28,
+->,Q111446919,Ronaldo Vieira Bento,Q96239481,NULL->Ministério da Cidadania,2022-03-31,
+->,Q111433242,Victor Godoy Veiga,Q59346259,ministra(o) da educação do Brasil->Ministério da Educação,2022-03-29,
+->,Q30936068,Wagner Rosário,Q98516321,ministro-chefe da Controladoria-Geral da União do Brasil->Controladoria-Geral da União,2017-05-31,
