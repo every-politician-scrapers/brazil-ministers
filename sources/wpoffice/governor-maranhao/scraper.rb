@@ -17,10 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[no name img party start end].freeze
     end
-
-    def raw_end
-      super.gsub('até a atualidade', 'Incumbent')
-    end
   end
 end
 
