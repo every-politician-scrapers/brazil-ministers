@@ -1,0 +1,271 @@
+{
+  "title": "Romeu Zema",
+  "pageID": 58903909,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Governors of Minas Gerais",
+    "New Party (Brazil) politicians",
+    "Liberal Party (Brazil, 2006) politicians",
+    "Fundação Getulio Vargas alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Romeu Zema Neto (born 28 October 1964) is a Brazilian businessman and the current Governor of the state of Minas Gerais.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minas Gerais"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Romeu Zema Neto"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian businessman and politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "10",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Romeu Zema"
+          },
+          "image": {
+            "text": "Romeu Zema em janeiro de 2019.jpg"
+          },
+          "office": {
+            "text": "Governor of Minas Gerais",
+            "links": [
+              {
+                "text": "Governor of Minas Gerais",
+                "type": "internal",
+                "page": "List of Governors of Minas Gerais"
+              }
+            ]
+          },
+          "vicegovernor": {
+            "text": "Paulo Brant"
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "predecessor": {
+            "text": "Fernando Pimentel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fernando Pimentel"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 28, 1964"
+          },
+          "birth_place": {
+            "text": "Araxá, Minas Gerais, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Araxá"
+              },
+              {
+                "type": "internal",
+                "page": "Minas Gerais"
+              }
+            ]
+          },
+          "party": {
+            "text": "NOVO (2018–present)",
+            "links": [
+              {
+                "text": "NOVO",
+                "type": "internal",
+                "page": "New Party (Brazil)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Fundação Getúlio Vargas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fundação Getúlio Vargas"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PR (2000–18)",
+            "links": [
+              {
+                "text": "PR",
+                "type": "internal",
+                "page": "Liberal Party (Brazil, 2006)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/10/empresario-do-partido-novo-romeu-zema-e-eleito-governador-de-mg.shtml",
+          "title": "Empresário do Partido Novo Romeu Zema é eleito governador de MG",
+          "date": "28 October 2018",
+          "website": "Folha de S.Paulo",
+          "accessdate": "27 January 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zema was born in Araxá, Minas Gerais in 1964, the son of businessman Ricardo Zema and grandson of Domingos Zema, who founded Grupo Zema, the company that is now run by Romeu Zema.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Araxá"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minas Gerais"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Zema entered the New Party (NOVO) in 2018 and filed his candidacy to run for Governor of the state of Minas Gerais.",
+              "links": [
+                {
+                  "text": "New Party",
+                  "type": "internal",
+                  "page": "New Party (Brazil)"
+                }
+              ]
+            },
+            {
+              "text": "He finished in first place in the first round of the election, receiving 42% of the vote, while the second-place candidate Antonio Anastasia (PSDB) attained 29% of the vote; the incumbent governor Fernando Pimentel, who was seeking re-election, failed to make it to the run-off held on 28 October 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Antonio Anastasia"
+                },
+                {
+                  "type": "internal",
+                  "page": "PSDB"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fernando Pimentel"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Zema was elected Governor of Minas Gerais in the run-off with 71% of the vote, against the 28% of Anastasia."
+            },
+            {
+              "text": "He is the first NOVO candidate to win a gubernatorial election in Brazil since the party was formally registered in 2015."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/13/zema-candidato-novo-cidade-natal-araxa.htm",
+          "title": "Com comitê na garagem da tia, Zema tem 84% de votos em sua cidade natal",
+          "website": "UOL Eleições 2018",
+          "accessdate": "27 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/jornal-nacional/noticia/2018/10/08/em-minas-gerais-zema-novo-disputa-segundo-turno-com-anastasia-psdb.ghtml",
+          "title": "Em Minas Gerais, Zema (Novo) disputa segundo turno com Anastasia (PSDB)",
+          "website": "G1",
+          "accessdate": "27 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://noticias.uol.com.br/politica/eleicoes/2018/noticias/2018/10/28/romeu-zema-novo-bolsonaro-vence-governador-minas-gerais.htm",
+          "title": "Zema aproveita onda Bolsonaro, ganha em MG e garante 1º estado para o Novo",
+          "website": "UOL Eleições 2018",
+          "accessdate": "27 January 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Fernando Pimentel",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Minas Gerais",
+          "years": "2019−present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "brazilgovernors"
+        },
+        {
+          "template": "minasgeraisgovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "brazil-politician-stub"
+        }
+      ]
+    }
+  ]
+}

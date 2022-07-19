@@ -1,0 +1,795 @@
+{
+  "title": "Eduardo Pazuello",
+  "pageID": 65329411,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Brazilian generals",
+    "Rio de Janeiro (state) politicians",
+    "Health ministers of Brazil",
+    "People from Rio de Janeiro (city)",
+    "Progressistas politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eduardo Pazuello (born in 1963) is a Brazilian Divisional general of the Brazilian Army and politician, he served as Minister of Health between 2020 and 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Divisional general"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazilian Army"
+                },
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Brazil)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eduardo Pazuello"
+                ]
+              }
+            },
+            {
+              "text": "He was previously married to Daisy Berqvist; they divorced at the time of the birth of their twins in 2004"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian general and politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1963",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "Divisional general"
+              }
+            ]
+          },
+          "name": {
+            "text": "Eduardo Pazuello"
+          },
+          "image": {
+            "text": "File:Eduardo Pazuello (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 September 2020"
+          },
+          "term_end": {
+            "text": "23 March 2021 Acting: 2 June 2020 – 16 September 2020"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Nelson Teich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Teich"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Marcelo Queiroga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marcelo Queiroga"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary of Strategic Affairs of the Presidency",
+            "links": [
+              {
+                "text": "Presidency",
+                "type": "internal",
+                "page": "Presidency of Jair Bolsonaro"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 June 2021"
+          },
+          "predecessor1": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Executive Secretary of the Ministry of Health",
+            "links": [
+              {
+                "text": "Ministry of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Brazil)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "28 April 2020"
+          },
+          "term_end2": {
+            "text": "2 June 2020"
+          },
+          "minister2": {
+            "text": "Nelson Teich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nelson Teich"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "João Gabbardo dos Reis"
+          },
+          "successor2": {
+            "text": "Antonio Elcio Franco"
+          },
+          "office3": {
+            "text": "State Secretary of Finances of Roraima",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roraima"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "10 December 2018"
+          },
+          "term_end3": {
+            "text": "14 February 2019"
+          },
+          "1blankname3": {
+            "text": "Governor"
+          },
+          "1namedata3": {
+            "text": "Antonio Denarium",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antonio Denarium"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Enoque Rosas"
+          },
+          "successor3": {
+            "text": "Marco Antônio Alves"
+          },
+          "birth_date": {
+            "text": "1963 (age 59)"
+          },
+          "birth_place": {
+            "text": "Rio de Janeiro, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rio de Janeiro"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "party": {
+            "text": "PP (2022–present)",
+            "links": [
+              {
+                "text": "PP",
+                "type": "internal",
+                "page": "Progressistas"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Agulhas Negras Military Academy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agulhas Negras Military Academy"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Military"
+          },
+          "allegiance": {
+            "text": "🇧🇷"
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Army"
+              }
+            ]
+          },
+          "rank": {
+            "text": "General de Divisão.gif Divisional general",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Divisional general"
+              }
+            ]
+          },
+          "mawards": {
+            "text": "Order of Aeronautical Merit",
+            "links": [
+              {
+                "text": "Order of Aeronautical Merit",
+                "type": "internal",
+                "page": "Order of Aeronautical Merit (Brazil)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://g1.globo.com/politica/noticia/2020/04/22/teich-anuncia-general-eduardo-pazuello-como-novo-numero-2-do-ministerio-da-saude.ghtml",
+          "title": "Teich anuncia general Eduardo Pazuello como novo número 2 do Ministério da Saúde",
+          "website": "G1",
+          "language": "pt",
+          "date": "22 April 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.in.gov.br/web/dou/-/decreto-de-2-de-junho-de-2020-259865444",
+          "title": "Decreto de 2 de junho de 2020",
+          "publisher": "Diário Oficial da União",
+          "language": "pt",
+          "date": "2 June 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pazuello was born in Rio de Janeiro to a prominent Moroccoan-Jewish family.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rio de Janeiro"
+                },
+                {
+                  "text": "Moroccoan-Jewish",
+                  "type": "internal",
+                  "page": "Moroccan Jews"
+                }
+              ]
+            },
+            {
+              "text": "His grandfather, Abraham Joaquim Pazuello was born in Belém and was the son of Moroccoan-Jewish parents.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Belém"
+                }
+              ]
+            },
+            {
+              "text": "He established himself in Manaus during the 1930s.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manaus"
+                }
+              ]
+            },
+            {
+              "text": "His father, Nissim Pazuello, was an entrepreneur."
+            },
+            {
+              "text": "General Pazuello acted in the coordination of the Army troops during the 2016 Summer Olympics in Rio de Janeiro, and, since February 2018, coordinated Operation Reception, which takes care of Venezuelan refugees in Roraima, besides previously serving as Secretary of Finances in the State Government of Roraima during the federal intervention, where he announced his leaving in February 2019.",
+              "links": [
+                {
+                  "text": "2016 Summer Olympics",
+                  "type": "internal",
+                  "page": "2016 Summer Olympics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rio de Janeiro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 8 January 2020, left the coordination of the operation to command the 12th Military Region in Manaus, replacing Carlos Alberto Maciel Teixeira."
+            },
+            {
+              "text": "In his sworn-in, he stated that he'll continue the work in the defence of the Amazon."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was nominated Executive Secretary of the Ministry of Health by former minister Nelson Teich to be the second in command, replacing João Gabbardo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nelson Teich"
+                }
+              ]
+            },
+            {
+              "text": "In his nomination, Teich stated that he chose Pazuello due to his knowledge in logistics."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2020, a report by Agência Sportlight revealed that Eduardo Pazuello alleged \"non-commercial use\" in a contract of 13 years signed between Infraero and a company that earned R$ 5,000 (US$ ) per parachuting student, accusing him of administrative dishonesty.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Infraero"
+                },
+                {
+                  "text": "R$",
+                  "type": "internal",
+                  "page": "Brazilian real"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Still in May 2020, website Diário do Centro do Mundo revealed that Pazuello had put soldiers to pull carts, instead of horses."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "3000",
+            "BRA"
+          ],
+          "year": "2019",
+          "template": "to usd"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://epocanegocios.globo.com/Brasil/noticia/2020/05/quem-e-eduardo-pazuello-o-general-que-assumira-por-enquanto-o-ministerio-da-saude.html",
+          "title": "Quem é Eduardo Pazuello, o general que assumirá por enquanto o Ministério da Saúde",
+          "website": "Época Negócios",
+          "language": "pt",
+          "date": "16 May 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://catracalivre.com.br/cidadania/quem-e-o-general-pazuello-que-assume-saude-apos-saida-de-teich/",
+          "title": "Quem é o general Pazuello, que assume Saúde após saída de Teich",
+          "website": "Catraca Livre",
+          "language": "pt",
+          "date": "15 May 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.imprensaoficial.rr.gov.br/app/_edicoes/2018/12/doe-20181210.pdf",
+          "title": "Diário Oficial do Estado de Roraima",
+          "publisher": "Imprensa Oficial",
+          "language": "pt",
+          "issue": "3372",
+          "date": "10 December 2018",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "document"
+        },
+        {
+          "url": "https://folhabv.com.br/noticia/POLITICA/Roraima/Coronel-vai-assumir-lugar-de-general-na-Fazenda/49996",
+          "title": "Coronel vai assumir lugar de general na Fazenda",
+          "website": "Folha BV",
+          "language": "pt",
+          "first": "Cyneida",
+          "last": "Correia",
+          "date": "16 February 2019",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://folhabv.com.br/noticia/CIDADES/Capital/Eduardo-Pazuello-deixa-o-comando-da-Operacao-Acolhida/58829",
+          "title": "Eduardo Pazuello deixa o comando da Operação Acolhida",
+          "website": "Folha BV",
+          "language": "pt",
+          "date": "24 October 2019",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.manaus.am.gov.br/noticia/prefeito-acompanha-troca-de-comando-da-12a-regiao-militar/",
+          "title": "Prefeito acompanha troca de comando da 12ª Região Militar",
+          "website": "Prefeitura de Manaus",
+          "language": "pt",
+          "date": "8 January 2020",
+          "accessdate": "16 September 2020",
+          "archive-url": "https://web.archive.org/web/20200620160652/http://www.manaus.am.gov.br/noticia/prefeito-acompanha-troca-de-comando-da-12a-regiao-militar/",
+          "archive-date": "20 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.atarde.com.br/politica/noticias/2125835-teich-anuncia-eduardo-pazuello-como-novo-secretarioexecutivo-do-ministerio-da-saude",
+          "title": "Teich anuncia Eduardo Pazuello como novo secretário-executivo do Ministério da Saúde",
+          "website": "A Tarde",
+          "language": "pt",
+          "date": "22 April 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://agenciasportlight.com.br/index.php/2020/05/20/general-pazuello-alegou-uso-nao-comercial-em-vantajoso-contrato-com-infraero-de-empresa-que-faturava-r-6-mil-por-aluno-de-paraquedismo/",
+          "title": "General Pazuello alegou \"uso não comercial\" em vantajoso contrato com Infraero de empresa que faturava R$ 6 mil por aluno de paraquedismo",
+          "website": "Agências Sportlight",
+          "language": "pt",
+          "first": "Lúcio",
+          "last": "de Castro",
+          "date": "25 May 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.diariodocentrodomundo.com.br/exclusivo-ministro-da-saude-interino-obrigou-soldado-a-puxar-carroca-no-lugar-de-cavalo-em-quartel/",
+          "title": "Exclusivo: Ministro da Saúde interino obrigou soldado a puxar carroça no lugar de cavalo em quartel",
+          "website": "Diário do Centro do Mundo",
+          "language": "pt",
+          "first": "Vinicius",
+          "last": "Segalla",
+          "date": "16 May 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Health",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Assumed, as acting minister, the Ministry of Health after the leaving of Nelson Teich, on 15 May 2020, during the COVID-19 pandemic in Brazil.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Brazil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 19 May 2020, Pazuello allowed the use of hydroxychloroquine and chloroquine for treatment against COVID-19, and, in June 2020, he was nominated Minister of Health and removed from his previous office as Executive Secretary.",
+              "links": [
+                {
+                  "text": "hydroxychloroquine",
+                  "type": "internal",
+                  "page": "hydroxychloroquine"
+                },
+                {
+                  "text": "chloroquine",
+                  "type": "internal",
+                  "page": "chloroquine"
+                },
+                {
+                  "text": "COVID-19",
+                  "type": "internal",
+                  "page": "Coronavirus disease 2019"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 6 August 2020, minister Pazuello affirmed that the vaccine for COVID-19, in tests in Brazil, is scheduled to be released in January 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 14 September 2020, president Jair Bolsonaro decided to promote Pazuello as Minister of Health.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ]
+            },
+            {
+              "text": "On 14 March 2021, Pazuello asked for resignation as Minister of Health, alleging health problems."
+            },
+            {
+              "text": "Later he said that he isn't sick and will be in the office until President Jair Bolsonaro request the position."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 23 March 2021, Pazuello left the ministry of health."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://politica.estadao.com.br/noticias/geral,nelson-teich-pede-demissao,70003304091",
+          "title": "Teich se demite e expõe governo em crise; general assume Saúde",
+          "website": "Estadão",
+          "language": "pt",
+          "first1": "Tânia",
+          "last1": "Monteiro",
+          "first2": "Luci",
+          "last2": "Ribeiro",
+          "date": "15 May 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.metropoles.com/brasil/ministerio-da-saude-libera-cloroquina-para-tratar-covid-19-na-fase-inicial",
+          "title": "Ministério da Saúde libera cloroquina para tratar Covid-19 na fase inicial",
+          "website": "Metrópoles",
+          "language": "pt",
+          "first1": "Otávio",
+          "last1": "Augusto",
+          "first2": "Tácio",
+          "last2": "Lorran",
+          "date": "20 May 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://paraiba.com.br/2020/08/06/ministro-da-saude-diz-que-vacina-para-covid-deve-ser-disponibilizada-ate-o-inicio-de-2021/",
+          "title": "Ministro da Saúde diz que vacina para covid deve ser disponibilizada até o início de 2021",
+          "website": "Paraíba",
+          "language": "pt",
+          "date": "6 August 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/equilibrioesaude/2020/09/bolsonaro-decide-tornar-pazuello-ministro-definitivo-da-saude.shtml",
+          "title": "Bolsonaro decide efetivar Pazauello como ministro da Saúde",
+          "website": "Folha de S. Paulo",
+          "language": "pt",
+          "first1": "Gustavo",
+          "last1": "Uribe",
+          "first2": "Natália",
+          "last2": "Cancian",
+          "date": "14 September 2020",
+          "accessdate": "16 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Cappelli",
+          "first": "Paulo",
+          "last2": "Portinari",
+          "first2": "Natália",
+          "date": "2021-03-14",
+          "title": "Pressionado, Pazuello alega problemas de saúde e pede para deixar ministério",
+          "url": "https://oglobo.globo.com/brasil/pressionado-pazuello-alega-problemas-de-saude-pede-para-deixar-ministerio-24924707",
+          "url-status": "live",
+          "access-date": "2021-03-14",
+          "website": "O Globo",
+          "language": "pt-BR",
+          "archive-url": "https://web.archive.org/web/20210314170746/https://oglobo.globo.com/brasil/pressionado-pazuello-alega-problemas-de-saude-pede-para-deixar-ministerio-24924707",
+          "archive-date": "2021-03-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cnnbrasil.com.br/politica/2021/03/14/pazuello-continuo-como-ministro-ate-que-presidente-peca-o-cargo",
+          "title": "Pazuello: 'Continuo como ministro até que presidente peça o cargo'",
+          "date": "2021-03-14",
+          "accessdate": "2021-03-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.cnnbrasil.com.br/politica/2021/03/15/quem-e-o-cardiologista-marcelo-queiroga-que-se-reuniu-com-bolsonaro-sobre-saude",
+          "title": "Quem é Marcelo Queiroga, médico que aceitou o convite de Bolsonaro para a Saúde",
+          "website": "CNN Brazil",
+          "date": "15 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Secretary of Strategic Affairs of the Presidency",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pazuelo was announced as Secretary of Strategic Affairs of the Presidency on 1 June 2021.",
+              "links": [
+                {
+                  "text": "Presidency",
+                  "type": "internal",
+                  "page": "Presidency of Jair Bolsonaro"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://noticias.r7.com/prisma/r7-planalto/eduardo-pazuello-e-nomeado-como-secretario-da-presidencia-01062021",
+          "title": "Eduardo Pazuello é nomeado como secretário da Presidência",
+          "website": "R7",
+          "date": "1 June 2021",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Enoque Rosas",
+          "template": "s-bef"
+        },
+        {
+          "title": "State Secretary of Finances of Roraima",
+          "years": "2018–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Marco Antônio Alves",
+          "template": "s-aft"
+        },
+        {
+          "before": "João Gabbardo dos Reis",
+          "template": "s-bef"
+        },
+        {
+          "title": "Executive Secretary of the Ministry of Health",
+          "years": "2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Antonio Elcio Franco",
+          "template": "s-aft"
+        },
+        {
+          "before": "Nelson Teich",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2020–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Marcelo Queiroga",
+          "template": "s-aft"
+        },
+        {
+          "reason": "Office established",
+          "template": "s-non"
+        },
+        {
+          "title": "Secretary of Strategic Affairs of the Presidency",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "bolsonaro cabinet"
+        }
+      ]
+    }
+  ]
+}

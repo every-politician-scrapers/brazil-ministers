@@ -1,0 +1,717 @@
+{
+  "title": "Rodrigo Garcia (politician)",
+  "pageID": 62009564,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "Members of the Legislative Assembly of São Paulo",
+    "Vice Governors of São Paulo (state)",
+    "Governors of São Paulo (state)",
+    "Brazilian Social Democracy Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rodrigo Garcia (born 10 May 1974 in Tanabi) is a Brazilian lawyer, businessman and politician, affiliated with the Brazilian Social Democracy Party (PSDB).",
+              "links": [
+                {
+                  "text": "Brazilian Social Democracy Party (PSDB)",
+                  "type": "internal",
+                  "page": "Brazilian Social Democracy Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rodrigo Garcia"
+                ]
+              }
+            },
+            {
+              "text": "He was state deputy elected for three consecutive legislatures, 1999-2002, 2003-2006 and 2007-2010, and president of the Legislative Assembly of São Paulo from March 15, 2005 to March 15, 2007.",
+              "links": [
+                {
+                  "text": "São Paulo",
+                  "type": "internal",
+                  "page": "São Paulo (state)"
+                }
+              ]
+            },
+            {
+              "text": "He is currently the Governor of São Paulo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor"
+                },
+                {
+                  "text": "São Paulo",
+                  "type": "internal",
+                  "page": "São Paulo (state)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician (born 1974)",
+          "template": "short description"
+        },
+        {
+          "year": "1974",
+          "month": "5",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Luciana Garcia",
+          "from": "1997",
+          "template": "marriage"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rodrigo Garcia"
+          },
+          "image": {
+            "text": "Foto oficial de Rodrigo Garcia, vice-governador e secretário de Governo do estado de São Paulo (cropped).jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2019."
+          },
+          "office": {
+            "text": "Governor of São Paulo",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "List of governors of São Paulo"
+              },
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 March 2022"
+          },
+          "vicegovernor": {
+            "text": "None",
+            "formatting": {
+              "italic": [
+                "None"
+              ]
+            }
+          },
+          "predecessor": {
+            "text": "João Doria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "João Doria"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice Governor of São Paulo",
+            "links": [
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2019"
+          },
+          "term_end1": {
+            "text": "31 March 2022"
+          },
+          "governor1": {
+            "text": "João Doria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "João Doria"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Márcio França",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Márcio França"
+              }
+            ]
+          },
+          "office2": {
+            "text": "State Secretary of Government of São Paulo",
+            "links": [
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 January 2019"
+          },
+          "term_end2": {
+            "text": "31 March 2022"
+          },
+          "governor2": {
+            "text": "João Doria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "João Doria"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Saulo de Castro Abreu Filho"
+          },
+          "office3": {
+            "text": "Federal Deputy from São Paulo",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 February 2011"
+          },
+          "term_end3": {
+            "text": "1 January 2019"
+          },
+          "office4": {
+            "text": "Chamber Democrats Leader",
+            "links": [
+              {
+                "text": "Chamber",
+                "type": "internal",
+                "page": "Chamber of Deputies (Brazil)"
+              },
+              {
+                "text": "Democrats",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "6 February 2018"
+          },
+          "term_end4": {
+            "text": "1 January 2019"
+          },
+          "predecessor4": {
+            "text": "Efraim Filho"
+          },
+          "successor4": {
+            "text": "Elmar Nascimento"
+          },
+          "office5": {
+            "text": "State Deputy of São Paulo",
+            "links": [
+              {
+                "text": "State Deputy",
+                "type": "internal",
+                "page": "Legislative Assembly of São Paulo"
+              },
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "15 March 1999"
+          },
+          "term_end5": {
+            "text": "1 February 2011"
+          },
+          "birth_name": {
+            "text": "Rodrigo Garcia"
+          },
+          "birth_date": {
+            "text": "May 10, 1974"
+          },
+          "birth_place": {
+            "text": "Tanabi, São Paulo, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tanabi"
+              },
+              {
+                "text": "São Paulo",
+                "type": "internal",
+                "page": "São Paulo (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSDB (2021–present)",
+            "links": [
+              {
+                "text": "PSDB",
+                "type": "internal",
+                "page": "Brazilian Social Democracy Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "DEM (1997–2021)",
+            "links": [
+              {
+                "text": "DEM",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Luciana Garcia (m. 1997)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "States’ investments grow as fast as revenues",
+          "url": "https://valorinternational.globo.com/economy/news/2021/10/10/states-investments-grow-as-fast-as-revenues.ghtml",
+          "access-date": "2022-03-14",
+          "website": "valorinternational",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "The inertia of polarization",
+          "url": "https://valorinternational.globo.com/commentary/maria-cristina-fernandes/commentary/the-inertia-of-polarization.ghtml",
+          "access-date": "2022-03-14",
+          "website": "valorinternational",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Deputado Estadual",
+          "url": "https://www.al.sp.gov.br/deputado/lista/",
+          "access-date": "2022-03-14",
+          "website": "www.al.sp.gov.br",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Vice-governador de São Paulo",
+          "url": "https://www.saopaulo.sp.gov.br/orgaos-e-entidades/vice-governador/",
+          "access-date": "2022-03-14",
+          "website": "Governo do Estado de São Paulo",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Limited",
+          "first": "Alamy",
+          "title": "The ex-governor of the State of São Paulo, João Doria (PSDB) participates at a press conference to talk about his victory to be the party's 2022 Presidential candidate in Sao Paulo, Brazil, on November 29, 2021. In the photo, the deputy governor of the State of São Paulo, Rodrigo Garcia. (Photo by Aloisio Mauricio/Fotoarena/Sipa USA Stock Photo - Alamy",
+          "url": "https://www.alamy.com/the-governor-of-the-state-of-so-paulo-joo-doria-psdb-participates-at-a-press-conference-to-talk-about-his-victory-to-be-the-partys-2022-presidential-candidate-in-sao-paulo-brazil-on-november-29-2021-in-the-photo-the-deputy-governor-of-the-state-of-so-paulo-rodrigo-garcia-photo-by-aloisio-mauriciofotoarenasipa-usa-image453040501.html",
+          "access-date": "2022-03-14",
+          "website": "www.alamy.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "São Paulo Vice-Governor joins a meeting at FMUSP and visits the Heart Institute (InCor)",
+          "url": "http://www.fm.usp.br/en/news/sao-paulo-vice-governor-joins-a-meeting-at-fmusp-and-visits-the-heart-institute-incor",
+          "access-date": "2022-03-14",
+          "website": "www.fm.usp.br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Exchange of Meirelles in the Doria government bumps into electoral agenda – 01/28/2022 – Panel SA",
+          "url": "https://aw-journal.com/exchange-of-meirelles-in-the-doria-government-bumps-into-electoral-agenda-01-28-2022-panel-sa/",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He left the position of deputy to head the Municipal Secretariat for Modernization, Management and Debureaucratization of the City Hall of São Paulo, from 2008 to 2010."
+            },
+            {
+              "text": "In April 2010, he returned to the Legislative Assembly to continue his work as a state deputy for the Democrats."
+            },
+            {
+              "text": "He was national vice president of DEM and secretary general of the party in the State of São Paulo.",
+              "links": [
+                {
+                  "text": "DEM",
+                  "type": "internal",
+                  "page": "Democrats (Brazil)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2011, he was invited by the governor of the State of São Paulo, Geraldo Alckmin, to assume the role of Secretary of State for Social Development.",
+              "links": [
+                {
+                  "text": "State of São Paulo",
+                  "type": "internal",
+                  "page": "São Paulo (state)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Geraldo Alckmin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On May 28, 2013, again by the invitation of Governor Geraldo Alckmin, he took over the role of Secretary of Economic Development, Science and Technology of the State of São Paulo, which later became the Secretary of Development of the State of São Paulo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Geraldo Alckmin"
+                },
+                {
+                  "text": "State of São Paulo",
+                  "type": "internal",
+                  "page": "São Paulo (state)"
+                },
+                {
+                  "text": "State of São Paulo",
+                  "type": "internal",
+                  "page": "São Paulo (state)"
+                }
+              ]
+            },
+            {
+              "text": "On April 3, 2014, he left the command of the Secretariat to return to the Federal Chamber."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2014 elections for the 55th legislature (2015-2019), Rodrigo was the fifth most voted federal deputy in the State of São Paulo, obtaining 336,151 votes.",
+              "links": [
+                {
+                  "text": "State of São Paulo",
+                  "type": "internal",
+                  "page": "São Paulo (state)"
+                }
+              ]
+            },
+            {
+              "text": "On February 1, 2015, he took up his fifth term."
+            },
+            {
+              "text": "Afterwards, on March 19, 2015, he resigned from the position to assume the Secretary of State for Housing in the new government of Geraldo Alckmin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Geraldo Alckmin"
+                }
+              ]
+            },
+            {
+              "text": "He voted in favor of impeaching Dilma Rousseff.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dilma Rousseff"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2018 elections, he ran as vice governor on João Doria's ticket, for which he was elected in the second round.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "João Doria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Secretary of Government, Rodrigo Garcia coordinates all the strategic actions of the state: vaccines, concessions, public investments, public-private partnerships and all the major management programs of the other secretariats.",
+              "links": [
+                {
+                  "text": "vaccines",
+                  "type": "internal",
+                  "page": "vaccine"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Biografia do(a) Deputado(a) Federal RODRIGO GARCIA",
+          "url": "https://www.camara.leg.br/deputados/88950/biografia",
+          "access-date": "2022-03-14",
+          "website": "Portal da Câmara dos Deputados",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biografia do(a) Deputado(a) Federal RODRIGO GARCIA",
+          "url": "https://www.camara.leg.br/deputados/88950/biografia",
+          "access-date": "2022-03-14",
+          "website": "Portal da Câmara dos Deputados",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biografia do(a) Deputado(a) Federal RODRIGO GARCIA",
+          "url": "https://www.camara.leg.br/deputados/88950/biografia",
+          "access-date": "2022-03-14",
+          "website": "Portal da Câmara dos Deputados",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biografia do(a) Deputado(a) Federal RODRIGO GARCIA",
+          "url": "https://www.camara.leg.br/deputados/88950/biografia",
+          "access-date": "2022-03-14",
+          "website": "Portal da Câmara dos Deputados",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Biografia do(a) Deputado(a) Federal RODRIGO GARCIA",
+          "url": "https://www.camara.leg.br/deputados/88950/biografia",
+          "access-date": "2022-03-14",
+          "website": "Portal da Câmara dos Deputados",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2014-10-05",
+          "title": "Veja quem são os deputados mais votados em São Paulo",
+          "url": "https://exame.com/brasil/veja-quem-sao-os-deputados-mais-votados-em-sao-paulo/",
+          "access-date": "2022-03-14",
+          "website": "Exame",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Veja lista de quem votou contra e a favor do impeachment de Dilma - Metro 1",
+          "url": "https://www.metro1.com.br/noticias/politica/15587,veja-lista-de-quem-votou-contra-e-a-favor-do-impeachment-de-dilma",
+          "access-date": "2022-03-14",
+          "website": "Veja lista de quem votou contra e a favor do impeachment de Dilma - Metro 1",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Vice-governador de São Paulo",
+          "url": "https://www.saopaulo.sp.gov.br/orgaos-e-entidades/vice-governador/",
+          "access-date": "2022-03-14",
+          "website": "Governo do Estado de São Paulo",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-07-23",
+          "title": "Startups in SP will receive R$ 25 million in partnership between FAPESP and Sebrae {{!}} Entrepreneurship {{!}} EarnGurus",
+          "url": "https://earngurus.com/startups-in-sp-will-receive-r-25-million-in-partnership-between-fapesp-and-sebrae-entrepreneurship/",
+          "access-date": "2022-03-14",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-02-28",
+          "title": "São Paulo Line 15-Silver extension project underway",
+          "url": "https://www.railjournal.com/infrastructure/sao-paulo-line-15-silver-extension-project-underway/",
+          "access-date": "2022-03-14",
+          "website": "International Railway Journal",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "www.rodrigogarcia.com.br"
+          ],
+          "template": "official website"
+        },
+        {
+          "id": "rodrigogarciaoficial",
+          "template": "facebook"
+        },
+        {
+          "id": "rodrigogarcia_",
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Saulo de Castro Abreu Filho",
+          "template": "s-bef"
+        },
+        {
+          "title": "State Secretary of Government of São Paulo",
+          "years": "2019−2022",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "last": "Márcio França",
+          "template": "s-vac"
+        },
+        {
+          "title": "Vice Governor of São Paulo",
+          "years": "2019−2022",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "before": "João Doria",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of São Paulo",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "br-dpt"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Efraim Filho",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chamber Democrats Leader",
+          "years": "2018−2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Elmar Nascimento",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Guilherme Afif Domingos",
+          "template": "s-bef"
+        },
+        {
+          "title": "DEM nominee for Vice Governor of São Paulo",
+          "years": "2018",
+          "template": "s-ttl"
+        },
+        {
+          "list": [
+            "recent"
+          ],
+          "template": "s-inc"
+        }
+      ]
+    }
+  ]
+}

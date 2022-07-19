@@ -1,0 +1,216 @@
+{
+  "title": "Daniella Marques",
+  "pageID": 71244160,
+  "categories": [
+    "1979 births",
+    "Living people",
+    "Brazilian economists",
+    "Pontifical Catholic University of Rio de Janeiro alumni",
+    "People from Rio de Janeiro (state)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Daniella Marques Consentino (born 16 October 1979) is a Brazilian economist and administration graduate.",
+              "formatting": {
+                "bold": [
+                  "Daniella Marques Consentino"
+                ]
+              }
+            },
+            {
+              "text": "She was part of the economic team of president Jair Bolsonaro until 29 June 2022, when she was nominated as chairwoman of the state-owned Caixa Econômica Federal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Caixa Econômica Federal"
+                }
+              ]
+            },
+            {
+              "text": "She became the bank's chairwoman on 5 July 2022, replacing Pedro Guimaraes.",
+              "links": [
+                {
+                  "text": "Pedro Guimaraes",
+                  "type": "internal",
+                  "page": "Pedro Guimarães"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian economist",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "10",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Daniella Marques"
+          },
+          "image": {
+            "text": "Daniella Marques Consentino.jpg"
+          },
+          "office": {
+            "text": "Chairwoman of Caixa Econômica Federal",
+            "links": [
+              {
+                "text": "Chairwoman",
+                "type": "internal",
+                "page": "Chairperson"
+              },
+              {
+                "type": "internal",
+                "page": "Caixa Econômica Federal"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 July 2022"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Pedro Guimarães",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Guimarães"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Daniella Marques Consentino"
+          },
+          "birth_date": {
+            "text": "October 16, 1979"
+          },
+          "birth_place": {
+            "text": "Barra Mansa, Rio de Janeiro, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barra Mansa"
+              },
+              {
+                "text": "Rio de Janeiro",
+                "type": "internal",
+                "page": "Rio de Janeiro (state)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pontifical Catholic University of Rio de Janeiro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pontifical Catholic University of Rio de Janeiro"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Economist"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://ri.bancopan.com.br/ListGroup/Download.aspx?Arquivo=ygJBd2hv0+Kj0ghSkO+ogA==&IdCanal=tJkz2jolcceoKnMvyzLu5A==",
+          "title": "Proposta da Administração - Assembleia Geral Extraordinária de 13 de novembro de 2019",
+          "website": "Banco PAN",
+          "language": "pt",
+          "page": "3",
+          "accessdate": "7 July 2022",
+          "template": "citation",
+          "type": "document"
+        },
+        {
+          "url": "https://www.infomoney.com.br/perfil/daniella-marques/",
+          "title": "Nova presidente da Caixa, Daniella Marques é auxiliar de confiança de Paulo Guedes",
+          "website": "InfoMoney",
+          "language": "pt",
+          "accessdate": "7 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://economia.uol.com.br/noticias/redacao/2022/06/29/presidente-da-caixa-se-diz-antissocialista-e-ja-brigou-com-maria-do-rosario.htm",
+          "title": "Presidente da Caixa se diz antissocialista e já brigou com Maria do Rosário",
+          "website": "UOL Economia",
+          "language": "pt",
+          "date": "29 June 2022",
+          "accessdate": "7 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Brito",
+          "first": "Ricardo",
+          "last2": "Caram",
+          "first2": "Bernardo",
+          "date": "2022-06-29",
+          "title": "Brazil's Caixa CEO, close Bolsonaro ally, resigns over sexual harassment scandal",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/business/brazils-caixa-ceo-close-bolsonaro-ally-depart-amid-harassment-probe-sources-say-2022-06-29/",
+          "access-date": "2022-07-07",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.cnnbrasil.com.br/business/saiba-quem-e-daniella-marques-a-nova-presidente-da-caixa-economica-federal/",
+          "title": "Saiba quem é Daniella Marques, a nova presidente da Caixa Econômica Federal",
+          "website": "CNN Brasil",
+          "language": "pt",
+          "first": "João Pedro",
+          "last": "Malar",
+          "date": "29 June 2022",
+          "accessdate": "7 July 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "brazil-economist-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "title": "Carlos Brandão",
+  "pageID": 49282579,
+  "categories": [
+    "Living people",
+    "1958 births",
+    "Brazilian Democratic Movement politicians",
+    "People from Maranhão",
+    "Members of the Chamber of Deputies (Brazil) from Maranhão",
+    "Republicans (Brazil) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Orleans Brandão Júnior (born June 2, 1958 in Colinas) is a Brazilian politician.",
+              "formatting": {
+                "bold": [
+                  "Carlos Orleans Brandão Júnior"
+                ]
+              }
+            },
+            {
+              "text": "He became the vice-governor of Maranhão on January 1, 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maranhão"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2019",
+          "template": "use mdy dates"
+        },
+        {
+          "year": "1958",
+          "month": "6",
+          "day": "2",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Brandão"
+          },
+          "office": {
+            "text": "Vice Governor of Maranhão",
+            "links": [
+              {
+                "text": "Vice Governor of Maranhão",
+                "type": "internal",
+                "page": "List of current state governors in Brazil"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 1, 2015"
+          },
+          "predecessor": {
+            "text": "Arnaldo Melo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arnaldo Melo"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Flávio Dino",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Flávio Dino"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Federal Deputy for Maranhão",
+            "links": [
+              {
+                "text": "Federal Deputy",
+                "type": "internal",
+                "page": "Chamber of Deputies of Brazil"
+              },
+              {
+                "type": "internal",
+                "page": "Maranhão"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "February 1, 2007"
+          },
+          "term_end2": {
+            "text": "January 1, 2015"
+          },
+          "birth_date": {
+            "text": "June 2, 1958"
+          },
+          "birth_place": {
+            "text": "Colinas, Maranhão, Brazil",
+            "links": [
+              {
+                "text": "Colinas",
+                "type": "internal",
+                "page": "Colinas, Maranhão"
+              },
+              {
+                "type": "internal",
+                "page": "Maranhão"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Carlos Orleans Brandão Júnior"
+          },
+          "party": {
+            "text": "PFL (1990–2006) PSDB (2006–2017) Republicanos (2017–present)",
+            "links": [
+              {
+                "text": "PFL",
+                "type": "internal",
+                "page": "Democrats (Brazil)"
+              },
+              {
+                "text": "PSDB",
+                "type": "internal",
+                "page": "Brazilian Social Democracy Party"
+              },
+              {
+                "type": "internal",
+                "page": "Republicanos"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "profession": {
+            "text": "Businessman"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.folhadobico.com.br/01/2016/vice-governador-carlos-brandao-assume-interinamente-o-governo-do-ma.php",
+          "title": "Vice-governador Carlos Brandão assume interinamente o Governo do MA",
+          "trans-title": "Deputy Governor Carlos Brandão temporarily assumes the government of MA",
+          "work": "Folha do Bico",
+          "date": "January 5, 2016",
+          "access-date": "February 2, 2016",
+          "archive-url": "https://web.archive.org/web/20160202132332/http://www.folhadobico.com.br/01/2016/vice-governador-carlos-brandao-assume-interinamente-o-governo-do-ma.php",
+          "archive-date": "February 2, 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "brazil-politician-stub"
+        }
+      ]
+    }
+  ]
+}

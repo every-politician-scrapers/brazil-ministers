@@ -1,0 +1,388 @@
+{
+  "title": "Adolfo Sachsida",
+  "pageID": 71197468,
+  "categories": [
+    "Living people",
+    "1972 births",
+    "21st-century Brazilian lawyers",
+    "Brazilian economists",
+    "Government ministers of Brazil",
+    "21st-century Brazilian politicians",
+    "University of Brasília alumni",
+    "University of Alabama alumni",
+    "People from Londrina"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Adolfo Sachsida (born 4 October 1972) is a Brazilian lawyer and economist.",
+              "formatting": {
+                "bold": [
+                  "Adolfo Sachsida"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He composed the economics team of Jair Bolsonaro until May 11, 2022, when he was appointed Minister of Mining and Energy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "text": "Minister of Mining and Energy",
+                  "type": "internal",
+                  "page": "Ministry of Mines and Energy (Brazil)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1972",
+          "month": "10",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Adolfo Sachsida"
+          },
+          "image": {
+            "text": "Adolfo Sachsida em 24 de julho de 2019 (2).jpg"
+          },
+          "office": {
+            "text": "Minister of Mines and Energy",
+            "links": [
+              {
+                "text": "Minister of Mines and Energy",
+                "type": "internal",
+                "page": "Ministry of Mines and Energy (Brazil)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 May 2022"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Bento Costa Lima",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bento Costa Lima"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chief of Special Advisory for Strategic Affairs of the Ministry of the Economy",
+            "links": [
+              {
+                "text": "Ministry of the Economy",
+                "type": "internal",
+                "page": "Ministry of the Economy (Brazil)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 February 2022"
+          },
+          "term_end1": {
+            "text": "11 May 2022"
+          },
+          "minister1": {
+            "text": "Paulo Guedes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulo Guedes"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Daniella Marques"
+          },
+          "successor1": {
+            "text": "Rogério Boueri"
+          },
+          "office2": {
+            "text": "Secretary of Economic Policies"
+          },
+          "term_start2": {
+            "text": "1 January 2019"
+          },
+          "term_end2": {
+            "text": "1 February 2022"
+          },
+          "minister2": {
+            "text": "Paulo Guedes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulo Guedes"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Pedro Calhman de Miranda"
+          },
+          "birth_date": {
+            "text": "October 4, 1972"
+          },
+          "birth_place": {
+            "text": "Londrina, Paraná, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Londrina"
+              },
+              {
+                "text": "Paraná",
+                "type": "internal",
+                "page": "Paraná (state)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "State University of Londrina (BSc)\n\nCentro Universitário de Brasília (LL.B.)\n\nUniversity of Brasília (MEc, D.S.)\n\nUniversity of Alabama (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State University of Londrina"
+              },
+              {
+                "text": "BSc",
+                "type": "internal",
+                "page": "Bachelor of Economics"
+              },
+              {
+                "type": "internal",
+                "page": "Centro Universitário de Brasília"
+              },
+              {
+                "text": "LL.B.",
+                "type": "internal",
+                "page": "Bachelor of Laws"
+              },
+              {
+                "type": "internal",
+                "page": "University of Brasília"
+              },
+              {
+                "text": "MEc",
+                "type": "internal",
+                "page": "Master of Economics"
+              },
+              {
+                "text": "D.S.",
+                "type": "internal",
+                "page": "Doctor of Science"
+              },
+              {
+                "type": "internal",
+                "page": "University of Alabama"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Economist, lawyer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Quem é Adolfo Sachsida, nomeado para o Ministério de Minas e Energia no lugar de Bento Albuquerque",
+          "url": "https://g1.globo.com/politica/noticia/2022/05/11/adolfo-sachsida-ministerio-de-minas-e-energia.ghtml",
+          "access-date": "2022-06-30",
+          "website": "G1",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Adolfo Sachsida é nomeado chefe da Assessoria Especial de Assuntos Estratégicos do Ministério da Economia",
+          "url": "https://www.gov.br/economia/pt-br/canais_atendimento/imprensa/notas-a-imprensa/2022/fevereiro/adolfo-sachsida-e-nomeado-chefe-da-assessoria-especial-de-assuntos-estrategicos-do-ministerio-da-economia",
+          "access-date": "2022-06-30",
+          "website": "Ministério da Economia",
+          "language": "pt-br",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life and academic background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Londrina, in the north of Paraná, he graduated in Economics from the State University of Londrina (UEL) in 1994, and in 2015 graduated in Law from the Unified Education Center of Brasília (CEUB).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Londrina"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He holds a Master's and PhD in Economics from the University of Brasilia (UnB) and a postdoctoral degree from the University of Alabama in the United States.",
+              "links": [
+                {
+                  "text": "University of Brasilia",
+                  "type": "internal",
+                  "page": "University of Brasília"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Alabama"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "ASachsida",
+          "template": "twitter"
+        },
+        {
+          "id": "adolfo.sak",
+          "template": "facebook"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "reason": "Office established",
+          "template": "s-non"
+        },
+        {
+          "title": "Secretary of Economic Policies",
+          "years": "2019–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Pedro Calhman de Miranda",
+          "template": "s-aft"
+        },
+        {
+          "before": "Daniella Marques",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chief of Special Advisory for Strategic Affairs of the Ministry of the Economy",
+          "years": "2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Rogério Boueri",
+          "template": "s-aft"
+        },
+        {
+          "before": "Bento Costa Lima",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Mines and Energy",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "YouTube",
+            "links": [
+              {
+                "text": "YouTube",
+                "type": "external",
+                "site": "https://www.youtube.com/c/AdolfoSachsida"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "YouTube",
+            "links": [
+              {
+                "text": "YouTube",
+                "type": "external",
+                "site": "https://www.youtube.com/c/AdolfoSachsida"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "YouTube",
+            "links": [
+              {
+                "text": "YouTube",
+                "type": "external",
+                "site": "https://www.youtube.com/c/AdolfoSachsida"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "title": "Augusto Heleno",
+  "pageID": 58952023,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "Brazilian generals",
+    "United Nations military personnel",
+    "Politicians from Curitiba",
+    "Brazilian politicians convicted of corruption",
+    "Government ministers of Brazil"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Augusto Heleno Ribeiro Pereira (born 29 October 1947) is a Brazilian politician and retired General of the Brazilian Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazilian Army"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Augusto Heleno Ribeiro Pereira"
+                ]
+              }
+            },
+            {
+              "text": "He was military commander of the Amazon and Chief of the Department of Science and Technology of the Army."
+            },
+            {
+              "text": "Heleno has declared positions against official politics, particularly about the attitude of the international community in regards to Haiti and the indigenous politics of the Brazilian government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haiti"
+                },
+                {
+                  "text": "Brazilian government",
+                  "type": "internal",
+                  "page": "Politics of Brazil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During Jair Bolsonaro presidential campaign, the candidate invited Heleno as his running mate in the election, but his party refused.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                },
+                {
+                  "text": "presidential campaign",
+                  "type": "internal",
+                  "page": "Jair Bolsonaro presidential campaign, 2018"
+                }
+              ]
+            },
+            {
+              "text": "The general was then invited for Minister of Defence of Bolsonaro's government."
+            },
+            {
+              "text": "However, the nominated minister stepped back and was chosen for the Institutional Security Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Institutional Security Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "first": "Ribeiro",
+          "second": "Pereira",
+          "template": "portuguese name"
+        },
+        {
+          "year": "1947",
+          "month": "10",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (Brazil)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Augusto Heleno"
+          },
+          "image": {
+            "text": "Augusto Heleno (cropped).jpg"
+          },
+          "office": {
+            "text": "Secretary of Institutional Security",
+            "links": [
+              {
+                "text": "Secretary of Institutional Security",
+                "type": "internal",
+                "page": "Institutional Security Office of Brazil"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "president": {
+            "text": "Jair Bolsonaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jair Bolsonaro"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sérgio Etchegoyen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sérgio Etchegoyen"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Commander of MINUSTAH",
+            "links": [
+              {
+                "text": "MINUSTAH",
+                "type": "internal",
+                "page": "United Nations Stabilisation Mission in Haiti"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 2004"
+          },
+          "term_end1": {
+            "text": "August 2005"
+          },
+          "1blankname1": {
+            "text": "Head"
+          },
+          "1namedata1": {
+            "text": "Juan Gabriel Valdés",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Gabriel Valdés"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Urano Teixeira da Matta Bacellar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Urano Teixeira da Matta Bacellar"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Augusto Heleno Ribeiro Pereira"
+          },
+          "birth_date": {
+            "text": "October 29, 1947"
+          },
+          "birth_place": {
+            "text": "Curitiba, Paraná, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Curitiba"
+              },
+              {
+                "text": "Paraná",
+                "type": "internal",
+                "page": "Paraná (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "PRP (2018)",
+            "links": [
+              {
+                "text": "PRP",
+                "type": "internal",
+                "page": "Progressive Republican Party (Brazil)"
+              }
+            ]
+          },
+          "mother": {
+            "text": "Edina Ribeiro"
+          },
+          "father": {
+            "text": "Ari de Oliveira Pereira"
+          },
+          "spouse": {
+            "text": "Sônia Pereira"
+          },
+          "children": {
+            "text": "Renata Mário Márcio"
+          },
+          "occupation": {
+            "text": "Military"
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "🇧🇷",
+                "type": "internal",
+                "page": "brazil"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Brazilian Army.svg Brazilian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Army"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1966–2011"
+          },
+          "rank": {
+            "text": "General do Exército.gif General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General (Brazil)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Preparatory School for Army Cadets 5th Armored Cavalry Brigade Army Physical Capacity Center United Nations Stabilisation Mission in Haiti Amazon Military Command Department of Science and Technology",
+            "links": [
+              {
+                "text": "Preparatory School for Army Cadets",
+                "type": "internal",
+                "page": "Escola Preparatória de Cadetes do Exército"
+              },
+              {
+                "type": "internal",
+                "page": "United Nations Stabilisation Mission in Haiti"
+              },
+              {
+                "type": "internal",
+                "page": "Amazon Military Command"
+              }
+            ]
+          },
+          "mawards": {
+            "text": "Marshal Hermes Medal"
+          },
+          "signature": {
+            "text": "Augusto Heleno signature.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.com/portuguese/brasil-46017462",
+          "title": "Bolsonaro presidente: Quem são os 4 nomes apontados como prováveis ministros",
+          "publisher": "BBC Brasil",
+          "language": "pt",
+          "date": "29 October 2018",
+          "accessdate": "3 November 2018",
+          "newspaper": "BBC News Brasil",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/07/general-afirma-que-nao-sera-vice-de-bolsonaro.shtml",
+          "title": "General Augusto Heleno afirma que não será vice de Bolsonaro",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "first": "Talita",
+          "last": "Fernandes",
+          "date": "18 July 2018",
+          "accessdate": "3 November 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Military career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Heleno graduated as Aspirant of cavalry in 1969, at the Military Academy of Agulhas Negras, placing first in his cavalry class.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aspirant"
+                },
+                {
+                  "text": "Military Academy of Agulhas Negras",
+                  "type": "internal",
+                  "page": "Academia Militar das Agulhas Negras"
+                }
+              ]
+            },
+            {
+              "text": "He was also the first in the cavalry class in the Officials Improvement School (EsAO) and Army Command and Staff School (ECEME), receiving the silver Marshal Hermes medal with three crowns.",
+              "links": [
+                {
+                  "text": "Army Command and Staff School",
+                  "type": "internal",
+                  "page": "Escola de Comando e Estado-Maior do Exército"
+                }
+              ]
+            },
+            {
+              "text": "As Major, Heleno joined the Brazilian mission of instruction in Paraguay.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Major"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paraguay"
+                }
+              ]
+            },
+            {
+              "text": "As Colonel, he commanded the Preparatory School for Army Cadets (EsPCEx) in Campinas and was military attaché in the Brazilian Embassy in Paris, also accredited in Brussels.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Colonel"
+                },
+                {
+                  "text": "Preparatory School for Army Cadets",
+                  "type": "internal",
+                  "page": "Escola Preparatória de Cadetes do Exército"
+                },
+                {
+                  "text": "military attaché",
+                  "type": "internal",
+                  "page": "military attaché"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paris"
+                }
+              ]
+            },
+            {
+              "text": "As Official General, Heleno was commander of the 5th Armored Cavalry Brigade and of the Army Physical Capacitation Center, chief of the Army Social Communication Center and of the Chief of Staff of the Army Commander."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From June 2004 to September 2005, he was the first military commander of the United Nations Stabilisation Mission in Haiti (MINUSTAH), made up of 6,250 Blue Helmets from 13 countries, of which 7 were Latin Americans.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations Stabilisation Mission in Haiti"
+                },
+                {
+                  "text": "Blue Helmets",
+                  "type": "internal",
+                  "page": "United Nations peacekeeping"
+                }
+              ]
+            },
+            {
+              "text": "During his time in Haiti he was known for leading a United Nations armed assault on Cité Soleil that killed dozens of people including Dread Wilme.",
+              "links": [
+                {
+                  "text": "a United Nations armed assault on Cité Soleil",
+                  "type": "internal",
+                  "page": "2005 July 6 United Nations assault on Cité Soleil, Haiti",
+                  "anchor": "6 July 2005 incident"
+                },
+                {
+                  "text": "Dread Wilme",
+                  "type": "internal",
+                  "page": "Emmanuel Wilmer"
+                }
+              ]
+            },
+            {
+              "text": "Similarly to Chilean ambassador Juan Gabriel Valdés, special representative of the Secretary-General of the United Nations and chief of the mission, and of the Latin American governments, General Heleno expressed his disapproval at the strategy adopted by the international community about Haiti.",
+              "links": [
+                {
+                  "text": "Chilean",
+                  "type": "internal",
+                  "page": "Chile"
+                },
+                {
+                  "type": "internal",
+                  "page": "Juan Gabriel Valdés"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary-General of the United Nations"
+                }
+              ]
+            },
+            {
+              "text": "He was succeeded in the MINUSTAH command by General Urano Teixeira da Mata Bacelar, who committed suicide in Port-au-Prince, four months later, in January 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Port-au-Prince"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As military commander of the Amazon, General Heleno contested the indigenous politics of the government of president Luiz Inácio Lula da Silva, who characterized the policies as \"unfortunate, if not chaotic\" during a speech in the Military Club in Rio de Janeiro, at the time of the demarcation of the indigenous land of Raposa/Serra do Sol.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Luiz Inácio Lula da Silva"
+                },
+                {
+                  "text": "Raposa/Serra do Sol",
+                  "type": "internal",
+                  "page": "Raposa Serra do Sol"
+                }
+              ]
+            },
+            {
+              "text": "He stated that the indigenous \"gravitate around our squads because they are completely abandoned\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His last occupation in the active service was as chief of the Department of Science and Technology."
+            },
+            {
+              "text": "On 9 May 2011, in a ceremony in the Army Headquarters in Brasília, Heleno retired and defended the 1964 military regime, after 45 years of military life.",
+              "links": [
+                {
+                  "text": "1964 military regime",
+                  "type": "internal",
+                  "page": "1964 Brazilian coup d'état"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Army Physical Capacitation Center",
+          "lan1": "pt",
+          "text1": "Centro de Capacitação Física do Exército e Fortaleza de São João",
+          "template": "ill"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www1.folha.uol.com.br/fsp/opiniao/fz1109200508.htm",
+          "title": "Haiti: um grande desafio",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "first": "Augusto Heleno",
+          "last": "Ribeiro Pereira",
+          "date": "11 September 2005",
+          "accessdate": "3 November 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2008/04/393029-politica-indigenista-e-lamentavel-e-caotica-diz-general.shtml",
+          "title": "Política indigenista é lamentável e caótica, diz general",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "first": "Italo",
+          "last": "Nogueira",
+          "date": "17 April 2008",
+          "accessdate": "3 November 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2011/05/913533-general-heleno-volta-a-defender-golpe-de-64-ao-passar-para-reserva.shtml",
+          "title": "General Heleno volta a defender golpe de 64 ao passar para reserva",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "date": "10 May 2011",
+          "accessdate": "3 November 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/article/us-brazil-violence-insight/general-behind-deadly-haiti-raid-takes-aim-at-brazils-gangs-idUSKCN1NY0GM",
+          "title": "General behind deadly Haiti raid takes aim at Brazil's gangs",
+          "work": "www.reuters.com",
+          "author": "Gabriel Stargardter",
+          "date": "November 29, 2018",
+          "accessdate": "November 29, 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Life after retirement",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "General Heleno acted as security and military issues consultant of the Grupo Bandeirantes, where he collaborated being a commentator in the broadcasters' schedule.",
+              "links": [
+                {
+                  "text": "Grupo Bandeirantes",
+                  "type": "internal",
+                  "page": "Grupo Bandeirantes de Comunicação"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Heleno was also Communication and Corporative Education director of the Brazilian Olympic Committee (COB).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brazilian Olympic Committee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2013, he was convicted of authorizing illegal grants."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 18 July 2018, there was a rumor that General Heleno would be nominated as candidate for vice presidency of Brazil, along with Deputy Jair Bolsonaro's coalition.",
+              "links": [
+                {
+                  "text": "vice presidency of Brazil",
+                  "type": "internal",
+                  "page": "Vice President of Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jair Bolsonaro"
+                }
+              ]
+            },
+            {
+              "text": "However, he denied the candidacy for not being of his party interest, but kept supporting Bolsonaro's candidacy for President of Brazil and was subsequently invited for the Ministry of Defence.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Brazil"
+                },
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Brazil)"
+                }
+              ]
+            },
+            {
+              "text": "However, ten days later it was confirmed that Bolsonaro had chosen him to run the Institutional Security Office of the Presidency of the Republic.",
+              "links": [
+                {
+                  "text": "Institutional Security Office",
+                  "type": "internal",
+                  "page": "Institutional Security Office of Brazil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is the son of Ari de Oliveira Pereira and Edina Ribeiro Pereira, is married to Sônia Pereira and had two children: Renata and Mário Márcio."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 18 March 2020, Heleno tested positive for COVID-19.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www1.folha.uol.com.br/esporte/2015/07/1656514-alem-de-atletas-militares-cob-tem-general-que-liderou-missao-no-haiti.shtml",
+          "title": "Além de atletas-militares, COB tem general que liderou missão no Haiti",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "first": "Marcel",
+          "last": "Merguizo",
+          "date": "16 July 2015",
+          "accessdate": "3 November 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://theintercept.com/2018/12/09/brazil-jair-bolsonaro-cabinet/",
+          "title": "The Corruption Cabinet: Jair Bolsonaro Promised to End Corruption in Brazil — Then He Appointed an Extremely Corrupt Cabinet",
+          "first": "Bruna de",
+          "last": "Lara",
+          "date": "Dec 9, 2018",
+          "accessdate": "Aug 13, 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/07/sem-coligacao-forte-bolsonaro-vai-anunciar-general-como-vice-e-tera-12-segundos-na-tv.shtml",
+          "title": "Bolsonaro desiste de aliança e Ciro faz ofensiva para acordo com PR",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "first1": "Marina",
+          "last1": "Dias",
+          "first2": "Daniel",
+          "last2": "Carvalho",
+          "date": "17 July 2018",
+          "accessdate": "3 November 2018",
+          "url-access": "limited",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/07/ex-chefe-militar-no-haiti-provavel-vice-de-bolsonaro-defendeu-mandados-coletivos-no-rio.shtml",
+          "title": "Ex-chefe militar no Haiti, provável vice de Bolsonaro defendeu mandados coletivos no Rio",
+          "publisher": "Folha de S. Paulo",
+          "language": "pt",
+          "date": "17 July 2018",
+          "accessdate": "3 November 2018",
+          "url-access": "limited",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.terra.com.br/noticias/eleicoes/bolsonaro-confirma-quatro-ministros-para-seu-governo,19a173d0744482dd9ee3d2fea90739b2ruqg0g7z.html",
+          "title": "Bolsonaro confirma astronauta e mais 3 ministros do governo",
+          "work": "Terra",
+          "access-date": "2018-12-04",
+          "language": "pt-BR",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.google.com/search?client=firefox-b-d&q=augusto+heleno",
+          "title": "Ministro Augusto Heleno diz que seu exame deu positivo para coronavírus",
+          "publisher": "G1",
+          "language": "pt",
+          "first": "Guilherme",
+          "last": "Mazui",
+          "date": "18 March 2020",
+          "accessdate": "18 March 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-mil"
+        },
+        {
+          "before": "Sérgio Etchegoyen",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of Institutional Security",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Francisco Ronald da Silva Nogueira",
+          "template": "s-bef"
+        },
+        {
+          "title": "Commander of EsPCEx",
+          "years": "1994–1996",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Mário de Oliveira Seixas",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "reason": "Office created",
+          "template": "s-non"
+        },
+        {
+          "title": "Commander of MINUSTAH",
+          "years": "2004–2005",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Urano Teixeira da Matta Bacellar",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-prec"
+        },
+        {
+          "before": "Ministers of State",
+          "template": "s-bef"
+        },
+        {
+          "title": "Brazilian order of precedence 11th in line as Head of the Military Cabinet",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ciro Nogueira as Chief of Staff",
+          "template": "s-fol"
+        },
+        {
+          "template": "bolsonaro cabinet"
+        },
+        {
+          "template": "brazilian armed forces"
+        }
+      ]
+    }
+  ]
+}

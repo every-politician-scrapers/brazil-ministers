@@ -1,0 +1,200 @@
+{
+  "title": "Wilson Lima",
+  "pageID": 59007948,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "Governors of Amazonas (Brazilian state)",
+    "People from Pará",
+    "Social Christian Party (Brazil) politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wilson Miranda Lima (born 26 June 1976) is a Brazilian politician, journalist and the Governor of the state of Amazonas.",
+              "links": [
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "List of Governors of Amazonas"
+                },
+                {
+                  "text": "Amazonas",
+                  "type": "internal",
+                  "page": "Amazonas (Brazilian state)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wilson Miranda Lima"
+                ]
+              }
+            },
+            {
+              "text": "Lima won the 2018 election with 58% of the vote, defeating PDT incumbent Amazonino Mendes.",
+              "links": [
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 Brazilian gubernatorial elections"
+                },
+                {
+                  "text": "PDT",
+                  "type": "internal",
+                  "page": "Democratic Labor Party (Brazil)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Amazonino Mendes"
+                }
+              ]
+            },
+            {
+              "text": "A member of PSC, Lima assumed office on 1 January 2019.",
+              "links": [
+                {
+                  "text": "PSC",
+                  "type": "internal",
+                  "page": "Social Christian Party (Brazil)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician and journalist",
+          "template": "short description"
+        },
+        {
+          "year": "1976",
+          "month": "6",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Wilson Lima GOV Amazonas (cropped).jpg"
+          },
+          "office": {
+            "text": "49th Governor of Amazonas",
+            "links": [
+              {
+                "text": "49th Governor of Amazonas",
+                "type": "internal",
+                "page": "List of Governors of Amazonas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "vicegovernor": {
+            "text": "Carlos Almeida"
+          },
+          "predecessor": {
+            "text": "Amazonino Mendes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amazonino Mendes"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Wilson Miranda Lima"
+          },
+          "birth_date": {
+            "text": "June 26, 1976"
+          },
+          "birth_place": {
+            "text": "Santarém, Pará, Brazil",
+            "links": [
+              {
+                "text": "Santarém",
+                "type": "internal",
+                "page": "Santarém, Pará"
+              },
+              {
+                "type": "internal",
+                "page": "Pará"
+              }
+            ]
+          },
+          "party": {
+            "text": "Social Christian Party",
+            "links": [
+              {
+                "text": "Social Christian Party",
+                "type": "internal",
+                "page": "Social Christian Party (Brazil)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Taiana Lima"
+          },
+          "occupation": {
+            "text": "Journalist"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://g1.globo.com/am/amazonas/eleicoes/2018/noticia/2018/10/28/wilson-lima-psc-e-eleito-governador-do-am-com-5981-dos-votos.ghtml",
+          "title": "Wilson Lima (PSC) é eleito governador do AM com 58,50% dos votos &#124; Eleições 2018 no Amazonas",
+          "website": "G1",
+          "date": "9 November 2018",
+          "access-date": "9 November 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Amazonino Mendes",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Amazonas",
+          "years": "2019&ndash;present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "brazilgovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "brazil-politician-stub"
+        }
+      ]
+    }
+  ]
+}

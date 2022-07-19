@@ -1,0 +1,219 @@
+{
+  "title": "Carlos Moisés",
+  "pageID": 58967480,
+  "categories": [
+    "1967 births",
+    "People from Florianópolis",
+    "Living people",
+    "Social Liberal Party (Brazil) politicians",
+    "Governors of Santa Catarina (state)",
+    "Brazilian firefighters"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carlos Moisés da Silva (born 17 August 1967), known as Comandante Moisés (Commander Moisés), is a Brazilian politician who is the governor of Santa Catarina, having won the 2018 election in the state of Santa Catarina.",
+              "links": [
+                {
+                  "text": "Santa Catarina",
+                  "type": "internal",
+                  "page": "Santa Catarina (state)"
+                },
+                {
+                  "text": "2018 election",
+                  "type": "internal",
+                  "page": "2018 Brazilian gubernatorial elections"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carlos Moisés da Silva",
+                  "Comandante Moisés"
+                ],
+                "italic": [
+                  "Commander Moisés"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1967",
+          "month": "8",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Carlos Moisés"
+          },
+          "image": {
+            "text": "Governador do Estado, Comandante Carlos Moisés.jpeg"
+          },
+          "office": {
+            "text": "Governor of Santa Catarina",
+            "links": [
+              {
+                "text": "Santa Catarina",
+                "type": "internal",
+                "page": "Santa Catarina (state)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "vicegovernor": {
+            "text": "Daniela Reinehr"
+          },
+          "predecessor": {
+            "text": "Eduardo Pinho Moreira"
+          },
+          "birth_name": {
+            "text": "Carlos Moisés da Silva"
+          },
+          "birth_date": {
+            "text": "August 17, 1967"
+          },
+          "birth_place": {
+            "text": "Florianópolis, Santa Catarina, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Florianópolis"
+              },
+              {
+                "text": "Santa Catarina",
+                "type": "internal",
+                "page": "Santa Catarina (state)"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent (2021–present)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PSL (2018–21)",
+            "links": [
+              {
+                "text": "PSL",
+                "type": "internal",
+                "page": "Social Liberal Party (Brazil)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of the South of Santa Catarina (UNISUL)"
+          },
+          "occupation": {
+            "text": "Military firefighter"
+          },
+          "signature": {
+            "text": "Carlos Moisés de Santa Catarina.jpg"
+          },
+          "allegiance": {
+            "text": "🇧🇷 Brazil",
+            "links": [
+              {
+                "text": "Brazil",
+                "type": "internal",
+                "page": "brazil"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Corpo de Bombeiros Militares.PNG Military Firefighters Corps",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Military Firefighters Corps"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Coronel.PNG Colonel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colonel"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1987–2016"
+          },
+          "mawards": {
+            "text": "Medalha do Pacificador.png Medal of the Pacifier"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www1.folha.uol.com.br/poder/2018/10/comandante-moises-e-eleito-governador-em-sc-projeta-datafolha.shtml",
+          "title": "Estreante na política, Comandante Moisés é eleito governador em SC",
+          "date": "28 October 2018",
+          "work": "Folha de S.Paulo",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Eduardo Pinho Moreira",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Santa Catarina",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "brazilgovernors"
+        },
+        {
+          "template": "santacatarinagovs"
+        },
+        {
+          "template": "brazil-politician-stub"
+        }
+      ]
+    }
+  ]
+}

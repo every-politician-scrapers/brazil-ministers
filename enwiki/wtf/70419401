@@ -1,0 +1,494 @@
+{
+  "title": "Ranolfo Vieira Júnior",
+  "pageID": 70419401,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "People from Rio Grande do Sul",
+    "Brazilian Social Democracy Party politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ranolfo Vieira Júnior (born 7 April 1966 in Esteio) is a Brazilian civil police officer and politician, member of the Brazilian Social Democracy Party (PSDB).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Esteio"
+                },
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazilian Social Democracy Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ranolfo Vieira Júnior"
+                ]
+              }
+            },
+            {
+              "text": "He was elect Vice Governor of Rio Grande do Sul in the 2018 state elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rio Grande do Sul"
+                }
+              ]
+            },
+            {
+              "text": "Under Eduardo Leite governorship, Vieira also was nominated State Secretary of Public Security.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eduardo Leite"
+                }
+              ]
+            },
+            {
+              "text": "After Leite's resignation in March 2022, Vieira will become the next Governor of Rio Grande do Sul."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1966",
+          "month": "4",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ranolfo Vieira Júnior"
+          },
+          "image": {
+            "text": "Ranolfo Vieira Júnior (cropped).jpg"
+          },
+          "office": {
+            "text": "Governor of Rio Grande do Sul",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "Governor of Rio Grande do Sul"
+              },
+              {
+                "type": "internal",
+                "page": "Rio Grande do Sul"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 March 2022"
+          },
+          "vicegovernor": {
+            "text": "None",
+            "formatting": {
+              "italic": [
+                "None"
+              ]
+            }
+          },
+          "predecessor": {
+            "text": "Eduardo Leite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduardo Leite"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice Governor of Rio Grande do Sul",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rio Grande do Sul"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2019"
+          },
+          "term_end1": {
+            "text": "31 March 2022"
+          },
+          "governor1": {
+            "text": "Eduardo Leite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduardo Leite"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "José Paulo Cairoli"
+          },
+          "office2": {
+            "text": "State Secretary of Public Security of Rio Grande do Sul",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rio Grande do Sul"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 January 2019"
+          },
+          "term_end2": {
+            "text": "31 March 2022"
+          },
+          "governor2": {
+            "text": "Eduardo Leite",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eduardo Leite"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Cezar Schirmer"
+          },
+          "birth_date": {
+            "text": "April 7, 1966"
+          },
+          "birth_place": {
+            "text": "Esteio, Rio Grande do Sul, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Esteio"
+              },
+              {
+                "type": "internal",
+                "page": "Rio Grande do Sul"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSDB (2021–present)",
+            "links": [
+              {
+                "text": "PSDB",
+                "type": "internal",
+                "page": "Brazilian Social Democracy Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "PTB (2013–21)",
+            "links": [
+              {
+                "text": "PTB",
+                "type": "internal",
+                "page": "Brazilian Labour Party (current)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Sinos River Valley (LL.B.)",
+            "links": [
+              {
+                "text": "University of Sinos River Valley",
+                "type": "internal",
+                "page": "Unisinos"
+              },
+              {
+                "text": "LL.B.",
+                "type": "internal",
+                "page": "Bachelor of Laws"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Police officer and politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.poder360.com.br/eleicoes/vice-de-eduardo-leite-filia-se-ao-psdb-na-proxima-semana/",
+          "title": "Vice de Eduardo Leite filia-se ao PSDB na próxima semana",
+          "website": "Poder360",
+          "language": "pt",
+          "date": "21 September 2021",
+          "accessdate": "28 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://gauchazh.clicrbs.com.br/politica/noticia/2018/12/quem-sao-os-secretarios-do-governo-eduardo-leite-cjpj1sw9i0kek01pifaa7pldn.html",
+          "title": "Quem são os secretários do governo Eduardo Leite",
+          "website": "GaúchaZH",
+          "language": "pt",
+          "date": "10 December 2018",
+          "accessdate": "28 March 2022",
+          "url-access": "registration",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.correiodopovo.com.br/notícias/política/eduardo-leite-renuncia-ao-governo-do-rio-grande-do-sul-1.796118",
+          "title": "Eduardo Leite renuncia ao governo do Rio Grande do Sul",
+          "website": "Correio do Povo",
+          "language": "pt",
+          "date": "28 March 2022",
+          "accessdate": "28 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.correiodopovo.com.br/notícias/política/quem-é-ranolfo-vieira-júnior-vice-que-vai-assumir-o-governo-do-rs-1.796142",
+          "title": "Quem é Ranolfo Vieira Júnior, vice que vai assumir o governo do RS",
+          "website": "Correio do Povo",
+          "language": "pt",
+          "date": "28 March 2022",
+          "accessdate": "28 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bachelor of Laws by University of Sinos River Valley, post-graduated in the superior class of Police Officers Formation by the Civil Police Academy of Rio Grande do Sul (Acadepol).",
+              "links": [
+                {
+                  "text": "University of Sinos River Valley",
+                  "type": "internal",
+                  "page": "Unisinos"
+                }
+              ]
+            },
+            {
+              "text": "Joined the Civil Police in 1998, as officer in Rio Grande.",
+              "links": [
+                {
+                  "text": "Civil Police",
+                  "type": "internal",
+                  "page": "Civil Police (Brazil)"
+                },
+                {
+                  "text": "Rio Grande",
+                  "type": "internal",
+                  "page": "Rio Grande, Rio Grande do Sul"
+                }
+              ]
+            },
+            {
+              "text": "He headed the State Department of Criminal Investigations (DEIC) for 6 years, he was Municipal Secretary of Security of Canoas, head of the Civil Police during Tarso Genro governorship and ran for State Deputy in 2014, unsuccessfully.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Canoas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tarso Genro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vieira presided the National Council of Civil Police Chiefs and was licensed professor of the Lutheran University of Brazil for 14 years and the Acadepol for 10 years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lutheran University of Brazil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2017, he was announced as pre-candidate for Governor of Rio Grande do Sul for the Brazilian Labour Party (PTB).",
+              "links": [
+                {
+                  "text": "Brazilian Labour Party",
+                  "type": "internal",
+                  "page": "Brazilian Labour Party (current)"
+                }
+              ]
+            },
+            {
+              "text": "However, due to a coalition made by his party with the Brazilian Social Democracy Party (PSDB), he was nominated for running mate of Eduardo Leite.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brazilian Social Democracy Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eduardo Leite"
+                }
+              ]
+            },
+            {
+              "text": "Upset with homophobic speeches made by the PTB national president, Roberto Jefferson, towards Leite, Vieira Júnior moved to PSDB.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Roberto Jefferson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 28 March 2022, Leite announced his resignation as Governor, scheduling Ranolfo's swear in as Governor for 31 March."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.jornaldocomercio.com/site/noticia.php?codn=49667",
+          "title": "Tarso escolhe Ranolfo Vieira Júnior para assumir a Polícia Civil",
+          "website": "Jornal do Comércio",
+          "language": "pt",
+          "date": "17 December 2010",
+          "accessdate": "28 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://gauchazh.clicrbs.com.br/politica/eleicoes/noticia/2018/09/quero-contribuir-com-experiencia-participando-da-politica-de-seguranca-diz-ranolfo-vieira-junior-cjmgndq2e05tl01pxqh6mlmfo.html",
+          "title": "'Quero contribuir com experiência, participando da política de segurança', diz Ranolfo Vieira Júnior",
+          "website": "GaúchaZH",
+          "language": "pt",
+          "date": "24 September 2018",
+          "accessdate": "28 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/ptb-rs-lanca-delegado-ranolfo-vieira-junior-como-pre-candidato-a-governador.ghtml",
+          "title": "PTB-RS lança delegado Ranolfo Vieira Júnior como pré-candidato a governador",
+          "website": "G1",
+          "language": "pt",
+          "date": "13 November 2017",
+          "accessdate": "28 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/03/28/ranolfo-vieira-junior-novo-governador-do-rs.ghtml",
+          "title": "Quem é Ranolfo Vieira Júnior, o novo governador do RS com a renúncia de Eduardo Leite",
+          "website": "G1",
+          "language": "pt",
+          "date": "28 March 2022",
+          "accessdate": "29 March 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "DelegadoRanolfo",
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Cezar Schirmer",
+          "template": "s-bef"
+        },
+        {
+          "title": "State Secretary of Public Security of Rio Grande do Sul",
+          "years": "2019–2022",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "before": "José Paulo Cairoli",
+          "template": "s-bef"
+        },
+        {
+          "title": "Vice Governor of Rio Grande do Sul",
+          "years": "2019–2022",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "before": "Eduardo Leite",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Rio Grande do Sul",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "governors of rio grande do sul"
+        },
+        {
+          "template": "brazilgovernors"
+        }
+      ]
+    }
+  ]
+}

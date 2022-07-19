@@ -1,0 +1,249 @@
+{
+  "title": "Renato Casagrande",
+  "pageID": 32863045,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "People from Castelo, Espírito Santo",
+    "Brazilian people of Italian descent",
+    "Brazilian foresters",
+    "Communist Party of Brazil politicians",
+    "Brazilian Democratic Movement politicians",
+    "Brazilian Socialist Party politicians",
+    "Members of the Chamber of Deputies (Brazil) from Espírito Santo",
+    "Members of the Federal Senate (Brazil)",
+    "Governors of Espírito Santo",
+    "Members of the Legislative Assembly of Espírito Santo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jose Renato Casagrande was the Governor of the Brazilian state of Espírito Santo from January 1, 2011, until January 1, 2015.",
+              "links": [
+                {
+                  "text": "Brazilian",
+                  "type": "internal",
+                  "page": "Brazil"
+                },
+                {
+                  "type": "internal",
+                  "page": "Espírito Santo"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jose Renato Casagrande"
+                ]
+              }
+            },
+            {
+              "text": "He was elected to a new term as governor in 2018.",
+              "links": [
+                {
+                  "text": "2018",
+                  "type": "internal",
+                  "page": "2018 Brazilian gubernatorial elections"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Brazilian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1960",
+          "month": "12",
+          "day": "3",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jose Renato Casagrande"
+          },
+          "image": {
+            "text": "Renato Casagrande em janeiro de 2017.jpg"
+          },
+          "office": {
+            "text": "Governor of Espírito Santo",
+            "links": [
+              {
+                "text": "Governor of Espírito Santo",
+                "type": "internal",
+                "page": "List of Governors of Espírito Santo"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 January 2019"
+          },
+          "predecessor": {
+            "text": "Paulo Hartung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulo Hartung"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 January 2011"
+          },
+          "term_end1": {
+            "text": "1 January 2015"
+          },
+          "predecessor1": {
+            "text": "Paulo Hartung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulo Hartung"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Paulo Hartung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paulo Hartung"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 3, 1960"
+          },
+          "birth_place": {
+            "text": "Castelo, Espírito Santo, Brazil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castelo, Espírito Santo"
+              },
+              {
+                "type": "internal",
+                "page": "Brazil"
+              }
+            ]
+          },
+          "party": {
+            "text": "Brazilian Socialist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brazilian Socialist Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Maria Virgínia Moça Casagrande"
+          },
+          "alma_mater": {
+            "text": "Universidade Federal de Viçosa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Universidade Federal de Viçosa"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.es.gov.br/site/governo/governador.aspx",
+          "title": "Governador Renato Casagrande",
+          "publisher": "Governo do Estado do Espírito Santo",
+          "language": "Portuguese",
+          "access-date": "2011-08-25",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20110830164208/http://www.es.gov.br/site/governo/governador.aspx",
+          "archive-date": "2011-08-30",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Forester and lawyer, Casagrande was born in Castelo, Espírito Santo and is the son of Augusto Casagrande and Anna Venturim Casagrande.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Castelo, Espírito Santo"
+                }
+              ]
+            },
+            {
+              "text": "Casagrande is Italian Brazilian.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Italian Brazilian"
+                }
+              ]
+            },
+            {
+              "text": "Casagrande is married to Maria Virgínia, with whom he has two children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020 Casagrande tested positive for COVID-19 along with his wife and mother.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "brazilgovernors"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "brazil-politician-stub"
+        }
+      ]
+    }
+  ]
+}
