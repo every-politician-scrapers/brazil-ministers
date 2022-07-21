@@ -309,6 +309,16 @@
             "text": "2",
             "number": 2
           },
+          "residence": {
+            "text": "Palácio do Jaburu",
+            "links": [
+              {
+                "text": "Palácio do Jaburu",
+                "type": "internal",
+                "page": "Jabiru's Palace"
+              }
+            ]
+          },
           "education": {
             "text": "Agulhas Negras Military Academy",
             "links": [
