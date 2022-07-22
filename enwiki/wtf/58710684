@@ -72,6 +72,11 @@
           "template": "for"
         },
         {
+          "first": "Nunes",
+          "second": "Guedes",
+          "template": "portuguese name"
+        },
+        {
           "year": "1949",
           "month": "08",
           "day": "24",
@@ -94,6 +99,9 @@
           },
           "image": {
             "text": "Jair Bolsonaro e Paulo Guedes em solenidade (cropped).jpg"
+          },
+          "caption": {
+            "text": "Guedes in 2020"
           },
           "office": {
             "text": "Minister of the Economy",
@@ -146,7 +154,7 @@
               }
             ]
           },
-          "education": {
+          "alma_mater": {
             "text": "Federal University of Minas Gerais\n\nGetulio Vargas Foundation\n\nUniversity of Chicago (M.S., Ph.D.)"
           },
           "occupation": {

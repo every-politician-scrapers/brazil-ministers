@@ -100,6 +100,11 @@
       ],
       "templates": [
         {
+          "first": "Brandão",
+          "second": "Aras",
+          "template": "portuguese name"
+        },
+        {
           "year": "1958",
           "month": "12",
           "day": "4",
@@ -177,7 +182,7 @@
               }
             ]
           },
-          "education": {
+          "alma_mater": {
             "text": "Catholic University of Salvador (LL.B.) Federal University of Bahia (LL.M.) Pontifical Catholic University of São Paulo (LL.D.)",
             "links": [
               {
